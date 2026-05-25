@@ -53,7 +53,7 @@ export default function Home() {
       </section>
 
       {/* Schedule */}
-      <section className="flex-1 px-4 pb-24">
+      <section id="schedule" className="flex-1 px-4 pb-24">
         <div className="mx-auto max-w-5xl">
           <h2 className="mb-8 text-2xl font-bold tracking-tight text-white">
             Match Schedule
