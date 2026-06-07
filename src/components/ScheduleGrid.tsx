@@ -5,8 +5,9 @@ import { type Match } from "@/data/matches";
 import { MatchCard } from "@/components/MatchCard";
 
 const STAGE_TABS = [
-  { key: "group", label: "Group Stage" },
+  { key: "group",    label: "Group Stage" },
   { key: "knockout", label: "Knockout" },
+  { key: "metlife",  label: "MetLife" },
 ] as const;
 
 const GROUPS = ["A","B","C","D","E","F","G","H","I","J","K","L"];
@@ -34,9 +35,14 @@ function dayKey(iso: string) {
 }
 
 export function ScheduleGrid({ matches }: { matches: Match[] }) {
-  const [tab, setTab]         = useState<"group" | "knockout">("group");
+  const [tab, setTab]             = useState<"group" | "knockout" | "metlife">("group");
   const [groupView, setGroupView] = useState<"group" | "date">("group");
-  const [group, setGroup]     = useState<string>("A");
+  const [group, setGroup]         = useState<string>("A");
+
+  const metlifeMatches = useMemo(
+    () => matches.filter((m) => m.stadium === "MetLife Stadium"),
+    [matches]
+  );
 
   const groupMatches = useMemo(
     () => matches.filter((m) => m.stage === "group" && m.group === group),
@@ -165,6 +171,19 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
             </div>
           ))}
         </div>
+      )}
+
+      {tab === "metlife" && (
+        <>
+          <p className="mb-6 text-sm text-slate-400">
+            All 8 matches hosted at MetLife Stadium, East Rutherford, NJ. Click any match to find NYC venues.
+          </p>
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {metlifeMatches.map((m) => (
+              <MatchCard key={m.id} match={m} />
+            ))}
+          </div>
+        </>
       )}
     </div>
   );

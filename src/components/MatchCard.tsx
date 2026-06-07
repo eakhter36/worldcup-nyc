@@ -37,14 +37,21 @@ function TeamRow({ code }: { code: string }) {
   if (!team) {
     return (
       <div className="flex items-center gap-2">
-        <span className="text-xl">🏳️</span>
+        <span className="inline-block h-4 w-6 rounded-sm bg-slate-700" />
         <span className="text-base font-semibold text-slate-300">TBD</span>
       </div>
     );
   }
   return (
     <div className="flex items-center gap-2">
-      <span className="text-xl">{team.flag}</span>
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={`https://flagcdn.com/w40/${team.iso2}.png`}
+        width={24}
+        height={16}
+        alt={team.name}
+        className="rounded-sm object-cover"
+      />
       <span className="text-base font-semibold text-white">{team.name}</span>
       <span className="ml-1 text-xs text-slate-500">{team.code}</span>
     </div>

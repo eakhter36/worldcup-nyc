@@ -1,5 +1,6 @@
 import { matches } from "@/data/matches";
 import { ScheduleGrid } from "@/components/ScheduleGrid";
+import { ScheduleCountdown } from "@/components/ScheduleCountdown";
 
 export const metadata = {
   title: "Schedule | World Cup NYC 2026",
@@ -16,13 +17,13 @@ export default function SchedulePage() {
         <h1 className="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
           Full Schedule
         </h1>
-        <p className="mt-2 text-sm text-slate-400">
+        <p className="mt-2 mb-8 text-sm text-slate-400">
           All 104 matches · June 11 – July 19, 2026 · Hover a match to find NYC venues.
         </p>
 
-        <div className="mt-8">
-          <ScheduleGrid matches={matches} />
-        </div>
+        <ScheduleCountdown matches={matches} />
+
+        <ScheduleGrid matches={matches} />
       </div>
     </main>
   );
