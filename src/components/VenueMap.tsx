@@ -9,6 +9,8 @@ export interface VenueMarker {
   venueType: string;
   country: string;
   address: string;
+  neighborhood: string;
+  borough: string;
   lat: number;
   lng: number;
 }
