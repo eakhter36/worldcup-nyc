@@ -1,0 +1,5097 @@
+{
+  "Olivio Bakery & Coffee": {
+    "lat": 40.781677402140275,
+    "lng": -73.97051155995642,
+    "approx": true
+  },
+  "Turkish Bazaar": {
+    "lat": 40.782048993779426,
+    "lng": -73.97196768625913,
+    "approx": true
+  },
+  "Statue City Cruises": {
+    "lat": 40.7120523639453,
+    "lng": -74.01636129888279,
+    "approx": true
+  },
+  "West Bank Gourmet Deli": {
+    "lat": 40.71158927614114,
+    "lng": -74.01662899583353,
+    "approx": true
+  },
+  "Central Park Tavern": {
+    "lat": 40.78276674821823,
+    "lng": -73.9704536590486,
+    "approx": true
+  },
+  "Al Volo - Pier 57": {
+    "lat": 40.74516226678617,
+    "lng": -74.00015702631035,
+    "approx": true
+  },
+  "Ammi": {
+    "lat": 40.745815967905905,
+    "lng": -74.00230322830151,
+    "approx": true
+  },
+  "Barcade": {
+    "lat": 40.74663675367399,
+    "lng": -74.00110801324908,
+    "approx": true
+  },
+  "Bessou": {
+    "lat": 40.74598557851746,
+    "lng": -74.0014614913541,
+    "approx": true
+  },
+  "Bird & Branch Pier 57": {
+    "lat": 40.7474088865118,
+    "lng": -74.00162406249352,
+    "approx": true
+  },
+  "Chote Miya": {
+    "lat": 40.74797453201851,
+    "lng": -74.00148677306912,
+    "approx": true
+  },
+  "Essex Pearl": {
+    "lat": 40.747326774572635,
+    "lng": -74.0020368054267,
+    "approx": true
+  },
+  "Fairfield Inn & Suites Chelsea": {
+    "lat": 40.74733817504063,
+    "lng": -74.00243873956374,
+    "approx": true
+  },
+  "Flannery's Bar": {
+    "lat": 40.74597385956126,
+    "lng": -74.00192341229226,
+    "approx": true
+  },
+  "German House of Soccer (DFB)": {
+    "lat": 40.74719373216595,
+    "lng": -74.00240637635244,
+    "approx": true
+  },
+  "German House of Soccer (GHOS)": {
+    "lat": 40.74787103845993,
+    "lng": -74.00248070135515,
+    "approx": true
+  },
+  "Glizzys NYC": {
+    "lat": 40.74770530719574,
+    "lng": -74.00153206206777,
+    "approx": true
+  },
+  "Hav & Mar": {
+    "lat": 40.74671797382967,
+    "lng": -74.00155426579171,
+    "approx": true
+  },
+  "La Nacional": {
+    "lat": 40.74682415085458,
+    "lng": -74.0028422731657,
+    "approx": true
+  },
+  "Milk and Hops": {
+    "lat": 40.74619280945493,
+    "lng": -74.0015766044845,
+    "approx": true
+  },
+  "Off Side Tavern": {
+    "lat": 40.74545463307005,
+    "lng": -74.00281657281495,
+    "approx": true
+  },
+  "Olde City": {
+    "lat": 40.74630523168115,
+    "lng": -74.00247027066942,
+    "approx": true
+  },
+  "Petite Abeille": {
+    "lat": 40.74794552279344,
+    "lng": -73.999974230975,
+    "approx": true
+  },
+  "Pioneers Bar": {
+    "lat": 40.746232015283525,
+    "lng": -74.00124219236953,
+    "approx": true
+  },
+  "Sappeisan": {
+    "lat": 40.74793993215058,
+    "lng": -74.00045946851161,
+    "approx": true
+  },
+  "Smithfield Hall NYC": {
+    "lat": 40.74654479741861,
+    "lng": -74.00215259551172,
+    "approx": true
+  },
+  "St. Paul's German Church": {
+    "lat": 40.74627766304613,
+    "lng": -74.00167532402484,
+    "approx": true
+  },
+  "Tea and Milk - Chelsea Market": {
+    "lat": 40.745013205773176,
+    "lng": -74.00021118718979,
+    "approx": true
+  },
+  "The Ainsworth Midtown": {
+    "lat": 40.7453132022604,
+    "lng": -74.00258047813436,
+    "approx": true
+  },
+  "The Canuck": {
+    "lat": 40.74539245264304,
+    "lng": -74.00012839516206,
+    "approx": true
+  },
+  "Golden Diner": {
+    "lat": 40.71598506929587,
+    "lng": -73.9961526645417,
+    "approx": true
+  },
+  "Sushi Oku": {
+    "lat": 40.717231021996156,
+    "lng": -73.99823664563108,
+    "approx": true
+  },
+  "Whiskey Tavern": {
+    "lat": 40.71454495827106,
+    "lng": -73.99741244136032,
+    "approx": true
+  },
+  "Flames Indian Aroma": {
+    "lat": 40.78163850160638,
+    "lng": -73.97240526482729,
+    "approx": true
+  },
+  "Frenchy Coffee": {
+    "lat": 40.784509625250124,
+    "lng": -73.97141006361467,
+    "approx": true
+  },
+  "Healthy Frenchy": {
+    "lat": 40.783122350344385,
+    "lng": -73.97087810078074,
+    "approx": true
+  },
+  "Mama T": {
+    "lat": 40.78215725260043,
+    "lng": -73.97123692444022,
+    "approx": true
+  },
+  "11th Street Bar": {
+    "lat": 40.725629154825896,
+    "lng": -73.98208073972664,
+    "approx": true
+  },
+  "Bagel Bobs": {
+    "lat": 40.72651351761106,
+    "lng": -73.98071148632263,
+    "approx": true
+  },
+  "Barcade St Mark's": {
+    "lat": 40.726957075916374,
+    "lng": -73.98208044284648,
+    "approx": true
+  },
+  "Boris and Horton": {
+    "lat": 40.72665815033581,
+    "lng": -73.98180662668288,
+    "approx": true
+  },
+  "Boulton & Watt": {
+    "lat": 40.7275260784316,
+    "lng": -73.98209671533205,
+    "approx": true
+  },
+  "Buenos Aires": {
+    "lat": 40.727500641457695,
+    "lng": -73.9812719524945,
+    "approx": true
+  },
+  "Cafe Mogador": {
+    "lat": 40.726953674868625,
+    "lng": -73.98296276442483,
+    "approx": true
+  },
+  "Cuna Bar": {
+    "lat": 40.72624854677041,
+    "lng": -73.98043203638886,
+    "approx": true
+  },
+  "Downtown Social": {
+    "lat": 40.72664641543921,
+    "lng": -73.98124476143353,
+    "approx": true
+  },
+  "Kafana": {
+    "lat": 40.72685391194682,
+    "lng": -73.98033672562518,
+    "approx": true
+  },
+  "Kelly's Sports Bar": {
+    "lat": 40.726242270144816,
+    "lng": -73.98213255795382,
+    "approx": true
+  },
+  "Lydia's": {
+    "lat": 40.725817927979605,
+    "lng": -73.98172943923858,
+    "approx": true
+  },
+  "McSorley's Old Ale House": {
+    "lat": 40.725312695216935,
+    "lng": -73.98090063401236,
+    "approx": true
+  },
+  "O'Hanlon's Bar": {
+    "lat": 40.726034412841045,
+    "lng": -73.98022646712167,
+    "approx": true
+  },
+  "Osteria Figa": {
+    "lat": 40.72663491198339,
+    "lng": -73.98256593373118,
+    "approx": true
+  },
+  "Phebe's": {
+    "lat": 40.72794220674075,
+    "lng": -73.98235016122636,
+    "approx": true
+  },
+  "Smithfield Downtown (aka The Smith)": {
+    "lat": 40.72560509490933,
+    "lng": -73.98062935824142,
+    "approx": true
+  },
+  "Sozo Sip Bar + Omakase": {
+    "lat": 40.72751510745957,
+    "lng": -73.98284001300281,
+    "approx": true
+  },
+  "The Grafton": {
+    "lat": 40.72643251906477,
+    "lng": -73.98178015096553,
+    "approx": true
+  },
+  "The Hairy Lemon": {
+    "lat": 40.7268934373982,
+    "lng": -73.98260380092597,
+    "approx": true
+  },
+  "The Standings": {
+    "lat": 40.72731223092192,
+    "lng": -73.98158408381558,
+    "approx": true
+  },
+  "The Village Pourhouse": {
+    "lat": 40.72740825478004,
+    "lng": -73.9814011483529,
+    "approx": true
+  },
+  "Veselka": {
+    "lat": 40.72786625565049,
+    "lng": -73.98289310021619,
+    "approx": true
+  },
+  "Antica": {
+    "lat": 40.70818795835195,
+    "lng": -74.01024444880609,
+    "approx": true
+  },
+  "Banh Mi Vinam": {
+    "lat": 40.70693388402018,
+    "lng": -74.01214980724755,
+    "approx": true
+  },
+  "Barcade FiDi": {
+    "lat": 40.70676960833538,
+    "lng": -74.01169117009405,
+    "approx": true
+  },
+  "Berber Street Food": {
+    "lat": 40.70786384419333,
+    "lng": -74.01012276619205,
+    "approx": true
+  },
+  "Boobliq Bagel and Bar": {
+    "lat": 40.7083308547553,
+    "lng": -74.01201555420862,
+    "approx": true
+  },
+  "Cafe Grumpy": {
+    "lat": 40.705980279068015,
+    "lng": -74.01180115535257,
+    "approx": true
+  },
+  "Carragher's Pub & Restaurant": {
+    "lat": 40.70633699674497,
+    "lng": -74.01235782806809,
+    "approx": true
+  },
+  "Clinton Hall FiDi": {
+    "lat": 40.70744549581241,
+    "lng": -74.0107015190304,
+    "approx": true
+  },
+  "Da Claudio": {
+    "lat": 40.70629758422382,
+    "lng": -74.0100333866969,
+    "approx": true
+  },
+  "Dos Pasos": {
+    "lat": 40.708402056156025,
+    "lng": -74.01127053620907,
+    "approx": true
+  },
+  "Fairfield by Marriott Inn & Suites New York Manhattan - Financial District": {
+    "lat": 40.70616495370495,
+    "lng": -74.01247277029908,
+    "approx": true
+  },
+  "Krispy Kreme": {
+    "lat": 40.70754682215727,
+    "lng": -74.01146269532573,
+    "approx": true
+  },
+  "Metropolis by Marcus Samuelsson": {
+    "lat": 40.70817602645285,
+    "lng": -74.01134928012016,
+    "approx": true
+  },
+  "Recreation Bar": {
+    "lat": 40.7077820939419,
+    "lng": -74.01149885979733,
+    "approx": true
+  },
+  "Stout NYC (FiDi)": {
+    "lat": 40.706356755487334,
+    "lng": -74.01166161607757,
+    "approx": true
+  },
+  "The Dead Rabbit": {
+    "lat": 40.70708784813933,
+    "lng": -74.01210635634165,
+    "approx": true
+  },
+  "The Irish American Pub": {
+    "lat": 40.707587001401926,
+    "lng": -74.01234369202693,
+    "approx": true
+  },
+  "Ulysses Folk House": {
+    "lat": 40.70620804337277,
+    "lng": -74.01217117360756,
+    "approx": true
+  },
+  "White Horse Tavern - Financial District": {
+    "lat": 40.70659427695806,
+    "lng": -74.01193785495373,
+    "approx": true
+  },
+  "BXL Zoute": {
+    "lat": 40.742374543387484,
+    "lng": -73.98940898631561,
+    "approx": true
+  },
+  "Markt": {
+    "lat": 40.7422509679269,
+    "lng": -73.99022921337233,
+    "approx": true
+  },
+  "Turnmill NYC": {
+    "lat": 40.74163263811429,
+    "lng": -73.99028097480733,
+    "approx": true
+  },
+  "Barlume": {
+    "lat": 40.78273523191737,
+    "lng": -73.97028566824991,
+    "approx": true
+  },
+  "Harry Potter Shop New York": {
+    "lat": 40.78426650890184,
+    "lng": -73.96984390091846,
+    "approx": true
+  },
+  "La Tete d'Or": {
+    "lat": 40.783210734319205,
+    "lng": -73.97013936170596,
+    "approx": true
+  },
+  "Broken Shaker": {
+    "lat": 40.752263180685404,
+    "lng": -73.99639860913744,
+    "approx": true
+  },
+  "Gabby O’ Hara's": {
+    "lat": 40.7531854178245,
+    "lng": -73.99633986468066,
+    "approx": true
+  },
+  "Gosuke": {
+    "lat": 40.75229750574209,
+    "lng": -73.99850428881248,
+    "approx": true
+  },
+  "Kajiken Ramen": {
+    "lat": 40.7528618134798,
+    "lng": -73.99757128840432,
+    "approx": true
+  },
+  "The Soccer Republic": {
+    "lat": 40.75158694324723,
+    "lng": -73.9979786853212,
+    "approx": true
+  },
+  "Barfly Bar": {
+    "lat": 40.73700821388887,
+    "lng": -73.98321189951425,
+    "approx": true
+  },
+  "Fitzgeralds Pub": {
+    "lat": 40.73882579213904,
+    "lng": -73.98271685806249,
+    "approx": true
+  },
+  "Irving Farm Coffee Roasters": {
+    "lat": 40.737883605848666,
+    "lng": -73.98298373163793,
+    "approx": true
+  },
+  "Paddy Maguire's Ale House": {
+    "lat": 40.737974259328176,
+    "lng": -73.98450705087211,
+    "approx": true
+  },
+  "Pete's Tavern": {
+    "lat": 40.73841873808224,
+    "lng": -73.98292002385786,
+    "approx": true
+  },
+  "Seven Sins": {
+    "lat": 40.739292132829135,
+    "lng": -73.98509852541959,
+    "approx": true
+  },
+  "The Globe Pub": {
+    "lat": 40.73671904845352,
+    "lng": -73.9851688701482,
+    "approx": true
+  },
+  "Blue Haven": {
+    "lat": 40.73327821724689,
+    "lng": -74.00172357294339,
+    "approx": true
+  },
+  "Chow House": {
+    "lat": 40.732177745757085,
+    "lng": -74.00313715484604,
+    "approx": true
+  },
+  "GMT Tavern": {
+    "lat": 40.73286457558545,
+    "lng": -74.00193461087224,
+    "approx": true
+  },
+  "Off the Wagon": {
+    "lat": 40.73184616248895,
+    "lng": -74.00064856129171,
+    "approx": true
+  },
+  "Panineria - Greenwich Village": {
+    "lat": 40.732457399018124,
+    "lng": -74.00282981650997,
+    "approx": true
+  },
+  "Reservoir": {
+    "lat": 40.73125277976054,
+    "lng": -74.00109268945204,
+    "approx": true
+  },
+  "Ribalta": {
+    "lat": 40.73346469138,
+    "lng": -73.991860500648,
+    "approx": false
+  },
+  "The Red Lion": {
+    "lat": 40.73263599388243,
+    "lng": -74.00057191680382,
+    "approx": true
+  },
+  "Uncle Ted's": {
+    "lat": 40.78384268560852,
+    "lng": -73.97194021529783,
+    "approx": true
+  },
+  "At the Wallace": {
+    "lat": 40.82143816491015,
+    "lng": -73.95013540427159,
+    "approx": true
+  },
+  "Harlem Public": {
+    "lat": 40.82306978049157,
+    "lng": -73.9491053612233,
+    "approx": true
+  },
+  "L'Artista": {
+    "lat": 40.82196725351789,
+    "lng": -73.95030536483324,
+    "approx": true
+  },
+  "Accra Restaurant": {
+    "lat": 40.81067759733759,
+    "lng": -73.94565729367577,
+    "approx": true
+  },
+  "Africa Kine Restaurant": {
+    "lat": 40.81299872873106,
+    "lng": -73.94521646647546,
+    "approx": true
+  },
+  "Awaze Ethiopian Cuisine": {
+    "lat": 40.812826088504984,
+    "lng": -73.94610782683783,
+    "approx": true
+  },
+  "Corner Social": {
+    "lat": 40.812035352179606,
+    "lng": -73.9457405533428,
+    "approx": true
+  },
+  "Harlem Tavern": {
+    "lat": 40.810820101718704,
+    "lng": -73.94658183293875,
+    "approx": true
+  },
+  "HRT": {
+    "lat": 40.81031747040977,
+    "lng": -73.94665582593733,
+    "approx": true
+  },
+  "Le Petit Senegal (116th St corridor)": {
+    "lat": 40.812505506495576,
+    "lng": -73.94722498679464,
+    "approx": true
+  },
+  "Lucille’s": {
+    "lat": 40.812236738618644,
+    "lng": -73.9461314328606,
+    "approx": true
+  },
+  "Native Harlem": {
+    "lat": 40.81212092666179,
+    "lng": -73.94559402776001,
+    "approx": true
+  },
+  "Pikine Restaurant": {
+    "lat": 40.81119023686713,
+    "lng": -73.94513470182646,
+    "approx": true
+  },
+  "Ponty Bistro Harlem": {
+    "lat": 40.811395761148134,
+    "lng": -73.94795463969679,
+    "approx": true
+  },
+  "Sylvia's Restaurant": {
+    "lat": 40.81235257337483,
+    "lng": -73.9473811614637,
+    "approx": true
+  },
+  "Winnie Said": {
+    "lat": 40.813001805405605,
+    "lng": -73.94628332138642,
+    "approx": true
+  },
+  "Churrascaria Plataforma": {
+    "lat": 40.764586610955824,
+    "lng": -73.99133394903058,
+    "approx": true
+  },
+  "Clinton Hall 51st Street": {
+    "lat": 40.76474501294079,
+    "lng": -73.9913419728228,
+    "approx": true
+  },
+  "Dalton's Bar & Grill": {
+    "lat": 40.76309395039256,
+    "lng": -73.99246936112633,
+    "approx": true
+  },
+  "Fanatics Fest NYC x FIFA": {
+    "lat": 40.765049160147825,
+    "lng": -73.99306820573247,
+    "approx": true
+  },
+  "Hibernia Bar": {
+    "lat": 40.762635893845435,
+    "lng": -73.99180672683919,
+    "approx": true
+  },
+  "Mr. Biggs": {
+    "lat": 40.7624653951749,
+    "lng": -73.99094768669876,
+    "approx": true
+  },
+  "Rice N Beans": {
+    "lat": 40.764696452918905,
+    "lng": -73.99032105069867,
+    "approx": true
+  },
+  "Tagine Dining Gallery": {
+    "lat": 40.76288900702004,
+    "lng": -73.99168345935169,
+    "approx": true
+  },
+  "The Gaf West": {
+    "lat": 40.76293488872763,
+    "lng": -73.99071673968218,
+    "approx": true
+  },
+  "Bird & Branch": {
+    "lat": 40.783713533270586,
+    "lng": -73.97232357439444,
+    "approx": true
+  },
+  "Cubby's": {
+    "lat": 40.78268647410332,
+    "lng": -73.972640269181,
+    "approx": true
+  },
+  "Fashion Bar": {
+    "lat": 40.783502107138,
+    "lng": -73.96976923046174,
+    "approx": true
+  },
+  "Gastro @ 35": {
+    "lat": 40.78432110808704,
+    "lng": -73.97267075960735,
+    "approx": true
+  },
+  "Hudson VU": {
+    "lat": 40.784128673734806,
+    "lng": -73.96984613348863,
+    "approx": true
+  },
+  "So & So's": {
+    "lat": 40.78335221801797,
+    "lng": -73.97165391300422,
+    "approx": true
+  },
+  "The Backyard at Hudson Yards": {
+    "lat": 40.75383159723511,
+    "lng": -74.00342682616152,
+    "approx": true
+  },
+  "Dyckman Beer Co": {
+    "lat": 40.86820111708571,
+    "lng": -73.91991936637555,
+    "approx": true
+  },
+  "Inwood Local": {
+    "lat": 40.86612715707842,
+    "lng": -73.92237314032405,
+    "approx": true
+  },
+  "Mamajuana Cafe": {
+    "lat": 40.86766046238665,
+    "lng": -73.9226766978452,
+    "approx": true
+  },
+  "Failte Irish Pub": {
+    "lat": 40.74391681479951,
+    "lng": -73.97946103886491,
+    "approx": true
+  },
+  "Paddy Reilly's Music Bar": {
+    "lat": 40.74234057187097,
+    "lng": -73.9786672840442,
+    "approx": true
+  },
+  "Tavern on Third": {
+    "lat": 40.742279752134124,
+    "lng": -73.9794695496074,
+    "approx": true
+  },
+  "The Dog and Bone": {
+    "lat": 40.743900419457304,
+    "lng": -73.97720367197589,
+    "approx": true
+  },
+  "Bangia": {
+    "lat": 40.74677380110865,
+    "lng": -73.98823306510256,
+    "approx": true
+  },
+  "Pocha 32": {
+    "lat": 40.74884703938867,
+    "lng": -73.98631860387187,
+    "approx": true
+  },
+  "Lunella Ristorante": {
+    "lat": 40.71817869848307,
+    "lng": -73.99602081332505,
+    "approx": true
+  },
+  "Graffito Bar NYC": {
+    "lat": 40.716252516264035,
+    "lng": -73.98490386882743,
+    "approx": true
+  },
+  "Grey Lady": {
+    "lat": 40.71715553599885,
+    "lng": -73.98579220110439,
+    "approx": true
+  },
+  "Hair of the Dog": {
+    "lat": 40.71497369108804,
+    "lng": -73.98700968723372,
+    "approx": true
+  },
+  "Les Enfants de Boheme": {
+    "lat": 40.71637212857704,
+    "lng": -73.98635925875783,
+    "approx": true
+  },
+  "Loreley Beer Garden": {
+    "lat": 40.71575896149013,
+    "lng": -73.98501420297457,
+    "approx": true
+  },
+  "No One Home": {
+    "lat": 40.715167911682315,
+    "lng": -73.98757065014556,
+    "approx": true
+  },
+  "Taqueria Diana (Orchard)": {
+    "lat": 40.71576017116293,
+    "lng": -73.98703568278243,
+    "approx": true
+  },
+  "The Bowery Beer Garden": {
+    "lat": 40.716432751063934,
+    "lng": -73.98620143759199,
+    "approx": true
+  },
+  "The Skinny Bar & Lounge": {
+    "lat": 40.71471127414029,
+    "lng": -73.98621982156814,
+    "approx": true
+  },
+  "Bill's Bar & Burger—Downtown": {
+    "lat": 40.78288329405196,
+    "lng": -73.97046848477044,
+    "approx": true
+  },
+  "Eataly NYC Downtown": {
+    "lat": 40.78357806387462,
+    "lng": -73.9709493784971,
+    "approx": true
+  },
+  "Estelle's": {
+    "lat": 40.783727029489945,
+    "lng": -73.97176390854109,
+    "approx": true
+  },
+  "Puttery": {
+    "lat": 40.784139601732285,
+    "lng": -73.96991084685064,
+    "approx": true
+  },
+  "Casa Toscana": {
+    "lat": 40.754026838331754,
+    "lng": -73.98465274754466,
+    "approx": true
+  },
+  "Clinton Hall 36th Street": {
+    "lat": 40.75380414787731,
+    "lng": -73.98414984139283,
+    "approx": true
+  },
+  "Foley's NY": {
+    "lat": 40.75517766720436,
+    "lng": -73.9854400659032,
+    "approx": true
+  },
+  "Football Factory at Legends": {
+    "lat": 40.755001976907984,
+    "lng": -73.98443146949843,
+    "approx": true
+  },
+  "Jack Demsey's": {
+    "lat": 40.75468267553297,
+    "lng": -73.98462422317702,
+    "approx": true
+  },
+  "Le Pavillon": {
+    "lat": 40.75352193829239,
+    "lng": -73.98253334102316,
+    "approx": true
+  },
+  "Legends NYC (7th Ave)": {
+    "lat": 40.75617047196845,
+    "lng": -73.98409649107435,
+    "approx": true
+  },
+  "McHale's Bar & Grill": {
+    "lat": 40.75386933854878,
+    "lng": -73.98275268100147,
+    "approx": true
+  },
+  "Molly Wee Pub": {
+    "lat": 40.754751878294435,
+    "lng": -73.98336699824897,
+    "approx": true
+  },
+  "NYNJ Fan Village at Rockefeller Center": {
+    "lat": 40.7558417007263,
+    "lng": -73.9832113981325,
+    "approx": true
+  },
+  "NYNJ World Cup 26 & Telemundo Fan Village at Rockefeller Center": {
+    "lat": 40.75609414411713,
+    "lng": -73.98304664064575,
+    "approx": true
+  },
+  "P.J. Carney's (Midtown)": {
+    "lat": 40.75561021623558,
+    "lng": -73.9845480989558,
+    "approx": true
+  },
+  "Pavé": {
+    "lat": 40.75521364588727,
+    "lng": -73.98435137164687,
+    "approx": true
+  },
+  "Playwright Celtic Pub": {
+    "lat": 40.7557657456131,
+    "lng": -73.98477207222491,
+    "approx": true
+  },
+  "Playwright Irish Pub": {
+    "lat": 40.7555065462589,
+    "lng": -73.98374448522543,
+    "approx": true
+  },
+  "Reichenbach Hall": {
+    "lat": 40.756070617141646,
+    "lng": -73.98489202000883,
+    "approx": true
+  },
+  "Rosie O'Grady's": {
+    "lat": 40.7563117321341,
+    "lng": -73.98521906798085,
+    "approx": true
+  },
+  "Rosie's Sports Pub & Grill": {
+    "lat": 40.75516075773566,
+    "lng": -73.98442519383963,
+    "approx": true
+  },
+  "Sean's Bar & Kitchen": {
+    "lat": 40.75589699786803,
+    "lng": -73.98419023160443,
+    "approx": true
+  },
+  "Stout NYC (Midtown)": {
+    "lat": 40.75631944513279,
+    "lng": -73.98511204681918,
+    "approx": true
+  },
+  "Tor na nOg (Penn Station)": {
+    "lat": 40.75422446013164,
+    "lng": -73.98354331859706,
+    "approx": true
+  },
+  "Up On 20": {
+    "lat": 40.75492233006238,
+    "lng": -73.98467906974105,
+    "approx": true
+  },
+  "Via Brasil": {
+    "lat": 40.75421456810572,
+    "lng": -73.98455150211113,
+    "approx": true
+  },
+  "All'Antico Vinaio": {
+    "lat": 40.75249349129755,
+    "lng": -73.97151954995064,
+    "approx": true
+  },
+  "Allora": {
+    "lat": 40.75253552211394,
+    "lng": -73.9713405523143,
+    "approx": true
+  },
+  "Bookmarks": {
+    "lat": 40.75197108719585,
+    "lng": -73.97247282176927,
+    "approx": true
+  },
+  "Connolly's Klub 45": {
+    "lat": 40.75198931367923,
+    "lng": -73.97324591991223,
+    "approx": true
+  },
+  "Cornerstone Tavern": {
+    "lat": 40.7525214960881,
+    "lng": -73.97381547092142,
+    "approx": true
+  },
+  "Doughnut Plant - Grand Central": {
+    "lat": 40.75191401334715,
+    "lng": -73.97278102557405,
+    "approx": true
+  },
+  "Fresco by Scotto": {
+    "lat": 40.75142028624681,
+    "lng": -73.97308565483988,
+    "approx": true
+  },
+  "Grand Brasserie": {
+    "lat": 40.752304085053886,
+    "lng": -73.97345019205311,
+    "approx": true
+  },
+  "Hampton Inn Grand Central": {
+    "lat": 40.751823228017074,
+    "lng": -73.97375133335905,
+    "approx": true
+  },
+  "Joy Curry and Tandoor": {
+    "lat": 40.75412016468738,
+    "lng": -73.97100341522336,
+    "approx": true
+  },
+  "La Piazza": {
+    "lat": 40.75377754935093,
+    "lng": -73.973173274774,
+    "approx": true
+  },
+  "Lobel's Original": {
+    "lat": 40.75415842992893,
+    "lng": -73.97186867747202,
+    "approx": true
+  },
+  "M J Smith's": {
+    "lat": 40.7514867620427,
+    "lng": -73.97253393990884,
+    "approx": true
+  },
+  "McFadden's": {
+    "lat": 40.75251579650933,
+    "lng": -73.97359091575345,
+    "approx": true
+  },
+  "Overlook Lounge": {
+    "lat": 40.752408155849736,
+    "lng": -73.97266279134216,
+    "approx": true
+  },
+  "Park Ave Kitchen by David Burke": {
+    "lat": 40.75372780300623,
+    "lng": -73.97236880656071,
+    "approx": true
+  },
+  "Philippe Chow Fifth Avenue": {
+    "lat": 40.75428242436478,
+    "lng": -73.97242876935876,
+    "approx": true
+  },
+  "Stout NYC - Grand Central": {
+    "lat": 40.75300026669634,
+    "lng": -73.97375725570679,
+    "approx": true
+  },
+  "T-Squared SOcial": {
+    "lat": 40.754231166192724,
+    "lng": -73.97279874412084,
+    "approx": true
+  },
+  "TFS Burger Works": {
+    "lat": 40.75172282521187,
+    "lng": -73.97364191022601,
+    "approx": true
+  },
+  "The Fitz": {
+    "lat": 40.75210890648191,
+    "lng": -73.97243792452616,
+    "approx": true
+  },
+  "The Parliament": {
+    "lat": 40.75325264213197,
+    "lng": -73.97368201689528,
+    "approx": true
+  },
+  "The Pig 'n' Whistle on 3rd": {
+    "lat": 40.753142395196285,
+    "lng": -73.97188111230166,
+    "approx": true
+  },
+  "The Public House": {
+    "lat": 40.75283836757867,
+    "lng": -73.97218852381611,
+    "approx": true
+  },
+  "Ai Fiori": {
+    "lat": 40.749801436419,
+    "lng": -73.983651393353,
+    "approx": false
+  },
+  "Haswell Green's": {
+    "lat": 40.75909117154653,
+    "lng": -73.99372268100956,
+    "approx": true
+  },
+  "Jack Doyle's": {
+    "lat": 40.75739236356648,
+    "lng": -73.99120853364116,
+    "approx": true
+  },
+  "Oceana": {
+    "lat": 40.75909907845107,
+    "lng": -73.99209881997152,
+    "approx": true
+  },
+  "The Carnegie Club": {
+    "lat": 40.75854637337335,
+    "lng": -73.99298208155696,
+    "approx": true
+  },
+  "The Empire Rooftop": {
+    "lat": 40.75921395807385,
+    "lng": -73.99292898142666,
+    "approx": true
+  },
+  "The Placery": {
+    "lat": 40.75684557948806,
+    "lng": -73.99210682361259,
+    "approx": true
+  },
+  "The Three Monkeys": {
+    "lat": 40.758264097748786,
+    "lng": -73.99312328227009,
+    "approx": true
+  },
+  "Twenty-Sevens": {
+    "lat": 40.75656992075147,
+    "lng": -73.99135994899939,
+    "approx": true
+  },
+  "YAMA RAMEN": {
+    "lat": 40.75923731619617,
+    "lng": -73.99137784428626,
+    "approx": true
+  },
+  "Tropical Sensation": {
+    "lat": 40.782069673045626,
+    "lng": -73.97224456312064,
+    "approx": true
+  },
+  "Peter Dillon's": {
+    "lat": 40.74659552413896,
+    "lng": -73.97661681609551,
+    "approx": true
+  },
+  "Wagamama - Murray Hill": {
+    "lat": 40.746910142232444,
+    "lng": -73.97702932557402,
+    "approx": true
+  },
+  "Bleecker Street Bar": {
+    "lat": 40.78350568838372,
+    "lng": -73.97258389430034,
+    "approx": true
+  },
+  "Jac’s on Bond": {
+    "lat": 40.78226610035062,
+    "lng": -73.96973422398655,
+    "approx": true
+  },
+  "Crossbar": {
+    "lat": 40.725050597041374,
+    "lng": -73.99324210411852,
+    "approx": true
+  },
+  "Rocco's Sports & Rec": {
+    "lat": 40.72507832319009,
+    "lng": -73.99469635918936,
+    "approx": true
+  },
+  "Slainte Bar & Lounge": {
+    "lat": 40.72590563135509,
+    "lng": -73.9937823993336,
+    "approx": true
+  },
+  "La Esquina": {
+    "lat": 40.722439745479065,
+    "lng": -73.99415998592231,
+    "approx": true
+  },
+  "Spring Lounge": {
+    "lat": 40.72376110544949,
+    "lng": -73.99660721624981,
+    "approx": true
+  },
+  "Allora Ristorante - 5th Avenue": {
+    "lat": 40.783807973114655,
+    "lng": -73.97000954717366,
+    "approx": true
+  },
+  "Everdene": {
+    "lat": 40.782211557756305,
+    "lng": -73.9718950248782,
+    "approx": true
+  },
+  "Swingers, the crazy golf club": {
+    "lat": 40.7834893307992,
+    "lng": -73.97157905130602,
+    "approx": true
+  },
+  "Grey Bar & Restaurant": {
+    "lat": 40.745540803333455,
+    "lng": -73.98775061812032,
+    "approx": true
+  },
+  "The Churchill Tavern": {
+    "lat": 40.74533603719997,
+    "lng": -73.98882455783337,
+    "approx": true
+  },
+  "Balthazar Bakery - Soho": {
+    "lat": 40.78163996704482,
+    "lng": -73.96987630100574,
+    "approx": true
+  },
+  "Balthazar Restaurant": {
+    "lat": 40.78376068290358,
+    "lng": -73.9718602664973,
+    "approx": true
+  },
+  "Felix": {
+    "lat": 40.724270376792866,
+    "lng": -74.00291001507995,
+    "approx": true
+  },
+  "Grand Street Social": {
+    "lat": 40.72239850289828,
+    "lng": -74.00394304587614,
+    "approx": true
+  },
+  "Cowgirl SeaHorse": {
+    "lat": 40.784240243884895,
+    "lng": -73.96980905389049,
+    "approx": true
+  },
+  "Sadie's": {
+    "lat": 40.781829967957904,
+    "lng": -73.97086150004537,
+    "approx": true
+  },
+  "Urban Cove Society & Kitchen": {
+    "lat": 40.78165076761612,
+    "lng": -73.97263400241842,
+    "approx": true
+  },
+  "BXL Cafe": {
+    "lat": 40.757980444846275,
+    "lng": -73.98371013453107,
+    "approx": true
+  },
+  "Hurley's Saloon": {
+    "lat": 40.75805768624515,
+    "lng": -73.98444619474131,
+    "approx": true
+  },
+  "Langan's": {
+    "lat": 40.75821213886482,
+    "lng": -73.98481488709508,
+    "approx": true
+  },
+  "Lillie's Victorian Establishment": {
+    "lat": 40.759346178329224,
+    "lng": -73.9857792270484,
+    "approx": true
+  },
+  "The Perfect Pint": {
+    "lat": 40.75794010424636,
+    "lng": -73.98558166799008,
+    "approx": true
+  },
+  "Generator World Cup Viewing": {
+    "lat": 40.756864164983654,
+    "lng": -73.98467897833137,
+    "approx": true
+  },
+  "Lagos TSQ": {
+    "lat": 40.75761869270506,
+    "lng": -73.98553541735535,
+    "approx": true
+  },
+  "Long Acre Tavern": {
+    "lat": 40.7572242747968,
+    "lng": -73.9852337840169,
+    "approx": true
+  },
+  "Printers Alley": {
+    "lat": 40.75719106956782,
+    "lng": -73.98400489688126,
+    "approx": true
+  },
+  "Allora Ristorante - Times Square": {
+    "lat": 40.781717857269086,
+    "lng": -73.97086644141181,
+    "approx": true
+  },
+  "Ameritania Bar": {
+    "lat": 40.783272500406504,
+    "lng": -73.96984339737446,
+    "approx": true
+  },
+  "Bar 54": {
+    "lat": 40.782779003274825,
+    "lng": -73.9721058672256,
+    "approx": true
+  },
+  "Bar Sprezzatura": {
+    "lat": 40.78274243121196,
+    "lng": -73.9715758437211,
+    "approx": true
+  },
+  "Bridges Bar": {
+    "lat": 40.78377212600605,
+    "lng": -73.97151490617487,
+    "approx": true
+  },
+  "Brooklyn Chop House Times Square": {
+    "lat": 40.78355127683175,
+    "lng": -73.97211152693855,
+    "approx": true
+  },
+  "Cue 48": {
+    "lat": 40.78326531602295,
+    "lng": -73.97163228772767,
+    "approx": true
+  },
+  "Dallas BBQ": {
+    "lat": 40.78297520740978,
+    "lng": -73.97261869825398,
+    "approx": true
+  },
+  "Dave & Buster's - Times Square": {
+    "lat": 40.782743815542844,
+    "lng": -73.9709359794575,
+    "approx": true
+  },
+  "Element by Marriott New York - Times Square West": {
+    "lat": 40.78459654604214,
+    "lng": -73.97045480836447,
+    "approx": true
+  },
+  "Haven Rooftop": {
+    "lat": 40.78389244989679,
+    "lng": -73.97084422325463,
+    "approx": true
+  },
+  "KungFu Kitchen - Times Square": {
+    "lat": 40.78445340858075,
+    "lng": -73.9716312869747,
+    "approx": true
+  },
+  "Lobby Lounge": {
+    "lat": 40.78428773590366,
+    "lng": -73.97264627437694,
+    "approx": true
+  },
+  "Masseria Caffè - Midtown": {
+    "lat": 40.78380775283547,
+    "lng": -73.97165590011508,
+    "approx": true
+  },
+  "Planet Hollywood NYC": {
+    "lat": 40.78348555584141,
+    "lng": -73.97044002281787,
+    "approx": true
+  },
+  "sir henry's": {
+    "lat": 40.783978927231644,
+    "lng": -73.97172316796335,
+    "approx": true
+  },
+  "St. Cloud Rooftop Bar": {
+    "lat": 40.78417996830966,
+    "lng": -73.97124400684223,
+    "approx": true
+  },
+  "Sushi Lab Rooftop NYC": {
+    "lat": 40.78354001961537,
+    "lng": -73.97133236534266,
+    "approx": true
+  },
+  "T45 Market": {
+    "lat": 40.78257364205426,
+    "lng": -73.97122217709403,
+    "approx": true
+  },
+  "The Independent NYC": {
+    "lat": 40.782292241341956,
+    "lng": -73.97250750989905,
+    "approx": true
+  },
+  "The Martini Lounge": {
+    "lat": 40.78439714087463,
+    "lng": -73.97017055524817,
+    "approx": true
+  },
+  "The Stinger Cocktail Bar & Kitchen": {
+    "lat": 40.78416849868913,
+    "lng": -73.97049954300562,
+    "approx": true
+  },
+  "The Three Monkeys Bar": {
+    "lat": 40.78303466214069,
+    "lng": -73.97012956539204,
+    "approx": true
+  },
+  "Three Kingdoms Xita BBQ": {
+    "lat": 40.784001425872745,
+    "lng": -73.97041780997554,
+    "approx": true
+  },
+  "Virgil's Real BBQ - Times Square": {
+    "lat": 40.781606671568525,
+    "lng": -73.97261152545022,
+    "approx": true
+  },
+  "Wasabi Sushi + Bento": {
+    "lat": 40.78328312675981,
+    "lng": -73.9718242777967,
+    "approx": true
+  },
+  "1803Nyc": {
+    "lat": 40.71687319466856,
+    "lng": -74.00933884103453,
+    "approx": true
+  },
+  "Fonda - Tribeca": {
+    "lat": 40.71755449708908,
+    "lng": -74.00714450165881,
+    "approx": true
+  },
+  "Grandaisy Bakery": {
+    "lat": 40.71756514935045,
+    "lng": -74.00895685665772,
+    "approx": true
+  },
+  "Mudville": {
+    "lat": 40.716226274640206,
+    "lng": -74.0089014060876,
+    "approx": true
+  },
+  "Nancy Whiskey Pub": {
+    "lat": 40.717609829213025,
+    "lng": -74.00790471484711,
+    "approx": true
+  },
+  "Rosa Wine Lounge": {
+    "lat": 40.7159116261626,
+    "lng": -74.00955438618911,
+    "approx": true
+  },
+  "Tara Kitchen Tribeca": {
+    "lat": 40.716130333473835,
+    "lng": -74.00784286080957,
+    "approx": true
+  },
+  "Upon the Palace": {
+    "lat": 40.71514955358801,
+    "lng": -74.0089862718908,
+    "approx": true
+  },
+  "Bar Chucho": {
+    "lat": 40.784323999857925,
+    "lng": -73.9705165241296,
+    "approx": true
+  },
+  "Fairfield Inn & Suites Manhattan – Downtown East": {
+    "lat": 40.784180446041155,
+    "lng": -73.97015495885601,
+    "approx": true
+  },
+  "Barn Joo": {
+    "lat": 40.736402654440674,
+    "lng": -73.9906190586854,
+    "approx": true
+  },
+  "BKLYNwild/Time Out Market": {
+    "lat": 40.73634597462943,
+    "lng": -73.99121053601134,
+    "approx": true
+  },
+  "Old Town Bar": {
+    "lat": 40.73671721049221,
+    "lng": -73.99116190280847,
+    "approx": true
+  },
+  "Union Square Park": {
+    "lat": 40.73731760698327,
+    "lng": -73.98920901735964,
+    "approx": true
+  },
+  "Baker Street Irregulars": {
+    "lat": 40.77501295300635,
+    "lng": -73.95646350791874,
+    "approx": true
+  },
+  "Bareburger": {
+    "lat": 40.77175984206335,
+    "lng": -73.93044892867738,
+    "approx": true
+  },
+  "Brady's Bar": {
+    "lat": 40.775097551101986,
+    "lng": -73.95510789098292,
+    "approx": true
+  },
+  "Brooklyn Dumpling Shop - UES": {
+    "lat": 40.77268493084663,
+    "lng": -73.95548920888987,
+    "approx": true
+  },
+  "Brother Jimmy's BBQ (UES)": {
+    "lat": 40.77458998697943,
+    "lng": -73.95736156775604,
+    "approx": true
+  },
+  "Butterly Bakeshop": {
+    "lat": 40.6583459767787,
+    "lng": -73.98620131246184,
+    "approx": true
+  },
+  "Cafe d'Alsace": {
+    "lat": 40.772871450329184,
+    "lng": -73.95805592371858,
+    "approx": true
+  },
+  "Dorrian's Red Hand": {
+    "lat": 40.77253650355446,
+    "lng": -73.95542064422634,
+    "approx": true
+  },
+  "Dylan Murphy's": {
+    "lat": 40.776259895871,
+    "lng": -73.955766644109,
+    "approx": false
+  },
+  "Heidelberg Restaurant": {
+    "lat": 40.77347482792857,
+    "lng": -73.95749640957058,
+    "approx": true
+  },
+  "Jones Wood Foundry": {
+    "lat": 40.772510060545684,
+    "lng": -73.95662978381323,
+    "approx": true
+  },
+  "Kelly's Sports Bar (UES)": {
+    "lat": 40.77243519289327,
+    "lng": -73.95713297166795,
+    "approx": true
+  },
+  "Keuka Wine Bar & Kitchen": {
+    "lat": 40.774842114778444,
+    "lng": -73.95631476776454,
+    "approx": true
+  },
+  "La Esquina UES": {
+    "lat": 40.772816179239626,
+    "lng": -73.95765509966508,
+    "approx": true
+  },
+  "Meller’s Sports Hub & Grill": {
+    "lat": 40.7736229692214,
+    "lng": -73.95661572673767,
+    "approx": true
+  },
+  "Persepolis": {
+    "lat": 40.772136314243824,
+    "lng": -73.956422212834,
+    "approx": true
+  },
+  "Rathbones Pub": {
+    "lat": 40.774325336978926,
+    "lng": -73.95590876164482,
+    "approx": true
+  },
+  "Ryan's Daughter": {
+    "lat": 40.774486474299344,
+    "lng": -73.95541400135285,
+    "approx": true
+  },
+  "Sushi of Gari UES": {
+    "lat": 40.77330152173576,
+    "lng": -73.95550985427977,
+    "approx": true
+  },
+  "Tanoshi Sushi Sake Bar": {
+    "lat": 40.772862684695305,
+    "lng": -73.95544543043572,
+    "approx": true
+  },
+  "The Gael Pub": {
+    "lat": 40.773024636814924,
+    "lng": -73.95755275586448,
+    "approx": true
+  },
+  "The Penrose": {
+    "lat": 40.774788009925004,
+    "lng": -73.95595610014601,
+    "approx": true
+  },
+  "The Raven Pub": {
+    "lat": 40.77354206049727,
+    "lng": -73.95670988618483,
+    "approx": true
+  },
+  "Amsterdam Ale House": {
+    "lat": 40.787323863716146,
+    "lng": -73.97615764364414,
+    "approx": true
+  },
+  "Atlas Kitchen": {
+    "lat": 40.78657322120588,
+    "lng": -73.97501932417092,
+    "approx": true
+  },
+  "Bar Manje": {
+    "lat": 40.787428191914316,
+    "lng": -73.9740116106698,
+    "approx": true
+  },
+  "Blondies Sports": {
+    "lat": 40.78613349432287,
+    "lng": -73.97477768169138,
+    "approx": true
+  },
+  "Blondies Sports Bar": {
+    "lat": 40.78801241600529,
+    "lng": -73.9744855721196,
+    "approx": true
+  },
+  "Carmine's - Upper West Side": {
+    "lat": 40.78597469134007,
+    "lng": -73.9743807748117,
+    "approx": true
+  },
+  "City Coffee & Bar": {
+    "lat": 40.787403539190194,
+    "lng": -73.97470355305228,
+    "approx": true
+  },
+  "Clara": {
+    "lat": 40.7869149962837,
+    "lng": -73.9740935391994,
+    "approx": true
+  },
+  "Dive Bar": {
+    "lat": 40.787809181448274,
+    "lng": -73.97525529673727,
+    "approx": true
+  },
+  "e's BAR": {
+    "lat": 40.785953530587115,
+    "lng": -73.97434925304046,
+    "approx": true
+  },
+  "Fred's": {
+    "lat": 40.78566824028816,
+    "lng": -73.97544141986249,
+    "approx": true
+  },
+  "George Keeley": {
+    "lat": 40.786744001779766,
+    "lng": -73.97474901548661,
+    "approx": true
+  },
+  "Grand Bazaar NYC": {
+    "lat": 40.787700435781524,
+    "lng": -73.97610587290141,
+    "approx": true
+  },
+  "Il Violino": {
+    "lat": 40.7868611876538,
+    "lng": -73.97465957708322,
+    "approx": true
+  },
+  "Jake's Dilemma": {
+    "lat": 40.78788417804308,
+    "lng": -73.97515271253108,
+    "approx": true
+  },
+  "Malachy's Irish Pub": {
+    "lat": 40.78788495823824,
+    "lng": -73.97451375752104,
+    "approx": true
+  },
+  "Nina's Great Burrito Bar": {
+    "lat": 40.787560457117806,
+    "lng": -73.97469125600675,
+    "approx": true
+  },
+  "Panineria - Upper West Side": {
+    "lat": 40.78762059080139,
+    "lng": -73.97622507210072,
+    "approx": true
+  },
+  "Peperino": {
+    "lat": 40.78846697000451,
+    "lng": -73.97533346717799,
+    "approx": true
+  },
+  "Prohibition": {
+    "lat": 40.78644887619905,
+    "lng": -73.97621440307968,
+    "approx": true
+  },
+  "Sushi of Gari - UWS (Gari Columbus)": {
+    "lat": 40.78583028094611,
+    "lng": -73.976796188075,
+    "approx": true
+  },
+  "The Dead Poet": {
+    "lat": 40.787395953312384,
+    "lng": -73.97421701160518,
+    "approx": true
+  },
+  "The Dublin House": {
+    "lat": 40.78686209053686,
+    "lng": -73.97409498497305,
+    "approx": true
+  },
+  "The Ellington": {
+    "lat": 40.78797978673641,
+    "lng": -73.97493084531499,
+    "approx": true
+  },
+  "The Gin Mill": {
+    "lat": 40.78569647017212,
+    "lng": -73.97649713127463,
+    "approx": true
+  },
+  "The Migrant Kitchen - Upper West Side": {
+    "lat": 40.788312728796136,
+    "lng": -73.97397586175032,
+    "approx": true
+  },
+  "The Parlour": {
+    "lat": 40.78605741530015,
+    "lng": -73.97465204441076,
+    "approx": true
+  },
+  "The Windjammer": {
+    "lat": 40.78800009820575,
+    "lng": -73.97573362351588,
+    "approx": true
+  },
+  "Tiki Chick": {
+    "lat": 40.78819247269314,
+    "lng": -73.97448717121047,
+    "approx": true
+  },
+  "Vin Sur Vingt - Riverside": {
+    "lat": 40.78812413703248,
+    "lng": -73.9756135340574,
+    "approx": true
+  },
+  "Vin Sur Vingt - Upper West Side": {
+    "lat": 40.78769724131934,
+    "lng": -73.97619189792252,
+    "approx": true
+  },
+  "Down The Hatch": {
+    "lat": 40.73250860759533,
+    "lng": -74.00395942550664,
+    "approx": true
+  },
+  "Fiddlesticks Pub": {
+    "lat": 40.73298016312932,
+    "lng": -74.0030164837723,
+    "approx": true
+  },
+  "Foursome": {
+    "lat": 40.73325189014797,
+    "lng": -74.0020479676157,
+    "approx": true
+  },
+  "Kettle of Fish": {
+    "lat": 40.73235428012063,
+    "lng": -74.00175692477933,
+    "approx": true
+  },
+  "Las Ramblas": {
+    "lat": 40.733127559137564,
+    "lng": -74.00341233810263,
+    "approx": true
+  },
+  "Minetta Tavern": {
+    "lat": 40.73501565987701,
+    "lng": -74.0029113584866,
+    "approx": true
+  },
+  "The Beer Garage": {
+    "lat": 40.7350943996967,
+    "lng": -74.00337121785955,
+    "approx": true
+  },
+  "White Horse Tavern": {
+    "lat": 40.733659607351434,
+    "lng": -74.00310118672174,
+    "approx": true
+  },
+  "Wogies Bar & Grill - West Village": {
+    "lat": 40.7328012449098,
+    "lng": -74.00306365174286,
+    "approx": true
+  },
+  "Kitty Kiernans": {
+    "lat": 40.634001809152174,
+    "lng": -74.01842981265065,
+    "approx": true
+  },
+  "Lone Star Bar & Grill": {
+    "lat": 40.63537944645417,
+    "lng": -74.01830038210602,
+    "approx": true
+  },
+  "The Eagle Inn": {
+    "lat": 40.636222817844285,
+    "lng": -74.01863372801897,
+    "approx": true
+  },
+  "The Wicked Monk": {
+    "lat": 40.636158825049066,
+    "lng": -74.01846105240135,
+    "approx": true
+  },
+  "IV Purpose": {
+    "lat": 40.68703744893757,
+    "lng": -73.9423225737723,
+    "approx": true
+  },
+  "Joloff Restaurant": {
+    "lat": 40.68763574506659,
+    "lng": -73.94217717735918,
+    "approx": true
+  },
+  "Football Factory at Upper 90": {
+    "lat": 40.68754373506486,
+    "lng": -73.98820837804428,
+    "approx": true
+  },
+  "El Encebollado de Victor": {
+    "lat": 40.694898008632876,
+    "lng": -73.92257744284593,
+    "approx": true
+  },
+  "Pine Box Rock Shop": {
+    "lat": 40.69452699208187,
+    "lng": -73.92002278972001,
+    "approx": true
+  },
+  "Bar Bruno": {
+    "lat": 40.68095468744098,
+    "lng": -73.99965073671534,
+    "approx": true
+  },
+  "Other Half Brewing": {
+    "lat": 40.68035793043233,
+    "lng": -73.99804160307826,
+    "approx": true
+  },
+  "Athena Keke's": {
+    "lat": 40.689069258190486,
+    "lng": -73.96727384211458,
+    "approx": true
+  },
+  "Buka": {
+    "lat": 40.69037126451999,
+    "lng": -73.96532443810305,
+    "approx": true
+  },
+  "61 Local": {
+    "lat": 40.687317173483784,
+    "lng": -73.99464307987598,
+    "approx": true
+  },
+  "Bar Tabac": {
+    "lat": 40.68716965092867,
+    "lng": -73.99445181269009,
+    "approx": true
+  },
+  "El Mate": {
+    "lat": 40.687077964789445,
+    "lng": -73.99532451975439,
+    "approx": true
+  },
+  "Henry Public": {
+    "lat": 40.6878439611431,
+    "lng": -73.99422957313638,
+    "approx": true
+  },
+  "Cafe Rue Dix": {
+    "lat": 40.66910984265672,
+    "lng": -73.94542017316104,
+    "approx": true
+  },
+  "Highbury Pub": {
+    "lat": 40.63267516718607,
+    "lng": -73.96562889507285,
+    "approx": true
+  },
+  "The Tillary Hotel Brooklyn": {
+    "lat": 40.67760283343778,
+    "lng": -73.94361484220087,
+    "approx": true
+  },
+  "Ivy Stark Mexology - Time Out Market New York": {
+    "lat": 40.677793699561924,
+    "lng": -73.94308424246262,
+    "approx": true
+  },
+  "Brooklyn Fan Zone": {
+    "lat": 40.70246196264995,
+    "lng": -73.98714599253722,
+    "approx": true
+  },
+  "Time Out Market DUMBO": {
+    "lat": 40.70475134189371,
+    "lng": -73.98911362680943,
+    "approx": true
+  },
+  "Lips Cafe": {
+    "lat": 40.67800113914241,
+    "lng": -73.94425565038634,
+    "approx": true
+  },
+  "Brooklyn Blend": {
+    "lat": 40.67923893392096,
+    "lng": -73.94414904047659,
+    "approx": true
+  },
+  "Dave & Buster's - Brooklyn": {
+    "lat": 40.67749075138203,
+    "lng": -73.94475458905981,
+    "approx": true
+  },
+  "Area 53 NYC - East Williamsburg": {
+    "lat": 40.7090152710269,
+    "lng": -73.93974663866891,
+    "approx": true
+  },
+  "El Cortez": {
+    "lat": 40.71049569302635,
+    "lng": -73.94054276083183,
+    "approx": true
+  },
+  "Jessi's Coffee Shop": {
+    "lat": 40.71046870684929,
+    "lng": -73.94095553641542,
+    "approx": true
+  },
+  "Rogers Burgers": {
+    "lat": 40.63735689594223,
+    "lng": -73.95713245629604,
+    "approx": true
+  },
+  "Abistro (Brooklyn)": {
+    "lat": 40.689788058487935,
+    "lng": -73.97429667825901,
+    "approx": true
+  },
+  "Black Forest Brooklyn": {
+    "lat": 40.68963228358871,
+    "lng": -73.97476312033942,
+    "approx": true
+  },
+  "Chez Oskar": {
+    "lat": 40.6906851761024,
+    "lng": -73.97654164756979,
+    "approx": true
+  },
+  "DSK": {
+    "lat": 40.68975498541492,
+    "lng": -73.97631646247068,
+    "approx": true
+  },
+  "FancyFree": {
+    "lat": 40.68904925458085,
+    "lng": -73.97605563598819,
+    "approx": true
+  },
+  "Mito - Fort Greene": {
+    "lat": 40.69042342887975,
+    "lng": -73.97585224250723,
+    "approx": true
+  },
+  "Wild East Brewing Co.": {
+    "lat": 40.67559619986059,
+    "lng": -73.99926192085529,
+    "approx": true
+  },
+  "El Castillo Tienda Mexicana y Jugos Naturales": {
+    "lat": 40.67869663279299,
+    "lng": -73.94528371001222,
+    "approx": true
+  },
+  "Dar525 - Greenpoint": {
+    "lat": 40.725010191380946,
+    "lng": -73.94999254424337,
+    "approx": true
+  },
+  "Karczma": {
+    "lat": 40.7241657991071,
+    "lng": -73.95154159899768,
+    "approx": true
+  },
+  "Pyza": {
+    "lat": 40.724734013401296,
+    "lng": -73.94972893273885,
+    "approx": true
+  },
+  "Raizes Churrascaria": {
+    "lat": 40.72410273063953,
+    "lng": -73.95167734706462,
+    "approx": true
+  },
+  "Retro Polish Restaurant": {
+    "lat": 40.72416276963709,
+    "lng": -73.95180991738683,
+    "approx": true
+  },
+  "Socceria": {
+    "lat": 40.72302657045448,
+    "lng": -73.95209598892123,
+    "approx": true
+  },
+  "Zum Schneider World Cup Pop-Up": {
+    "lat": 40.72466956986227,
+    "lng": -73.94989156535124,
+    "approx": true
+  },
+  "Block Hill Station": {
+    "lat": 40.67962505219323,
+    "lng": -73.94320255628983,
+    "approx": true
+  },
+  "Don Burrito": {
+    "lat": 40.6201867988485,
+    "lng": -73.96342136172734,
+    "approx": true
+  },
+  "Taci's Beyti": {
+    "lat": 40.62218704108432,
+    "lng": -73.96225514965256,
+    "approx": true
+  },
+  "Wedding": {
+    "lat": 40.67894705703141,
+    "lng": -73.94397575088072,
+    "approx": true
+  },
+  "Seafood Urway": {
+    "lat": 40.67902504710598,
+    "lng": -73.94554587943126,
+    "approx": true
+  },
+  "4th Avenue Pub": {
+    "lat": 40.672695188115775,
+    "lng": -73.98029824979672,
+    "approx": true
+  },
+  "Black Horse Pub": {
+    "lat": 40.67332688343764,
+    "lng": -73.97983200442874,
+    "approx": true
+  },
+  "Black Oak on Fifth": {
+    "lat": 40.67327059892828,
+    "lng": -73.98051732847665,
+    "approx": true
+  },
+  "Bogota Latin Bistro": {
+    "lat": 40.67399182866274,
+    "lng": -73.98112682929013,
+    "approx": true
+  },
+  "Cherry Tree": {
+    "lat": 40.67238678567932,
+    "lng": -73.97851192910055,
+    "approx": true
+  },
+  "Electric Beets": {
+    "lat": 40.67276175475872,
+    "lng": -73.97946959562141,
+    "approx": true
+  },
+  "Flavored Flames Restaurant and Bakery": {
+    "lat": 40.673484970862816,
+    "lng": -73.98101202658226,
+    "approx": true
+  },
+  "Fonda - Park Slope": {
+    "lat": 40.6722335289024,
+    "lng": -73.97909361441569,
+    "approx": true
+  },
+  "La Cubana": {
+    "lat": 40.67286699359353,
+    "lng": -73.98036111963694,
+    "approx": true
+  },
+  "La Villa Pizzeria - Park Slope": {
+    "lat": 40.67374680134568,
+    "lng": -73.97956957311519,
+    "approx": true
+  },
+  "Logan’s Run": {
+    "lat": 40.67322188546127,
+    "lng": -73.97932084970658,
+    "approx": true
+  },
+  "Mezquila bar & restaurant": {
+    "lat": 40.673208572739526,
+    "lng": -73.98045260539469,
+    "approx": true
+  },
+  "Mission Dolores Bar": {
+    "lat": 40.67138586589637,
+    "lng": -73.97899808807966,
+    "approx": true
+  },
+  "Paddy's of Park Slope": {
+    "lat": 40.67369067345993,
+    "lng": -73.98021650872562,
+    "approx": true
+  },
+  "Sotto Voce": {
+    "lat": 40.673246234652204,
+    "lng": -73.98005916348757,
+    "approx": true
+  },
+  "South Slope Restaurant & Bar": {
+    "lat": 40.673963499233146,
+    "lng": -73.98020780927342,
+    "approx": true
+  },
+  "The Dram Shop": {
+    "lat": 40.67215651526308,
+    "lng": -73.97934459477676,
+    "approx": true
+  },
+  "The Gate": {
+    "lat": 40.67257537071722,
+    "lng": -73.98094222919015,
+    "approx": true
+  },
+  "The Monro Pub": {
+    "lat": 40.671460626673614,
+    "lng": -73.97866878172796,
+    "approx": true
+  },
+  "Wild Park Slope": {
+    "lat": 40.67393232296408,
+    "lng": -73.98133111761298,
+    "approx": true
+  },
+  "Doughnut Plant - Prospect Heights": {
+    "lat": 40.67740118885193,
+    "lng": -73.96217613364237,
+    "approx": true
+  },
+  "Sofreh": {
+    "lat": 40.67844419728141,
+    "lng": -73.9610124966318,
+    "approx": true
+  },
+  "Allan's Bakery": {
+    "lat": 40.65136984194957,
+    "lng": -73.952311811096,
+    "approx": true
+  },
+  "Opera Cafe & Lounge": {
+    "lat": 40.59223486137771,
+    "lng": -73.94255826788748,
+    "approx": true
+  },
+  "Sea Witch": {
+    "lat": 40.66080859746635,
+    "lng": -73.98196760527267,
+    "approx": true
+  },
+  "La Flor De Izucar Cafe": {
+    "lat": 40.64882518076396,
+    "lng": -74.00610272850135,
+    "approx": true
+  },
+  "Los Tres Potrillos": {
+    "lat": 40.648197832873414,
+    "lng": -74.00621094294905,
+    "approx": true
+  },
+  "Soccer Tavern": {
+    "lat": 40.650065877950944,
+    "lng": -74.00359942012496,
+    "approx": true
+  },
+  "Tacombi Sunset Park": {
+    "lat": 40.65056247818404,
+    "lng": -74.00497729219802,
+    "approx": true
+  },
+  "Tacos El Bronco": {
+    "lat": 40.648070680483414,
+    "lng": -74.00452671483363,
+    "approx": true
+  },
+  "Tacos Matamoros": {
+    "lat": 40.65034534282668,
+    "lng": -74.00400501609539,
+    "approx": true
+  },
+  "Banter Bar": {
+    "lat": 40.709415694686356,
+    "lng": -73.95677075608197,
+    "approx": true
+  },
+  "Beco": {
+    "lat": 40.70903328165076,
+    "lng": -73.95846230742556,
+    "approx": true
+  },
+  "Berry Park": {
+    "lat": 40.706637144224,
+    "lng": -73.95718314152744,
+    "approx": true
+  },
+  "Cantina 138": {
+    "lat": 40.70949299722352,
+    "lng": -73.95774593716499,
+    "approx": true
+  },
+  "Clover Smoothie&Tea": {
+    "lat": 40.687099447755,
+    "lng": -73.990298513235,
+    "approx": false
+  },
+  "Doughnut Plant - Williamsburg": {
+    "lat": 40.70954292204431,
+    "lng": -73.95713377587424,
+    "approx": true
+  },
+  "Eckhart Beer Co.": {
+    "lat": 40.70947162641884,
+    "lng": -73.95757838275243,
+    "approx": true
+  },
+  "Esse Taco": {
+    "lat": 40.70802511231601,
+    "lng": -73.95809994360827,
+    "approx": true
+  },
+  "Hi Hello Crepes": {
+    "lat": 40.708695411735555,
+    "lng": -73.95596334152062,
+    "approx": true
+  },
+  "Iona": {
+    "lat": 40.70820021156828,
+    "lng": -73.95846798475237,
+    "approx": true
+  },
+  "Levantine": {
+    "lat": 40.70952347650109,
+    "lng": -73.95565134200616,
+    "approx": true
+  },
+  "Puerta del Alma": {
+    "lat": 40.70692416681011,
+    "lng": -73.95680773453529,
+    "approx": true
+  },
+  "Radegast Hall & Biergarten": {
+    "lat": 40.70700989004305,
+    "lng": -73.95634495048114,
+    "approx": true
+  },
+  "Roebling Sporting Club": {
+    "lat": 40.70950744880572,
+    "lng": -73.9563948073684,
+    "approx": true
+  },
+  "Spuyten Duyvil": {
+    "lat": 40.70901311104483,
+    "lng": -73.95594126439995,
+    "approx": true
+  },
+  "TAT2 Spirits Man Cave": {
+    "lat": 40.70798442445336,
+    "lng": -73.95735737083128,
+    "approx": true
+  },
+  "Tipsy Scoop": {
+    "lat": 40.77117375001571,
+    "lng": -73.92949445385395,
+    "approx": true
+  },
+  "Turkey's Nest Tavern": {
+    "lat": 40.70931482825228,
+    "lng": -73.95728550301324,
+    "approx": true
+  },
+  "Veselka Lorimer": {
+    "lat": 40.70801204676777,
+    "lng": -73.95840315514943,
+    "approx": true
+  },
+  "Warique Garden": {
+    "lat": 40.70835308072171,
+    "lng": -73.95701059660497,
+    "approx": true
+  },
+  "Batata": {
+    "lat": 40.657314844510296,
+    "lng": -73.98729524473784,
+    "approx": true
+  },
+  "Double Windsor": {
+    "lat": 40.656973572233795,
+    "lng": -73.98610507536216,
+    "approx": true
+  },
+  "Farrell's Bar & Grill": {
+    "lat": 40.658092035548535,
+    "lng": -73.98699742390109,
+    "approx": true
+  },
+  "Beija Flor": {
+    "lat": 40.77359095416066,
+    "lng": -73.93112923236808,
+    "approx": true
+  },
+  "Bohemian Hall & Beer Garden": {
+    "lat": 40.77154084794359,
+    "lng": -73.92995483314279,
+    "approx": true
+  },
+  "Boteco": {
+    "lat": 40.77060149554951,
+    "lng": -73.93064081456697,
+    "approx": true
+  },
+  "Caffe Borbone": {
+    "lat": 40.77237857307471,
+    "lng": -73.9291124571067,
+    "approx": true
+  },
+  "Circulo Espanol": {
+    "lat": 40.77269266481699,
+    "lng": -73.93156889446055,
+    "approx": true
+  },
+  "Ecuadorian Food": {
+    "lat": 40.773233916133506,
+    "lng": -73.92971252942198,
+    "approx": true
+  },
+  "Ecuadorian Food II": {
+    "lat": 40.77060082656986,
+    "lng": -73.93078357566837,
+    "approx": true
+  },
+  "El Basurero": {
+    "lat": 40.77073947390538,
+    "lng": -73.92923822822678,
+    "approx": true
+  },
+  "Fairfield Inn New York LaGuardia Airport/Astoria": {
+    "lat": 40.77192480872896,
+    "lng": -73.93118420374059,
+    "approx": true
+  },
+  "Favela Grill": {
+    "lat": 40.77223394517233,
+    "lng": -73.9298143418112,
+    "approx": true
+  },
+  "Hutch Astoria": {
+    "lat": 40.77246416550183,
+    "lng": -73.93040998812197,
+    "approx": true
+  },
+  "Istria Sport Club": {
+    "lat": 40.771190953153955,
+    "lng": -73.92992534211358,
+    "approx": true
+  },
+  "Kabab Cafe": {
+    "lat": 40.77178274540138,
+    "lng": -73.92951458164714,
+    "approx": true
+  },
+  "Katch Astoria": {
+    "lat": 40.77155404154683,
+    "lng": -73.92990018027653,
+    "approx": true
+  },
+  "Kitty Sullivan’s": {
+    "lat": 40.77160478217078,
+    "lng": -73.92996155463096,
+    "approx": true
+  },
+  "Lily's": {
+    "lat": 40.771881286132384,
+    "lng": -73.93101184955921,
+    "approx": true
+  },
+  "LILY'S": {
+    "lat": 40.77339465712017,
+    "lng": -73.92873202113154,
+    "approx": true
+  },
+  "Lupe's Deli Grocery": {
+    "lat": 40.77112314954206,
+    "lng": -73.93091834894592,
+    "approx": true
+  },
+  "Malagueta": {
+    "lat": 40.77261868655551,
+    "lng": -73.92890266781859,
+    "approx": true
+  },
+  "Max Bratwurst und Bier": {
+    "lat": 40.773334943617684,
+    "lng": -73.92982730353097,
+    "approx": true
+  },
+  "mayahuel": {
+    "lat": 40.773042868953084,
+    "lng": -73.92962967181187,
+    "approx": true
+  },
+  "Mayahuel": {
+    "lat": 40.77290700435751,
+    "lng": -73.92956620616114,
+    "approx": true
+  },
+  "Millie’s Coffee Co": {
+    "lat": 40.77189675043742,
+    "lng": -73.93142214672673,
+    "approx": true
+  },
+  "Mombar": {
+    "lat": 40.77111002536629,
+    "lng": -73.93091876643206,
+    "approx": true
+  },
+  "Mrs. Georgia": {
+    "lat": 40.77260932242743,
+    "lng": -73.9304103208698,
+    "approx": true
+  },
+  "Rudar Club": {
+    "lat": 40.77321981442034,
+    "lng": -73.92995217909339,
+    "approx": true
+  },
+  "San Antonio Bakery II": {
+    "lat": 40.77217472521083,
+    "lng": -73.93030423004902,
+    "approx": true
+  },
+  "Sek'end Sun": {
+    "lat": 40.77079940578094,
+    "lng": -73.9299177060111,
+    "approx": true
+  },
+  "Shillelagh Tavern": {
+    "lat": 40.77115782533588,
+    "lng": -73.93094429946184,
+    "approx": true
+  },
+  "SPANGLISH ASTORIA": {
+    "lat": 40.7726414781734,
+    "lng": -73.92943321852823,
+    "approx": true
+  },
+  "Sweet Afton": {
+    "lat": 40.77354484946542,
+    "lng": -73.92973238363393,
+    "approx": true
+  },
+  "Tea and Milk - Astoria": {
+    "lat": 40.77283019880758,
+    "lng": -73.92913361942144,
+    "approx": true
+  },
+  "The Sparrow Tavern": {
+    "lat": 40.77120532642848,
+    "lng": -73.92968993020209,
+    "approx": true
+  },
+  "The Wolfhound": {
+    "lat": 40.77171126773742,
+    "lng": -73.93088751453631,
+    "approx": true
+  },
+  "Tootles & French": {
+    "lat": 40.77283602291605,
+    "lng": -73.9314697973399,
+    "approx": true
+  },
+  "Dirty Taco & Tequila": {
+    "lat": 40.72829913310081,
+    "lng": -73.79525740474949,
+    "approx": true
+  },
+  "Krave It Pizza & Sandwich Joint - Queens": {
+    "lat": 40.72781253763983,
+    "lng": -73.7939089592021,
+    "approx": true
+  },
+  "Spanglish - Bayside": {
+    "lat": 40.72826765320115,
+    "lng": -73.7942941559006,
+    "approx": true
+  },
+  "Valdari": {
+    "lat": 40.72859452204462,
+    "lng": -73.79344188396996,
+    "approx": true
+  },
+  "Casa Margaritas": {
+    "lat": 40.72729914556738,
+    "lng": -73.79634974298726,
+    "approx": true
+  },
+  "La Roja de Todos": {
+    "lat": 40.787243875061854,
+    "lng": -73.84461731176098,
+    "approx": true
+  },
+  "La Esquina Criolla": {
+    "lat": 40.748041480682105,
+    "lng": -73.86108022775572,
+    "approx": true
+  },
+  "La Hueca Epa": {
+    "lat": 40.74758629362841,
+    "lng": -73.86385936054397,
+    "approx": true
+  },
+  "Leticia’s Restaurant": {
+    "lat": 40.746125132239065,
+    "lng": -73.86361031094802,
+    "approx": true
+  },
+  "New York Hall of Science Cafe": {
+    "lat": 40.74613107837249,
+    "lng": -73.86136823659263,
+    "approx": true
+  },
+  "Queens Night Market": {
+    "lat": 40.74740456803838,
+    "lng": -73.86332103403373,
+    "approx": true
+  },
+  "Springhill Suites New York LaGuardia Airport": {
+    "lat": 40.74680579960046,
+    "lng": -73.86328597026576,
+    "approx": true
+  },
+  "Tacos Don Jose": {
+    "lat": 40.746344992665726,
+    "lng": -73.86283907582086,
+    "approx": true
+  },
+  "SPANGLISH EAST ELMHURST": {
+    "lat": 40.72735949679317,
+    "lng": -73.79500407666495,
+    "approx": true
+  },
+  "Boca Junior Restaurant": {
+    "lat": 40.73675283943474,
+    "lng": -73.88036071384101,
+    "approx": true
+  },
+  "Burkas Cafe": {
+    "lat": 40.73695177872963,
+    "lng": -73.87855774868076,
+    "approx": true
+  },
+  "El Gauchito": {
+    "lat": 40.736387413204504,
+    "lng": -73.87818240210858,
+    "approx": true
+  },
+  "Florence Prime Diner": {
+    "lat": 40.737762342092964,
+    "lng": -73.87903727100999,
+    "approx": true
+  },
+  "La Fusta": {
+    "lat": 40.73680322345158,
+    "lng": -73.8788360832425,
+    "approx": true
+  },
+  "Porteno (Elmhurst)": {
+    "lat": 40.73718446696386,
+    "lng": -73.87976602794912,
+    "approx": true
+  },
+  "Rio de la Plata Bakery": {
+    "lat": 40.737891172819744,
+    "lng": -73.87795556723147,
+    "approx": true
+  },
+  "Sabor Latino - Elmhurst": {
+    "lat": 40.73688970008437,
+    "lng": -73.87781812477621,
+    "approx": true
+  },
+  "Fairfield Inn New York LGA - Flushing": {
+    "lat": 40.76735997544239,
+    "lng": -73.83315640891594,
+    "approx": true
+  },
+  "FIFA Fan Zone Queens": {
+    "lat": 40.76784213671963,
+    "lng": -73.83234339403793,
+    "approx": true
+  },
+  "Gyro World": {
+    "lat": 40.76815341743497,
+    "lng": -73.8325841547222,
+    "approx": true
+  },
+  "Moon Bar Rooftop (One Boutique Hotel)": {
+    "lat": 40.767535962555115,
+    "lng": -73.8318819479956,
+    "approx": true
+  },
+  "Noches De Colombia (Flushing)": {
+    "lat": 40.76705642808374,
+    "lng": -73.83298944353267,
+    "approx": true
+  },
+  "Prime Met Steakhouse": {
+    "lat": 40.767080999391354,
+    "lng": -73.8343610236955,
+    "approx": true
+  },
+  "NYNJ World Cup 26 Queens Group Stage HQ": {
+    "lat": 40.728953642294094,
+    "lng": -73.84450534719593,
+    "approx": true
+  },
+  "(aged.) Steakhouse": {
+    "lat": 40.718913139717614,
+    "lng": -73.84546408052165,
+    "approx": true
+  },
+  "Austin Street Coffee & Grill": {
+    "lat": 40.71846624049414,
+    "lng": -73.84520173953548,
+    "approx": true
+  },
+  "Kuku Korean Cuisine - Forest Hills": {
+    "lat": 40.719544931194996,
+    "lng": -73.84370885841167,
+    "approx": true
+  },
+  "Narita Japanese Restaurant": {
+    "lat": 40.717348991252074,
+    "lng": -73.84377944726477,
+    "approx": true
+  },
+  "Rotana Coffee and Grill": {
+    "lat": 40.720295515445436,
+    "lng": -73.8450015079642,
+    "approx": true
+  },
+  "The Bespoken": {
+    "lat": 40.7199068351709,
+    "lng": -73.8444386220968,
+    "approx": true
+  },
+  "The Artisan Crepe": {
+    "lat": 40.72854720758573,
+    "lng": -73.79363385001822,
+    "approx": true
+  },
+  "Zum Stammtisch": {
+    "lat": 40.69463997110514,
+    "lng": -73.8733430631324,
+    "approx": true
+  },
+  "Arepa Lady": {
+    "lat": 40.75701468650391,
+    "lng": -73.8836487682469,
+    "approx": true
+  },
+  "Barzola": {
+    "lat": 40.75436252887554,
+    "lng": -73.88235694588812,
+    "approx": true
+  },
+  "El Chivito d'Oro": {
+    "lat": 40.75507965761728,
+    "lng": -73.88298554817754,
+    "approx": true
+  },
+  "Kabu Bar Lounge": {
+    "lat": 40.75526446132437,
+    "lng": -73.88264427750323,
+    "approx": true
+  },
+  "La Chibcha": {
+    "lat": 40.754994462352975,
+    "lng": -73.88208992793574,
+    "approx": true
+  },
+  "La Gran Uruguaya Bakery & Restaurant": {
+    "lat": 40.75539839416219,
+    "lng": -73.8819537900498,
+    "approx": true
+  },
+  "La Pequena Colombia": {
+    "lat": 40.755347398912896,
+    "lng": -73.88337766195255,
+    "approx": true
+  },
+  "La Pollera Colorada II": {
+    "lat": 40.755448425767014,
+    "lng": -73.88192082214654,
+    "approx": true
+  },
+  "Legends Tavern & Grill": {
+    "lat": 40.75488241108792,
+    "lng": -73.88223504406518,
+    "approx": true
+  },
+  "Riazor Blues": {
+    "lat": 40.7548641298989,
+    "lng": -73.88327759459969,
+    "approx": true
+  },
+  "Tierras Colombianas": {
+    "lat": 40.756725475248636,
+    "lng": -73.88287692060315,
+    "approx": true
+  },
+  "Cañas Restaurant and Bar": {
+    "lat": 40.70377439364001,
+    "lng": -73.79370991914115,
+    "approx": true
+  },
+  "O Lavrador": {
+    "lat": 40.701281251760804,
+    "lng": -73.79163331912014,
+    "approx": true
+  },
+  "Para Ti Colombia Con Sabor Restaurant Bar": {
+    "lat": 40.70205808887411,
+    "lng": -73.79441232193707,
+    "approx": true
+  },
+  "Riko Peruvian Cuisine": {
+    "lat": 40.70227465455437,
+    "lng": -73.79256488498152,
+    "approx": true
+  },
+  "Rincon Salvadoreno": {
+    "lat": 40.70127099540616,
+    "lng": -73.79156408823115,
+    "approx": true
+  },
+  "Taco Bell": {
+    "lat": 40.84572654912788,
+    "lng": -73.86488498142897,
+    "approx": true
+  },
+  "The Layover": {
+    "lat": 40.70304064777029,
+    "lng": -73.79259794097017,
+    "approx": true
+  },
+  "The Quimby": {
+    "lat": 40.702173487768384,
+    "lng": -73.79160157487752,
+    "approx": true
+  },
+  "The TWA Hotel": {
+    "lat": 40.703503550880725,
+    "lng": -73.79223624349285,
+    "approx": true
+  },
+  "Hangar 11": {
+    "lat": 40.728076619627664,
+    "lng": -73.79400244972524,
+    "approx": true
+  },
+  "Kew Gardens Chicken": {
+    "lat": 40.72894951649565,
+    "lng": -73.79584404553425,
+    "approx": true
+  },
+  "Nabhya Restaurant": {
+    "lat": 40.72960503492492,
+    "lng": -73.7956168247929,
+    "approx": true
+  },
+  "Paul Michael's Brick Oven Cafe": {
+    "lat": 40.72777292685483,
+    "lng": -73.79434643293172,
+    "approx": true
+  },
+  "MSC Kangen Water": {
+    "lat": 40.7283124272903,
+    "lng": -73.79589714694688,
+    "approx": true
+  },
+  "Dunhuang lic": {
+    "lat": 40.74485687567472,
+    "lng": -73.94760390528852,
+    "approx": true
+  },
+  "Frank Ottomanelli's LIC": {
+    "lat": 40.74606366714531,
+    "lng": -73.94860207260487,
+    "approx": true
+  },
+  "Hilton Garden Inn Long Island City": {
+    "lat": 40.74574490864963,
+    "lng": -73.94920567670046,
+    "approx": true
+  },
+  "Hyatt Place Long Island City": {
+    "lat": 40.74410269631506,
+    "lng": -73.94967867955522,
+    "approx": true
+  },
+  "Jora Restaurant and Bar": {
+    "lat": 40.74447513297643,
+    "lng": -73.94732216850227,
+    "approx": true
+  },
+  "Kuku Korean Cuisine - LIC": {
+    "lat": 40.744699920595025,
+    "lng": -73.94996440222423,
+    "approx": true
+  },
+  "LIC Bar": {
+    "lat": 40.744936566153605,
+    "lng": -73.9481464154594,
+    "approx": true
+  },
+  "Lm Cafe": {
+    "lat": 40.74351961383849,
+    "lng": -73.94913290841608,
+    "approx": true
+  },
+  "METTRA": {
+    "lat": 40.743868523938936,
+    "lng": -73.94884053859579,
+    "approx": true
+  },
+  "Mysttik Masaala": {
+    "lat": 40.745771639240566,
+    "lng": -73.94829580265525,
+    "approx": true
+  },
+  "Nagaiki Ramen at Mettra": {
+    "lat": 40.74583887655809,
+    "lng": -73.94889504104381,
+    "approx": true
+  },
+  "Oh! Calcutta": {
+    "lat": 40.74341637869218,
+    "lng": -73.9474926600692,
+    "approx": true
+  },
+  "Origin Cafe & Wine Bar": {
+    "lat": 40.74506536241046,
+    "lng": -73.9472392209899,
+    "approx": true
+  },
+  "Ottomanelli by the water": {
+    "lat": 40.74408185712693,
+    "lng": -73.9477257215789,
+    "approx": true
+  },
+  "Partake NYC": {
+    "lat": 40.745961950562354,
+    "lng": -73.94845220089067,
+    "approx": true
+  },
+  "Soothr LIC": {
+    "lat": 40.74589088347183,
+    "lng": -73.94911606150832,
+    "approx": true
+  },
+  "The Local": {
+    "lat": 40.74377250843685,
+    "lng": -73.94850332450308,
+    "approx": true
+  },
+  "The Local NY": {
+    "lat": 40.74461331573199,
+    "lng": -73.94814225068083,
+    "approx": true
+  },
+  "TownePlace Long Island City": {
+    "lat": 40.74332891051515,
+    "lng": -73.94916073793624,
+    "approx": true
+  },
+  "Trends LIC": {
+    "lat": 40.74384248936573,
+    "lng": -73.94954349147939,
+    "approx": true
+  },
+  "Tropical Restaurant": {
+    "lat": 40.74487975936752,
+    "lng": -73.94975580570457,
+    "approx": true
+  },
+  "Benny's Cuban Cafe": {
+    "lat": 40.704662052221686,
+    "lng": -73.90741511339002,
+    "approx": true
+  },
+  "Evil Twin Brewing": {
+    "lat": 40.702187994846696,
+    "lng": -73.90769580202603,
+    "approx": true
+  },
+  "Rudy’s Bakery and Cafe": {
+    "lat": 40.704822963379,
+    "lng": -73.90850959426933,
+    "approx": true
+  },
+  "The Keep": {
+    "lat": 40.702435112557204,
+    "lng": -73.90849714739966,
+    "approx": true
+  },
+  "Bar 43": {
+    "lat": 40.74514320742785,
+    "lng": -73.91954201808294,
+    "approx": true
+  },
+  "Jack Quinns (Sunnyside)": {
+    "lat": 40.744291396972216,
+    "lng": -73.91950628482986,
+    "approx": true
+  },
+  "Jack's Fire Department": {
+    "lat": 40.744331574862,
+    "lng": -73.91861499349663,
+    "approx": true
+  },
+  "Rincon Melania": {
+    "lat": 40.7435987372699,
+    "lng": -73.92016463941077,
+    "approx": true
+  },
+  "Simple Peruvian": {
+    "lat": 40.745246478308424,
+    "lng": -73.91936000588113,
+    "approx": true
+  },
+  "Pilot House Bar & Grill": {
+    "lat": 40.727502672586894,
+    "lng": -73.79596770731568,
+    "approx": true
+  },
+  "Tutto Calcio Espresso Bar": {
+    "lat": 40.72950135919425,
+    "lng": -73.79346344657607,
+    "approx": true
+  },
+  "Go Natural": {
+    "lat": 40.72835871188427,
+    "lng": -73.7950605416462,
+    "approx": true
+  },
+  "Tropical Restaurant - Woodhaven": {
+    "lat": 40.727095261717714,
+    "lng": -73.79530466449619,
+    "approx": true
+  },
+  "Donovan's Pub": {
+    "lat": 40.747653438533455,
+    "lng": -73.90428091951784,
+    "approx": true
+  },
+  "KhanTong Thai Kitchen": {
+    "lat": 40.74879621697932,
+    "lng": -73.90385229880444,
+    "approx": true
+  },
+  "The Brewery Bar & Kitchen": {
+    "lat": 40.74779556412152,
+    "lng": -73.90548558345232,
+    "approx": true
+  },
+  "Cka Ka Qellu": {
+    "lat": 40.852551627722654,
+    "lng": -73.88975849184416,
+    "approx": true
+  },
+  "Clinton Hall Bronx": {
+    "lat": 40.85327728314007,
+    "lng": -73.88716285798769,
+    "approx": true
+  },
+  "Mario's Restaurant": {
+    "lat": 40.84477317933028,
+    "lng": -73.86528278339239,
+    "approx": true
+  },
+  "Barrio BX": {
+    "lat": 40.844641337089975,
+    "lng": -73.86570224107766,
+    "approx": true
+  },
+  "Bronx Draft House": {
+    "lat": 40.82699582914862,
+    "lng": -73.92161529264962,
+    "approx": true
+  },
+  "NYNJ World Cup 26 Bronx Fan Zone": {
+    "lat": 40.82542836588051,
+    "lng": -73.92036578562671,
+    "approx": true
+  },
+  "Stan's Sports Bar": {
+    "lat": 40.82725440640256,
+    "lng": -73.92150457986692,
+    "approx": true
+  },
+  "The Clubhouse Café": {
+    "lat": 40.82678400954508,
+    "lng": -73.91970898869869,
+    "approx": true
+  },
+  "Yankee Tavern": {
+    "lat": 40.82463148650013,
+    "lng": -73.92016057519517,
+    "approx": true
+  },
+  "Checkers - Fordham": {
+    "lat": 40.860022573817595,
+    "lng": -73.89903975351197,
+    "approx": true
+  },
+  "Papaye": {
+    "lat": 40.85944089548789,
+    "lng": -73.89899919021188,
+    "approx": true
+  },
+  "Checkers": {
+    "lat": 40.846092000359526,
+    "lng": -73.8656319469184,
+    "approx": true
+  },
+  "Bronx Alehouse": {
+    "lat": 40.87973534521782,
+    "lng": -73.90480438534533,
+    "approx": true
+  },
+  "The Bronx Public": {
+    "lat": 40.84579283796894,
+    "lng": -73.86346231225893,
+    "approx": true
+  },
+  "Flava of the Bronx": {
+    "lat": 40.81887249153552,
+    "lng": -73.91572300151367,
+    "approx": true
+  },
+  "Xochimilco Family Restaurant": {
+    "lat": 40.81967265382593,
+    "lng": -73.91714229602762,
+    "approx": true
+  },
+  "Sweet Carolina Pies": {
+    "lat": 40.8456592332824,
+    "lng": -73.86545648572277,
+    "approx": true
+  },
+  "Morris Park Inn": {
+    "lat": 40.84857544880333,
+    "lng": -73.85953568567444,
+    "approx": true
+  },
+  "Prizreni Grill": {
+    "lat": 40.85020647583958,
+    "lng": -73.85881889585679,
+    "approx": true
+  },
+  "Bar 47": {
+    "lat": 40.845055116359525,
+    "lng": -73.86548198934055,
+    "approx": true
+  },
+  "BX Eatery": {
+    "lat": 40.84602060723993,
+    "lng": -73.86489797757174,
+    "approx": true
+  },
+  "Gold Spoon Restaurant & Lounge": {
+    "lat": 40.84610630111359,
+    "lng": -73.86625249690198,
+    "approx": true
+  },
+  "An Beal Bocht Cafe": {
+    "lat": 40.90313067090694,
+    "lng": -73.91361315154224,
+    "approx": true
+  },
+  "El Malecon": {
+    "lat": 40.90226326121737,
+    "lng": -73.91212972037235,
+    "approx": true
+  },
+  "The Wicked Wolf": {
+    "lat": 40.82037212631241,
+    "lng": -73.82901394400722,
+    "approx": true
+  },
+  "The Rambling House": {
+    "lat": 40.89535816687362,
+    "lng": -73.86593643805162,
+    "approx": true
+  },
+  "Killmeyer's Old Bavaria Inn": {
+    "lat": 40.551240194536994,
+    "lng": -74.2269011908443,
+    "approx": true
+  },
+  "Abbey African Restaurant": {
+    "lat": 40.64247875274191,
+    "lng": -74.07288556164482,
+    "approx": true
+  },
+  "Empire Beer Garden": {
+    "lat": 40.642336767850146,
+    "lng": -74.07280658238291,
+    "approx": true
+  },
+  "NYNJ World Cup 26 Staten Island Fan Zone": {
+    "lat": 40.6426474668254,
+    "lng": -74.07323250500693,
+    "approx": true
+  },
+  "The Hop Shoppe": {
+    "lat": 40.645116244360146,
+    "lng": -74.0734850552091,
+    "approx": true
+  },
+  "El Patrón Restaurant & Lounge - Stapleton Heights": {
+    "lat": 40.58032203223071,
+    "lng": -74.15093577246974,
+    "approx": true
+  },
+  "Jody's Club Forest": {
+    "lat": 40.63299085897805,
+    "lng": -74.11538638752863,
+    "approx": true
+  },
+  "Jimmy Max": {
+    "lat": 40.62276100461949,
+    "lng": -74.13303027575039,
+    "approx": true
+  },
+  "Flag City: Overpeck Park": {
+    "lat": 40.75739088831164,
+    "lng": -74.149160728355,
+    "approx": true
+  },
+  "Cloverleaf Tavern": {
+    "lat": 40.75945568828612,
+    "lng": -74.1498060524457,
+    "approx": true
+  },
+  "Hudson Hall": {
+    "lat": 40.71891220156214,
+    "lng": -74.04422614705204,
+    "approx": true
+  },
+  "Legends FC": {
+    "lat": 40.71723065698965,
+    "lng": -74.0435922608061,
+    "approx": true
+  },
+  "Madd Hatter Hoboken": {
+    "lat": 40.74527547584604,
+    "lng": -74.03138727318003,
+    "approx": true
+  },
+  "Mulligan's Pub": {
+    "lat": 40.74426530897821,
+    "lng": -74.03328537986661,
+    "approx": true
+  },
+  "O'Hara's Downtown": {
+    "lat": 40.716433345364166,
+    "lng": -74.0420595396856,
+    "approx": true
+  },
+  "The Ashford": {
+    "lat": 40.71829676030006,
+    "lng": -74.04351900175263,
+    "approx": true
+  },
+  "Flag City: East Rutherford": {
+    "lat": 40.757466398349266,
+    "lng": -74.15023148773267,
+    "approx": true
+  },
+  "Noches De Colombia (Englewood)": {
+    "lat": 40.756948070917915,
+    "lng": -74.15112109240937,
+    "approx": true
+  },
+  "Noches De Colombia (Hackensack)": {
+    "lat": 40.759233429527605,
+    "lng": -74.15128379969941,
+    "approx": true
+  },
+  "Ed & Mary's": {
+    "lat": 40.71889680574573,
+    "lng": -74.04354086769193,
+    "approx": true
+  },
+  "NYNJ Jersey Fan Hub": {
+    "lat": 40.75811325683211,
+    "lng": -74.15068830004168,
+    "approx": true
+  },
+  "Finnegan's Pub": {
+    "lat": 40.74540491505765,
+    "lng": -74.03244825909633,
+    "approx": true
+  },
+  "Fornos of Spain": {
+    "lat": 40.735553300332285,
+    "lng": -74.1715997308254,
+    "approx": true
+  },
+  "Iberia Peninsula": {
+    "lat": 40.73422753223489,
+    "lng": -74.17162583972832,
+    "approx": true
+  },
+  "Ironbound Portuguese bars cluster (Ferry St)": {
+    "lat": 40.735227921054346,
+    "lng": -74.17375191538403,
+    "approx": true
+  },
+  "Seabra's Marisqueira": {
+    "lat": 40.73426416858513,
+    "lng": -74.17225329871619,
+    "approx": true
+  },
+  "Casa Italiana": {
+    "lat": 40.71694831629212,
+    "lng": -74.04279637031539,
+    "approx": true
+  },
+  "Flag City: Jersey City": {
+    "lat": 40.75763594727731,
+    "lng": -74.15034183015513,
+    "approx": true
+  },
+  "Zeppelin Hall Biergarten": {
+    "lat": 40.71779557560353,
+    "lng": -74.04342187742866,
+    "approx": true
+  },
+  "Flag City: Newark": {
+    "lat": 40.757605949617854,
+    "lng": -74.15092365191695,
+    "approx": true
+  },
+  "Flag City: Laurel Hill Park": {
+    "lat": 40.75810209056332,
+    "lng": -74.151116599465,
+    "approx": true
+  },
+  "The Hutton": {
+    "lat": 40.716878983640406,
+    "lng": -74.04289467064092,
+    "approx": true
+  },
+  "Noches De Colombia (Union City)": {
+    "lat": 40.757271715121185,
+    "lng": -74.14902377426196,
+    "approx": true
+  },
+  "City Bistro": {
+    "lat": 40.74454489478037,
+    "lng": -74.03343991197826,
+    "approx": true
+  },
+  "Wicked Wolf Tavern": {
+    "lat": 40.74494045448884,
+    "lng": -74.03184916140658,
+    "approx": true
+  },
+  "Noches De Colombia (West New York)": {
+    "lat": 40.75797113371284,
+    "lng": -74.15083547630967,
+    "approx": true
+  },
+  "Brooklyn Chop House": {
+    "lat": 40.71129458027,
+    "lng": -74.006264066223,
+    "approx": false
+  },
+  "Chelsea Market": {
+    "lat": 40.741898386339,
+    "lng": -74.004767643041,
+    "approx": false
+  },
+  "Dickson's Farmstand Meats at Chelsea Market": {
+    "lat": 40.741898386339,
+    "lng": -74.004767643041,
+    "approx": false
+  },
+  "Fonda - Chelsea": {
+    "lat": 40.745581220335,
+    "lng": -74.002076214485,
+    "approx": false
+  },
+  "La Devozione": {
+    "lat": 40.741898386339,
+    "lng": -74.004767643041,
+    "approx": false
+  },
+  "Lobster Place": {
+    "lat": 40.741898386339,
+    "lng": -74.004767643041,
+    "approx": false
+  },
+  "Nuyores": {
+    "lat": 40.737363784923,
+    "lng": -73.999152653219,
+    "approx": false
+  },
+  "Pier 57": {
+    "lat": 40.743988563538,
+    "lng": -74.008647003088,
+    "approx": false
+  },
+  "Kilo Bravo": {
+    "lat": 40.719047961334,
+    "lng": -73.955346042495,
+    "approx": false
+  },
+  "Kokomo": {
+    "lat": 40.721985655799,
+    "lng": -73.95983130025,
+    "approx": false
+  },
+  "Mugs Ale House": {
+    "lat": 40.719501355561,
+    "lng": -73.955835262492,
+    "approx": false
+  },
+  "Palenque": {
+    "lat": 40.712608342521,
+    "lng": -73.943992502191,
+    "approx": false
+  },
+  "Salt + Charcoal": {
+    "lat": 40.719561810323,
+    "lng": -73.998155835113,
+    "approx": false
+  },
+  "DiWine": {
+    "lat": 40.760919719257,
+    "lng": -73.916091789698,
+    "approx": false
+  },
+  "Duzan Mediterranean Grill": {
+    "lat": 40.768689540947,
+    "lng": -73.91098521308,
+    "approx": false
+  },
+  "Il Nonno": {
+    "lat": 40.771328415615,
+    "lng": -73.922538376154,
+    "approx": false
+  },
+  "Pig Beach BBQ": {
+    "lat": 40.755646200677,
+    "lng": -73.924910092422,
+    "approx": false
+  },
+  "Rivercrest": {
+    "lat": 40.775305607981,
+    "lng": -73.909425891499,
+    "approx": false
+  },
+  "Sotto la Luna": {
+    "lat": 40.759030916727,
+    "lng": -73.927676478292,
+    "approx": false
+  },
+  "Keuka Kafe, a Wine Bar": {
+    "lat": 40.718161006926,
+    "lng": -73.836807203546,
+    "approx": false
+  },
+  "Mito - Forest Hills": {
+    "lat": 40.73248364013,
+    "lng": -73.849449457689,
+    "approx": false
+  },
+  "Houston Hall": {
+    "lat": 40.72858087199,
+    "lng": -74.00449559054,
+    "approx": false
+  },
+  "La Contenta Oeste": {
+    "lat": 40.735038113808,
+    "lng": -73.997600743055,
+    "approx": false
+  },
+  "Himalayan Yak": {
+    "lat": 40.746594260312,
+    "lng": -73.893275765117,
+    "approx": false
+  },
+  "Little Owl": {
+    "lat": 40.732162784221,
+    "lng": -74.005213160971,
+    "approx": false
+  },
+  "Morandi": {
+    "lat": 40.735487020572,
+    "lng": -74.001603016812,
+    "approx": false
+  },
+  "Lima": {
+    "lat": 40.755941999534,
+    "lng": -73.882289958538,
+    "approx": false
+  },
+  "Taco Mahal": {
+    "lat": 40.732256481521,
+    "lng": -74.003456073847,
+    "approx": false
+  },
+  "Pollos A La Brasa Mario": {
+    "lat": 40.749793689297,
+    "lng": -73.883277778637,
+    "approx": false
+  },
+  "The Monster": {
+    "lat": 40.733295328932,
+    "lng": -74.002609674134,
+    "approx": false
+  },
+  "Via 13": {
+    "lat": 40.737230131689,
+    "lng": -73.998834798485,
+    "approx": false
+  },
+  "The Queensboro": {
+    "lat": 40.755318723553,
+    "lng": -73.887126091336,
+    "approx": false
+  },
+  "Charm Bar & Restaurant": {
+    "lat": 40.681947581146,
+    "lng": -73.976311663283,
+    "approx": false
+  },
+  "The Nourish Spot": {
+    "lat": 40.69807024928,
+    "lng": -73.792255744723,
+    "approx": false
+  },
+  "The Poutine Guy": {
+    "lat": 40.718761523056,
+    "lng": -73.99945005844,
+    "approx": false
+  },
+  "La Baraka": {
+    "lat": 40.772052363567,
+    "lng": -73.734398514797,
+    "approx": false
+  },
+  "Tom’s Restaurant": {
+    "lat": 40.674508937318,
+    "lng": -73.963201188467,
+    "approx": false
+  },
+  "Aloft Long Island City Manhattan View Hotel": {
+    "lat": 40.748149910631,
+    "lng": -73.939686857176,
+    "approx": false
+  },
+  "Bareburger Long Island City": {
+    "lat": 40.743931132309,
+    "lng": -73.953619138558,
+    "approx": false
+  },
+  "YaraNYC": {
+    "lat": 40.756608420957,
+    "lng": -73.966637706134,
+    "approx": false
+  },
+  "Boro Hotel New York": {
+    "lat": 40.755105584719,
+    "lng": -73.935397348353,
+    "approx": false
+  },
+  "Gino's Restaurant & Pizzeria": {
+    "lat": 40.630179069907,
+    "lng": -74.022430988496,
+    "approx": false
+  },
+  "Ho’Brah": {
+    "lat": 40.623309558234,
+    "lng": -74.031201671919,
+    "approx": false
+  },
+  "Dive Bar LIC": {
+    "lat": 40.755723417266,
+    "lng": -73.92806123703,
+    "approx": false
+  },
+  "The Kettle Black": {
+    "lat": 40.630930707414,
+    "lng": -74.103109972542,
+    "approx": false
+  },
+  "Arepas": {
+    "lat": 40.680240388754,
+    "lng": -73.949636914412,
+    "approx": false
+  },
+  "Jing Li": {
+    "lat": 40.748057111216,
+    "lng": -73.93994840854,
+    "approx": false
+  },
+  "Little Chef Little Cafe": {
+    "lat": 40.744383134328,
+    "lng": -73.954955825086,
+    "approx": false
+  },
+  "Bklyn Blend": {
+    "lat": 40.692521290053,
+    "lng": -73.945813211214,
+    "approx": false
+  },
+  "Rockaway Brewing Company": {
+    "lat": 40.747260224305,
+    "lng": -73.954995603064,
+    "approx": false
+  },
+  "Skinny's Cantina": {
+    "lat": 40.745081504014,
+    "lng": -73.957563472957,
+    "approx": false
+  },
+  "Bierhaus NYC": {
+    "lat": 40.752472629948,
+    "lng": -73.973293539063,
+    "approx": false
+  },
+  "Dar525 - Bedford-Stuyvesant": {
+    "lat": 40.805580373382,
+    "lng": -73.947171650039,
+    "approx": false
+  },
+  "The Greats of Craft": {
+    "lat": 40.75218800842,
+    "lng": -73.948614315429,
+    "approx": false
+  },
+  "Bonsaii Tapas & Wine Bar": {
+    "lat": 40.759819467972,
+    "lng": -73.970387825401,
+    "approx": false
+  },
+  "El Burrito Nacho": {
+    "lat": 40.761547116187,
+    "lng": -73.983883308058,
+    "approx": false
+  },
+  "Dos Caminos Lexington": {
+    "lat": 40.753720936898,
+    "lng": -73.97447441974,
+    "approx": false
+  },
+  "Rustik Tavern": {
+    "lat": 40.690641016895,
+    "lng": -73.95826707793,
+    "approx": false
+  },
+  "The Flying Fox Tavern": {
+    "lat": 40.705168475352,
+    "lng": -73.906281044857,
+    "approx": false
+  },
+  "Draught 55": {
+    "lat": 40.758340925114,
+    "lng": -73.966881679232,
+    "approx": false
+  },
+  "PopOut": {
+    "lat": 40.678293306918,
+    "lng": -73.728901255843,
+    "approx": false
+  },
+  "Empire Steak House - Midtown East": {
+    "lat": 40.756305362225,
+    "lng": -73.971742775425,
+    "approx": false
+  },
+  "Wadadli": {
+    "lat": 40.684745633534,
+    "lng": -73.944358565467,
+    "approx": false
+  },
+  "Five Iron Golf - Grand Central": {
+    "lat": 40.750862389301,
+    "lng": -73.978505362958,
+    "approx": false
+  },
+  "Black Forest Brooklyn - Smith Street": {
+    "lat": 40.685649605799,
+    "lng": -73.991111329857,
+    "approx": false
+  },
+  "InterContinental New York Barclay": {
+    "lat": 40.755705265992,
+    "lng": -73.974220410107,
+    "approx": false
+  },
+  "Lele's Roman": {
+    "lat": 40.688095709989,
+    "lng": -73.983956938539,
+    "approx": false
+  },
+  "Neir's Tavern": {
+    "lat": 40.690258342509,
+    "lng": -73.863547016957,
+    "approx": false
+  },
+  "Little Thai Kitchen": {
+    "lat": 40.757342811988,
+    "lng": -73.968385646504,
+    "approx": false
+  },
+  "Maggie's Place": {
+    "lat": 40.756549566068,
+    "lng": -73.97816022997,
+    "approx": false
+  },
+  "Vineapple": {
+    "lat": 40.698495639798,
+    "lng": -73.99393584149,
+    "approx": false
+  },
+  "Morton's The Steakhouse—Manhattan": {
+    "lat": 40.755690049395,
+    "lng": -73.979185335646,
+    "approx": false
+  },
+  "The Smith - Midtown": {
+    "lat": 40.755126254033,
+    "lng": -73.968252885224,
+    "approx": false
+  },
+  "Joe's Italian Deli": {
+    "lat": 40.854377826889,
+    "lng": -73.884907697551,
+    "approx": false
+  },
+  "The Splendid": {
+    "lat": 40.759418748392,
+    "lng": -73.975570959713,
+    "approx": false
+  },
+  "Veerays": {
+    "lat": 40.752607039503,
+    "lng": -73.972684963803,
+    "approx": false
+  },
+  "MiniBar": {
+    "lat": 40.67743941482,
+    "lng": -73.998350090387,
+    "approx": false
+  },
+  "Tino’s Delicatessen": {
+    "lat": 40.856357512845,
+    "lng": -73.886794441465,
+    "approx": false
+  },
+  "Bronx Drafthouse": {
+    "lat": 40.827920902738,
+    "lng": -73.924614538488,
+    "approx": false
+  },
+  "5 Acres": {
+    "lat": 40.758778417538,
+    "lng": -73.978746282991,
+    "approx": false
+  },
+  "Emily": {
+    "lat": 40.683439380385,
+    "lng": -73.966396872469,
+    "approx": false
+  },
+  "Code Red Restaurant & Lounge": {
+    "lat": 40.871324270346,
+    "lng": -73.848033019779,
+    "approx": false
+  },
+  "Putnam's Pub & Cooker": {
+    "lat": 40.69318147057,
+    "lng": -73.968973285862,
+    "approx": false
+  },
+  "Rosa's at Park": {
+    "lat": 40.813209804635,
+    "lng": -73.92862049111,
+    "approx": false
+  },
+  "Andrew’s NYC Diner": {
+    "lat": 40.751682379431,
+    "lng": -73.990030247514,
+    "approx": false
+  },
+  "Samyan": {
+    "lat": 40.683490965696,
+    "lng": -73.967185463151,
+    "approx": false
+  },
+  "Orchard Beach": {
+    "lat": 40.714490624859,
+    "lng": -73.99217895227,
+    "approx": false
+  },
+  "Bar 1905": {
+    "lat": 40.753904376494,
+    "lng": -73.993674449372,
+    "approx": false
+  },
+  "Bill's Bar & Burger—Rockefeller Center": {
+    "lat": 40.759238299527,
+    "lng": -73.978234864915,
+    "approx": false
+  },
+  "Somewhere Nowhere NYC": {
+    "lat": 40.744306276454,
+    "lng": -73.992303918363,
+    "approx": false
+  },
+  "Golden Unicorn": {
+    "lat": 40.713556180071,
+    "lng": -73.996963480061,
+    "approx": false
+  },
+  "The Crown": {
+    "lat": 40.715793883163,
+    "lng": -73.996414815748,
+    "approx": false
+  },
+  "Café d'Anvers": {
+    "lat": 40.788455071977,
+    "lng": -73.948958194088,
+    "approx": false
+  },
+  "East Harlem Bottling Co.": {
+    "lat": 40.792990361128,
+    "lng": -73.945650087705,
+    "approx": false
+  },
+  "La Marqueta": {
+    "lat": 40.797735508937,
+    "lng": -73.944473757452,
+    "approx": false
+  },
+  "Balade": {
+    "lat": 40.730381785919,
+    "lng": -73.983195120995,
+    "approx": false
+  },
+  "Bananas": {
+    "lat": 40.72911731215,
+    "lng": -73.984116464858,
+    "approx": false
+  },
+  "Mimi Cheng's Dumplings": {
+    "lat": 40.730750766682,
+    "lng": -73.986191989044,
+    "approx": false
+  },
+  "Nowon NYC": {
+    "lat": 40.725435072676,
+    "lng": -73.983721765053,
+    "approx": false
+  },
+  "Nurture What Matters @ Riverdale Y Farmers Market": {
+    "lat": 40.885200935875,
+    "lng": -73.911218732825,
+    "approx": false
+  },
+  "Brooklyn Dumpling Shop": {
+    "lat": 40.759237586153,
+    "lng": -73.986461598589,
+    "approx": false
+  },
+  "Alma": {
+    "lat": 40.718628587317,
+    "lng": -73.979516978558,
+    "approx": false
+  },
+  "Foodtown Supermarket": {
+    "lat": 40.612220014593,
+    "lng": -74.099279052258,
+    "approx": false
+  },
+  "Hilton Garden Inn New York/Staten Island": {
+    "lat": 40.612506679523,
+    "lng": -74.175491872675,
+    "approx": false
+  },
+  "Central Park Cafe": {
+    "lat": 40.7658519357,
+    "lng": -73.979878778479,
+    "approx": false
+  },
+  "Lorenzo's Restaurant, Bar & Cabaret": {
+    "lat": 40.612764666896,
+    "lng": -74.175290021447,
+    "approx": false
+  },
+  "La Esquina Midtown": {
+    "lat": 40.764199981114,
+    "lng": -73.981082234727,
+    "approx": false
+  },
+  "Lil M Bubble Tea": {
+    "lat": 40.613025613335,
+    "lng": -74.122475740435,
+    "approx": false
+  },
+  "La Esquina Moynihan Train Hall": {
+    "lat": 40.750791110151,
+    "lng": -73.994569215847,
+    "approx": false
+  },
+  "The Sweet Life Bakeshop": {
+    "lat": 40.59829777964,
+    "lng": -74.063597069216,
+    "approx": false
+  },
+  "Le Botaniste": {
+    "lat": 40.753688596929,
+    "lng": -73.981234382162,
+    "approx": false
+  },
+  "Gueros": {
+    "lat": 40.657021253039,
+    "lng": -73.978627349042,
+    "approx": false
+  },
+  "Italianissimo Ristorante": {
+    "lat": 40.598442236089,
+    "lng": -74.065448862635,
+    "approx": false
+  },
+  "Meat NY": {
+    "lat": 40.675697870124,
+    "lng": -73.941528397199,
+    "approx": false
+  },
+  "Le Rock": {
+    "lat": 40.759238299527,
+    "lng": -73.978234864915,
+    "approx": false
+  },
+  "The Crabby Shack": {
+    "lat": 40.67744923411,
+    "lng": -73.955441622876,
+    "approx": false
+  },
+  "Rab's": {
+    "lat": 40.589525290599,
+    "lng": -74.089359274156,
+    "approx": false
+  },
+  "Little Opus": {
+    "lat": 40.757712903685,
+    "lng": -73.983185339417,
+    "approx": false
+  },
+  "Naro": {
+    "lat": 40.757991624571,
+    "lng": -73.977683537377,
+    "approx": false
+  },
+  "Nudibranch": {
+    "lat": 40.727387373495,
+    "lng": -73.985550949885,
+    "approx": false
+  },
+  "Plado Tasting Bar": {
+    "lat": 40.722156980484,
+    "lng": -73.98360740304,
+    "approx": false
+  },
+  "Poppy": {
+    "lat": 40.729071180992,
+    "lng": -73.981133662331,
+    "approx": false
+  },
+  "The Long Pour": {
+    "lat": 40.729541927587,
+    "lng": -73.987071769358,
+    "approx": false
+  },
+  "The Smith - East Village": {
+    "lat": 40.731028940763,
+    "lng": -73.988739955394,
+    "approx": false
+  },
+  "Yuca Bar": {
+    "lat": 40.726131584291,
+    "lng": -73.983565237523,
+    "approx": false
+  },
+  "Blue Haven South": {
+    "lat": 40.709991169186,
+    "lng": -74.007156678732,
+    "approx": false
+  },
+  "Mercer Labs": {
+    "lat": 40.710503088541,
+    "lng": -74.009821694502,
+    "approx": false
+  },
+  "Stout NYC Financial District": {
+    "lat": 40.70814401867,
+    "lng": -74.006521325713,
+    "approx": false
+  },
+  "Eataly NYC Flatiron": {
+    "lat": 40.741629373221,
+    "lng": -73.989605176632,
+    "approx": false
+  },
+  "Ralph's Sports Bar": {
+    "lat": 40.591400605062,
+    "lng": -74.101014182056,
+    "approx": false
+  },
+  "Scorch Entertainment LLC": {
+    "lat": 40.68171652896,
+    "lng": -73.878766054913,
+    "approx": false
+  },
+  "Incas Grill Peruvian Kitchen": {
+    "lat": 40.579104731265,
+    "lng": -74.10830688382,
+    "approx": false
+  },
+  "Pasta Lovers": {
+    "lat": 40.759735656719,
+    "lng": -73.982149904593,
+    "approx": false
+  },
+  "La Puerta Roja": {
+    "lat": 40.639700368789,
+    "lng": -73.967661231915,
+    "approx": false
+  },
+  "Canlon’s Restaurant": {
+    "lat": 40.565183518892,
+    "lng": -74.126734663328,
+    "approx": false
+  },
+  "Playwright Tavern": {
+    "lat": 40.760697632363,
+    "lng": -73.984434060741,
+    "approx": false
+  },
+  "The Ox Tavern at westwood": {
+    "lat": 40.635060771204,
+    "lng": -73.961176281506,
+    "approx": false
+  },
+  "Cafe Con Pan": {
+    "lat": 40.637655256056,
+    "lng": -74.133526652113,
+    "approx": false
+  },
+  "RPM": {
+    "lat": 40.764176046094,
+    "lng": -73.98296732338,
+    "approx": false
+  },
+  "Carne By Allora": {
+    "lat": 40.689599633379,
+    "lng": -73.987792239566,
+    "approx": false
+  },
+  "Philip's Candy": {
+    "lat": 40.625199254164,
+    "lng": -74.136060906945,
+    "approx": false
+  },
+  "Tacalle": {
+    "lat": 40.751274040795,
+    "lng": -73.983322366383,
+    "approx": false
+  },
+  "EastVille Comedy Club": {
+    "lat": 40.685716343523,
+    "lng": -73.981552477927,
+    "approx": false
+  },
+  "Kills Boro Brewing Company": {
+    "lat": 40.644626075556,
+    "lng": -74.098793083867,
+    "approx": false
+  },
+  "Bar 314": {
+    "lat": 40.813978480048,
+    "lng": -73.959618735422,
+    "approx": false
+  },
+  "Hilton Brooklyn New York": {
+    "lat": 40.689599633379,
+    "lng": -73.987792239566,
+    "approx": false
+  },
+  "Don Cheech": {
+    "lat": 40.612478232411,
+    "lng": -74.064856010437,
+    "approx": false
+  },
+  "Blue Haven East": {
+    "lat": 40.745225585799,
+    "lng": -73.978402078466,
+    "approx": false
+  },
+  "New York Marriott at the Brooklyn Bridge": {
+    "lat": 40.692365656623,
+    "lng": -73.988814959352,
+    "approx": false
+  },
+  "Maizal": {
+    "lat": 40.618268062866,
+    "lng": -74.069292859253,
+    "approx": false
+  },
+  "Momosan Ramen & Sake": {
+    "lat": 40.749877403703,
+    "lng": -73.977277036448,
+    "approx": false
+  },
+  "Beat The Bomb": {
+    "lat": 40.708273565191,
+    "lng": -74.001755582116,
+    "approx": false
+  },
+  "Burrito Bar": {
+    "lat": 40.630203098798,
+    "lng": -74.108724793699,
+    "approx": false
+  },
+  "Mr. B Bar": {
+    "lat": 40.744803034891,
+    "lng": -73.977853681858,
+    "approx": false
+  },
+  "Park Avenue Tavern": {
+    "lat": 40.750761937948,
+    "lng": -73.978578154412,
+    "approx": false
+  },
+  "Five Iron Golf - Flatiron": {
+    "lat": 40.738982268729,
+    "lng": -73.991535594449,
+    "approx": false
+  },
+  "Nar Restaurant": {
+    "lat": 40.739026794722,
+    "lng": -73.989564580857,
+    "approx": false
+  },
+  "Wagamama - Nomad/Flatiron": {
+    "lat": 40.743119787082,
+    "lng": -73.988511832889,
+    "approx": false
+  },
+  "Yakiniku Futago": {
+    "lat": 40.738472418372,
+    "lng": -73.993389395314,
+    "approx": false
+  },
+  "Aliz Hotel Times Square": {
+    "lat": 40.756044898183,
+    "lng": -73.991105132372,
+    "approx": false
+  },
+  "Four Points by Sheraton Midtown Times Square": {
+    "lat": 40.756229800966,
+    "lng": -73.991546377547,
+    "approx": false
+  },
+  "Mustang Harry's": {
+    "lat": 40.747968955159,
+    "lng": -73.992911038719,
+    "approx": false
+  },
+  "Versa": {
+    "lat": 40.751846072326,
+    "lng": -73.990734279703,
+    "approx": false
+  },
+  "Giorgio's of Gramercy": {
+    "lat": 40.739235683141,
+    "lng": -73.987928364732,
+    "approx": false
+  },
+  "Amity Hall Downtown": {
+    "lat": 40.72969576968,
+    "lng": -73.998774148412,
+    "approx": false
+  },
+  "OddFellows Ice Cream Co. - Dumbo": {
+    "lat": 40.703609728243,
+    "lng": -74.009824442579,
+    "approx": false
+  },
+  "Egger's Ice Cream Parlor": {
+    "lat": 40.626425916961,
+    "lng": -74.129605343367,
+    "approx": false
+  },
+  "The Gem Saloon": {
+    "lat": 40.741375574367,
+    "lng": -73.981209569478,
+    "approx": false
+  },
+  "The Randolph": {
+    "lat": 40.700615448669,
+    "lng": -73.987953938418,
+    "approx": false
+  },
+  "Bless bar & kitchen": {
+    "lat": 40.824998976689,
+    "lng": -73.951409357334,
+    "approx": false
+  },
+  "Villa Berulia": {
+    "lat": 40.747033302045,
+    "lng": -73.980975649441,
+    "approx": false
+  },
+  "DriftBK Restaurant & Lounge": {
+    "lat": 40.637104340849,
+    "lng": -73.935420586042,
+    "approx": false
+  },
+  "Great Jones Distilling Co.": {
+    "lat": 40.727906319377,
+    "lng": -73.994585414151,
+    "approx": false
+  },
+  "Michelle’s Cocktail Lounge": {
+    "lat": 40.647660357467,
+    "lng": -73.955796457881,
+    "approx": false
+  },
+  "Sugar Monk": {
+    "lat": 40.808943781666,
+    "lng": -73.951979282928,
+    "approx": false
+  },
+  "Colonia Verde": {
+    "lat": 40.68957997971,
+    "lng": -73.970632774868,
+    "approx": false
+  },
+  "Ma•dé": {
+    "lat": 40.721431154443,
+    "lng": -73.995165036538,
+    "approx": false
+  },
+  "Dave & Buster's - Brooklyn Atlantic Station": {
+    "lat": 40.683393335466,
+    "lng": -73.975108602691,
+    "approx": false
+  },
+  "Wayan": {
+    "lat": 40.721395116425,
+    "lng": -73.995075471485,
+    "approx": false
+  },
+  "Fritz Cocktail Bar": {
+    "lat": 40.686630517522,
+    "lng": -73.975054009327,
+    "approx": false
+  },
+  "Il Fiorista": {
+    "lat": 40.744120297965,
+    "lng": -73.989633893308,
+    "approx": false
+  },
+  "Parklife": {
+    "lat": 40.678907875633,
+    "lng": -73.982916942448,
+    "approx": false
+  },
+  "The Seville": {
+    "lat": 40.7446637303,
+    "lng": -73.98547789112,
+    "approx": false
+  },
+  "Powerhouse Arts": {
+    "lat": 40.739577768203,
+    "lng": -73.982695877115,
+    "approx": false
+  },
+  "The Smith - Nomad": {
+    "lat": 40.744391175931,
+    "lng": -73.988818751061,
+    "approx": false
+  },
+  "Eataly NYC SoHo": {
+    "lat": 40.721651191475,
+    "lng": -73.997781054283,
+    "approx": false
+  },
+  "The Half Pint": {
+    "lat": 40.72960118131,
+    "lng": -73.998585779521,
+    "approx": false
+  },
+  "Walker Hotel Greenwich Village": {
+    "lat": 40.735968744164,
+    "lng": -73.995829751629,
+    "approx": false
+  },
+  "Patrick's on the Hill": {
+    "lat": 40.822608701071,
+    "lng": -73.949437152548,
+    "approx": false
+  },
+  "Dear Mama - Manhattanville": {
+    "lat": 40.816457616044,
+    "lng": -73.958013274521,
+    "approx": false
+  },
+  "Harlem Shake - Harlem": {
+    "lat": 40.807076492441,
+    "lng": -73.946081508937,
+    "approx": false
+  },
+  "Lido": {
+    "lat": 40.805013820839,
+    "lng": -73.95484561787,
+    "approx": false
+  },
+  "Melba’s": {
+    "lat": 40.803089300841,
+    "lng": -73.95642242632,
+    "approx": false
+  },
+  "Red Rooster Harlem": {
+    "lat": 40.808155434413,
+    "lng": -73.94511979627,
+    "approx": false
+  },
+  "Renaissance New York Harlem Hotel": {
+    "lat": 40.809424213115,
+    "lng": -73.949240606821,
+    "approx": false
+  },
+  "Kru": {
+    "lat": 40.72292069655,
+    "lng": -73.955635912299,
+    "approx": false
+  },
+  "Dos Caminos Times Square": {
+    "lat": 40.759053767298,
+    "lng": -73.985269046439,
+    "approx": false
+  },
+  "Brooklyn Burgers & Beer": {
+    "lat": 40.745122828375,
+    "lng": -73.98689310034,
+    "approx": false
+  },
+  "Ellen's Stardust Diner": {
+    "lat": 40.761888426713,
+    "lng": -73.983659773701,
+    "approx": false
+  },
+  "Chela Park Slope": {
+    "lat": 40.750032688301,
+    "lng": -73.983485495267,
+    "approx": false
+  },
+  "Gui Steakhouse": {
+    "lat": 40.760605771692,
+    "lng": -73.987241643898,
+    "approx": false
+  },
+  "Harlem Shake - Brooklyn": {
+    "lat": 40.739108108932,
+    "lng": -73.991271769664,
+    "approx": false
+  },
+  "Havana Central": {
+    "lat": 40.758047385162,
+    "lng": -73.983660920007,
+    "approx": false
+  },
+  "Jasmine's Caribbean Cuisine": {
+    "lat": 40.760737879602,
+    "lng": -73.990007126853,
+    "approx": false
+  },
+  "Nuevo Mexico Restaurant": {
+    "lat": 40.753116212643,
+    "lng": -73.981063969713,
+    "approx": false
+  },
+  "John's Pizzeria Times Square": {
+    "lat": 40.758111029962,
+    "lng": -73.987995766075,
+    "approx": false
+  },
+  "Pasta Louise": {
+    "lat": 40.664459203328,
+    "lng": -73.980387616487,
+    "approx": false
+  },
+  "Lagos Times Square": {
+    "lat": 40.760252955808,
+    "lng": -73.983792024682,
+    "approx": false
+  },
+  "The Dram Shop Bar": {
+    "lat": 40.668635917851,
+    "lng": -73.985053238155,
+    "approx": false
+  },
+  "Row NYC": {
+    "lat": 40.75855786187,
+    "lng": -73.988738531508,
+    "approx": false
+  },
+  "Morgan's Brooklyn Barbecue": {
+    "lat": 40.679856325302,
+    "lng": -73.974314930927,
+    "approx": false
+  },
+  "Sushi of Gari 46": {
+    "lat": 40.760501351681,
+    "lng": -73.989447837005,
+    "approx": false
+  },
+  "Antojitos del Patrón": {
+    "lat": 40.771420016972,
+    "lng": -73.982371249025,
+    "approx": false
+  },
+  "The Chatwal New York": {
+    "lat": 40.756443047187,
+    "lng": -73.984041657202,
+    "approx": false
+  },
+  "Safari": {
+    "lat": 40.80058178351,
+    "lng": -73.952577916769,
+    "approx": false
+  },
+  "The Fox": {
+    "lat": 40.806797951428,
+    "lng": -73.953545510515,
+    "approx": false
+  },
+  "Cheeseboat - Hell's Kitchen": {
+    "lat": 40.763758094941,
+    "lng": -73.988833697985,
+    "approx": false
+  },
+  "Circle Line Sightseeing Cruises": {
+    "lat": 40.7619637338,
+    "lng": -74.001036050098,
+    "approx": false
+  },
+  "Crowne Plaza HY36 Midtown Manhattan": {
+    "lat": 40.753691602246,
+    "lng": -73.993179552347,
+    "approx": false
+  },
+  "Dutch Fred’s": {
+    "lat": 40.760554524705,
+    "lng": -73.987668460527,
+    "approx": false
+  },
+  "Kings of Kobe - Wagyu Kitchen & Bar": {
+    "lat": 40.761394339437,
+    "lng": -73.999840250112,
+    "approx": false
+  },
+  "Masseria Caffè - Hell's Kitchen": {
+    "lat": 40.768410466165,
+    "lng": -73.985443114378,
+    "approx": false
+  },
+  "Molyvos": {
+    "lat": 40.759108941234,
+    "lng": -73.992311597375,
+    "approx": false
+  },
+  "Ix restaurant": {
+    "lat": 40.770812391733,
+    "lng": -73.980621929993,
+    "approx": false
+  },
+  "The Long Room": {
+    "lat": 40.756334843237,
+    "lng": -73.983784236574,
+    "approx": false
+  },
+  "Marketbarbk": {
+    "lat": 40.657781124761,
+    "lng": -73.950244357382,
+    "approx": false
+  },
+  "Yard House": {
+    "lat": 40.754964076541,
+    "lng": -73.987651350879,
+    "approx": false
+  },
+  "Taquería El Patrón Mexican Grill": {
+    "lat": 40.770783428526,
+    "lng": -73.980553142392,
+    "approx": false
+  },
+  "American Cut Steakhouse—Tribeca": {
+    "lat": 40.719086877985,
+    "lng": -74.010276497131,
+    "approx": false
+  },
+  "Red Hook Lobster Pound": {
+    "lat": 40.679764267648,
+    "lng": -74.010173576114,
+    "approx": false
+  },
+  "Filé Gumbo Bar": {
+    "lat": 40.718561700047,
+    "lng": -74.004997689487,
+    "approx": false
+  },
+  "Shipwrecked": {
+    "lat": 40.670954141564,
+    "lng": -74.001313825852,
+    "approx": false
+  },
+  "Gran Morsi": {
+    "lat": 40.71412432874,
+    "lng": -74.007719638322,
+    "approx": false
+  },
+  "Pepolino": {
+    "lat": 40.720978567191,
+    "lng": -74.004843802443,
+    "approx": false
+  },
+  "Strong Rope Brewery - Red Hook": {
+    "lat": 40.677590389061,
+    "lng": -74.017639450874,
+    "approx": false
+  },
+  "Smyth Tribeca": {
+    "lat": 40.715167244515,
+    "lng": -74.009425096558,
+    "approx": false
+  },
+  "Mikhuy Peruvian Restaurant": {
+    "lat": 40.756907623327,
+    "lng": -73.978469328579,
+    "approx": false
+  },
+  "Walker Hotel Tribeca": {
+    "lat": 40.718285382896,
+    "lng": -74.00193636459,
+    "approx": false
+  },
+  "Minuto Bauli": {
+    "lat": 40.737452604105,
+    "lng": -73.990153451844,
+    "approx": false
+  },
+  "Endless Life Brewing": {
+    "lat": 40.657447742852,
+    "lng": -74.006713820446,
+    "approx": false
+  },
+  "Mission Ceviche - Union Square": {
+    "lat": 40.737782573632,
+    "lng": -73.991744946525,
+    "approx": false
+  },
+  "NYC Water Cruises": {
+    "lat": 40.764609282248,
+    "lng": -73.977721626766,
+    "approx": false
+  },
+  "Planet Taco": {
+    "lat": 40.762495297835,
+    "lng": -73.989759220641,
+    "approx": false
+  },
+  "Romer Hell's Kitchen": {
+    "lat": 40.763047700886,
+    "lng": -73.985637425157,
+    "approx": false
+  },
+  "Simple Brewing Co": {
+    "lat": 40.766243992565,
+    "lng": -73.987889028274,
+    "approx": false
+  },
+  "The Corner Chinese Restaurant": {
+    "lat": 40.762103036063,
+    "lng": -73.989870641024,
+    "approx": false
+  },
+  "The Mean Fiddler": {
+    "lat": 40.759901610462,
+    "lng": -73.986434613553,
+    "approx": false
+  },
+  "Empire State Building Observatory": {
+    "lat": 40.748653379015,
+    "lng": -73.985242583802,
+    "approx": false
+  },
+  "Five Iron Golf - Herald Square": {
+    "lat": 40.748230618513,
+    "lng": -73.989006124533,
+    "approx": false
+  },
+  "Gotham Hall": {
+    "lat": 40.751604405005,
+    "lng": -73.987528873834,
+    "approx": false
+  },
+  "Pennsylvania 6": {
+    "lat": 40.748350618973,
+    "lng": -73.990394209692,
+    "approx": false
+  },
+  "Gun Hill Publick House": {
+    "lat": 40.657447742852,
+    "lng": -74.006713820446,
+    "approx": false
+  },
+  "Tarallucci e Vino - Union Square": {
+    "lat": 40.738145992014,
+    "lng": -73.990795464225,
+    "approx": false
+  },
+  "Café Boulud": {
+    "lat": 40.765388771149,
+    "lng": -73.968077540635,
+    "approx": false
+  },
+  "Baci & Abbracci": {
+    "lat": 40.719059878783,
+    "lng": -73.996323413192,
+    "approx": false
+  },
+  "Catch n' Chop": {
+    "lat": 40.781362914,
+    "lng": -73.952223743996,
+    "approx": false
+  },
+  "Barano": {
+    "lat": 40.706195569829,
+    "lng": -74.012891327504,
+    "approx": false
+  },
+  "Daniel": {
+    "lat": 40.766984675919,
+    "lng": -73.967968689972,
+    "approx": false
+  },
+  "Barcade Brooklyn": {
+    "lat": 40.712025449327,
+    "lng": -73.951215717448,
+    "approx": false
+  },
+  "David Burke Tavern": {
+    "lat": 40.764249815333,
+    "lng": -73.96699883068,
+    "approx": false
+  },
+  "Brooklyn Bowl": {
+    "lat": 40.722202105231,
+    "lng": -73.957452043995,
+    "approx": false
+  },
+  "Five Iron Golf - Upper East Side": {
+    "lat": 40.784006804308,
+    "lng": -73.950108436118,
+    "approx": false
+  },
+  "Francie": {
+    "lat": 40.708902088936,
+    "lng": -74.010667100376,
+    "approx": false
+  },
+  "Horn's Hook Tavern": {
+    "lat": 40.774712315235,
+    "lng": -73.951040215383,
+    "approx": false
+  },
+  "Kent Ale House": {
+    "lat": 40.722219929821,
+    "lng": -73.959583801088,
+    "approx": false
+  },
+  "Kelly's Sports Bar - Upper East Side": {
+    "lat": 40.761712578165,
+    "lng": -73.963443593448,
+    "approx": false
+  },
+  "Stout NYC Penn Station": {
+    "lat": 40.751899691384,
+    "lng": -73.990550036646,
+    "approx": false
+  },
+  "The Ragtrader": {
+    "lat": 40.750623776668,
+    "lng": -73.985919605175,
+    "approx": false
+  },
+  "HERE Arts Center": {
+    "lat": 40.725585815541,
+    "lng": -74.004081907262,
+    "approx": false
+  },
+  "SoHo Playhouse": {
+    "lat": 40.726354345994,
+    "lng": -74.004211716868,
+    "approx": false
+  },
+  "Catria Cucina and Bar": {
+    "lat": 40.75439182208,
+    "lng": -73.99853007225,
+    "approx": false
+  },
+  "Greywind": {
+    "lat": 40.75532758312,
+    "lng": -73.998689725383,
+    "approx": false
+  },
+  "Papa San": {
+    "lat": 40.754661647428,
+    "lng": -73.999170932512,
+    "approx": false
+  },
+  "Talavera": {
+    "lat": 40.756560488597,
+    "lng": -73.997790153922,
+    "approx": false
+  },
+  "Tarallucci e Vino - Manhattan West": {
+    "lat": 40.761034727766,
+    "lng": -73.998979778504,
+    "approx": false
+  },
+  "Buunni Inwood": {
+    "lat": 40.868036475638,
+    "lng": -73.920227398515,
+    "approx": false
+  },
+  "Mission Ceviche - Upper East Side": {
+    "lat": 40.769292911847,
+    "lng": -73.957919933942,
+    "approx": false
+  },
+  "Treadwell Park - Upper East Side": {
+    "lat": 40.76128769424,
+    "lng": -73.960839474289,
+    "approx": false
+  },
+  "Zoì Mediterranean UES": {
+    "lat": 40.772137561469,
+    "lng": -73.95584064339,
+    "approx": false
+  },
+  "Amity Hall Uptown": {
+    "lat": 40.802048562089,
+    "lng": -73.964625901952,
+    "approx": false
+  },
+  "Arthouse Hotel New York City": {
+    "lat": 40.782343903421,
+    "lng": -73.98077950669,
+    "approx": false
+  },
+  "Hi-Life": {
+    "lat": 40.785654926639,
+    "lng": -73.976409157257,
+    "approx": false
+  },
+  "Hostelling International—New York": {
+    "lat": 40.798526225207,
+    "lng": -73.96701673088,
+    "approx": false
+  },
+  "Hotel Belleclaire": {
+    "lat": 40.78235728779,
+    "lng": -73.980931240433,
+    "approx": false
+  },
+  "Mama Taco": {
+    "lat": 40.869396113217,
+    "lng": -73.916719786785,
+    "approx": false
+  },
+  "Desi Galli": {
+    "lat": 40.742114892213,
+    "lng": -73.982760142049,
+    "approx": false
+  },
+  "Fitzgerald's Pub": {
+    "lat": 40.740025884507,
+    "lng": -73.982363084865,
+    "approx": false
+  },
+  "Little River": {
+    "lat": 40.740213823865,
+    "lng": -73.974893192886,
+    "approx": false
+  },
+  "Sundays Well": {
+    "lat": 40.740884755098,
+    "lng": -73.981736996497,
+    "approx": false
+  },
+  "Tipsy Scoop - Manhattan": {
+    "lat": 40.740550308026,
+    "lng": -73.981172114544,
+    "approx": false
+  },
+  "Ayza Wine & Chocolate Bar": {
+    "lat": 40.746784114561,
+    "lng": -73.986374148148,
+    "approx": false
+  },
+  "Grotta Azzurra": {
+    "lat": 40.720462192609,
+    "lng": -73.996931589717,
+    "approx": false
+  },
+  "Champagne Problems": {
+    "lat": 40.721366175341,
+    "lng": -73.993547684522,
+    "approx": false
+  },
+  "Donnybrook": {
+    "lat": 40.720146152623,
+    "lng": -73.984601251242,
+    "approx": false
+  },
+  "Nice Matin": {
+    "lat": 40.783227564802,
+    "lng": -73.97835429948,
+    "approx": false
+  },
+  "Pappardella": {
+    "lat": 40.779279387937,
+    "lng": -73.977516235267,
+    "approx": false
+  },
+  "Tarallucci e Vino - Upper West Side": {
+    "lat": 40.784390606608,
+    "lng": -73.97361399026,
+    "approx": false
+  },
+  "The Ribbon—Upper West Side": {
+    "lat": 40.776643596233,
+    "lng": -73.977128157068,
+    "approx": false
+  },
+  "The Smith - Lincoln Square": {
+    "lat": 40.771454206388,
+    "lng": -73.982084489923,
+    "approx": false
+  },
+  "The Wolfe": {
+    "lat": 40.784015120182,
+    "lng": -73.977606479009,
+    "approx": false
+  },
+  "Westland Roe": {
+    "lat": 40.778247313124,
+    "lng": -73.980935378752,
+    "approx": false
+  },
+  "181 Cabrini": {
+    "lat": 40.85127619614,
+    "lng": -73.940108010651,
+    "approx": false
+  },
+  "Radio Hotel": {
+    "lat": 40.847505732711,
+    "lng": -73.93142299303,
+    "approx": false
+  },
+  "Blind Tiger Ale House": {
+    "lat": 40.731816307848,
+    "lng": -74.003257711621,
+    "approx": false
+  },
+  "Doughnut Plant - LES": {
+    "lat": 40.716413153358,
+    "lng": -73.988468586947,
+    "approx": false
+  },
+  "Lucky Jack's": {
+    "lat": 40.719847923737,
+    "lng": -73.989431894899,
+    "approx": false
+  },
+  "Pizza School NYC": {
+    "lat": 40.716502262044,
+    "lng": -73.988728487218,
+    "approx": false
+  },
+  "Scarr’s Pizza": {
+    "lat": 40.71584243651,
+    "lng": -73.991480814055,
+    "approx": false
+  },
+  "Century 21 NYC": {
+    "lat": 40.709991324991,
+    "lng": -74.010245767839,
+    "approx": false
+  },
+  "Five Iron Golf - FiDi": {
+    "lat": 40.704119601409,
+    "lng": -74.010602691249,
+    "approx": false
+  },
+  "Hotel Indigo NYC Financial District": {
+    "lat": 40.707567542178,
+    "lng": -74.013177871016,
+    "approx": false
+  },
+  "Starbucks Reserve Roastery": {
+    "lat": 40.741252749697,
+    "lng": -74.005171036734,
+    "approx": false
+  },
+  "Whitney Museum of American Art": {
+    "lat": 40.739432130789,
+    "lng": -74.008249762205,
+    "approx": false
+  },
+  "Albert's Bar": {
+    "lat": 40.750446060408,
+    "lng": -73.975906227381,
+    "approx": false
+  },
+  "Central Park Boathouse": {
+    "lat": 40.783900597371655,
+    "lng": -73.97207422426206,
+    "approx": true
+  },
+  "Millennium Hilton New York One UN Plaza": {
+    "lat": 40.753830133668345,
+    "lng": -73.97256928903613,
+    "approx": true
+  },
+  "1 Hotel Central Park": {
+    "lat": 40.75794902120724,
+    "lng": -73.99247340590894,
+    "approx": true
+  },
+  "Bryant Park Lounge": {
+    "lat": 40.759230155003706,
+    "lng": -73.9922469071508,
+    "approx": true
+  },
+  "STK Midtown": {
+    "lat": 40.75886558834774,
+    "lng": -73.9938056420059,
+    "approx": true
+  },
+  "Bitter Monk": {
+    "lat": 40.67676272820709,
+    "lng": -73.94431028550098,
+    "approx": true
+  },
+  "Wah Lung Restaurant": {
+    "lat": 40.677804874510684,
+    "lng": -73.94510223472612,
+    "approx": true
+  },
+  "Tea and Milk": {
+    "lat": 40.63645612526973,
+    "lng": -74.02039390594491,
+    "approx": true
+  },
+  "BKB Brooklyn Brasserie": {
+    "lat": 40.679367728769115,
+    "lng": -73.94429358089934,
+    "approx": true
+  },
+  "BKLYN Blend - Bedford-Stuyvesant": {
+    "lat": 40.67952536759984,
+    "lng": -73.94451508663107,
+    "approx": true
+  },
+  "Ursula": {
+    "lat": 40.67934900557795,
+    "lng": -73.94530036028216,
+    "approx": true
+  },
+  "Mile End Delicatessen": {
+    "lat": 40.68680329304372,
+    "lng": -73.98935634967259,
+    "approx": true
+  },
+  "Echo Bravo": {
+    "lat": 40.69372384651669,
+    "lng": -73.92006295426516,
+    "approx": true
+  },
+  "Kings County Brewers Collective": {
+    "lat": 40.694408203478105,
+    "lng": -73.9220657488854,
+    "approx": true
+  },
+  "Tony’s Pizzeria & Restaurant": {
+    "lat": 40.695675662442504,
+    "lng": -73.9207943993721,
+    "approx": true
+  },
+  "TriniJam BK": {
+    "lat": 40.67727762205793,
+    "lng": -73.9455050403353,
+    "approx": true
+  },
+  "Bati Ethiopian Kitchen": {
+    "lat": 40.68920784872201,
+    "lng": -73.9654857084227,
+    "approx": true
+  },
+  "Ruta Oaxaca - Cobble Hill": {
+    "lat": 40.68771545194703,
+    "lng": -73.99656409066262,
+    "approx": true
+  },
+  "Deno's Wonder Wheel Amusement Park": {
+    "lat": 40.67828729749803,
+    "lng": -73.94357691997908,
+    "approx": true
+  },
+  "Ruby’s Bar & Grill": {
+    "lat": 40.67688429502549,
+    "lng": -73.94479113599111,
+    "approx": true
+  },
+  "Crown Hill Theatre": {
+    "lat": 40.670802334943815,
+    "lng": -73.94512736928122,
+    "approx": true
+  },
+  "Franklin Park": {
+    "lat": 40.66898567831827,
+    "lng": -73.94434974410936,
+    "approx": true
+  },
+  "The Crown Inn": {
+    "lat": 40.6705936798537,
+    "lng": -73.94531460350356,
+    "approx": true
+  },
+  "DeKalb Market Hall": {
+    "lat": 40.6785871913164,
+    "lng": -73.94401124505873,
+    "approx": true
+  },
+  "Museum of Food and Drink": {
+    "lat": 40.67873598425818,
+    "lng": -73.9440485000041,
+    "approx": true
+  },
+  "BLND Coffee Studio": {
+    "lat": 40.72470007303244,
+    "lng": -73.94989296141091,
+    "approx": true
+  },
+  "Nitehawk Cinema Prospect Park": {
+    "lat": 40.67226290252766,
+    "lng": -73.98068040420009,
+    "approx": true
+  },
+  "Molkajete Restaurant & Bar": {
+    "lat": 40.659772880555344,
+    "lng": -73.98245798413805,
+    "approx": true
+  },
+  "Judy's": {
+    "lat": 40.65028611676242,
+    "lng": -74.00507000491567,
+    "approx": true
+  },
+  "Brooklyn Brewery": {
+    "lat": 40.7089094901152,
+    "lng": -73.95810163534249,
+    "approx": true
+  },
+  "Nitehawk Cinema Williamsburg": {
+    "lat": 40.7090808714038,
+    "lng": -73.9559759133273,
+    "approx": true
+  },
+  "Mito - Bayside": {
+    "lat": 40.72843334024806,
+    "lng": -73.79502923375752,
+    "approx": true
+  },
+  "Spa Castle": {
+    "lat": 40.7872966206299,
+    "lng": -73.84415820701149,
+    "approx": true
+  },
+  "Tuscan Hills": {
+    "lat": 40.718297876141136,
+    "lng": -73.84574062519592,
+    "approx": true
+  },
+  "Courtyard By Marriott - Queens/Fresh Meadows": {
+    "lat": 40.72905595638965,
+    "lng": -73.7958173634295,
+    "approx": true
+  },
+  "Addictive Wine & Tapas Bar": {
+    "lat": 40.75684694408148,
+    "lng": -73.88391475392068,
+    "approx": true
+  },
+  "Armondo's": {
+    "lat": 40.75491602782059,
+    "lng": -73.88422379366604,
+    "approx": true
+  },
+  "Flamingo Restaurant & Lounge": {
+    "lat": 40.75563699255159,
+    "lng": -73.88350848218329,
+    "approx": true
+  },
+  "Leo’s Restaurant & Sports Bar": {
+    "lat": 40.7565190199694,
+    "lng": -73.8836453593848,
+    "approx": true
+  },
+  "Riko": {
+    "lat": 40.756366384520405,
+    "lng": -73.88197143872785,
+    "approx": true
+  },
+  "Resorts World Casino New York City": {
+    "lat": 40.702370832493266,
+    "lng": -73.79261864775134,
+    "approx": true
+  },
+  "Corgi Jianbing": {
+    "lat": 40.74364656774431,
+    "lng": -73.94946356010342,
+    "approx": true
+  },
+  "Courtyard by Marriott - Long Island City": {
+    "lat": 40.74364961661499,
+    "lng": -73.9489934462181,
+    "approx": true
+  },
+  "Doughnut Plant - LIC": {
+    "lat": 40.74526258288547,
+    "lng": -73.9495897072159,
+    "approx": true
+  },
+  "Cafe Shangrila": {
+    "lat": 40.745346486943625,
+    "lng": -73.91866037032355,
+    "approx": true
+  },
+  "Jack’s Fire Dept": {
+    "lat": 40.74531103508513,
+    "lng": -73.91978450404002,
+    "approx": true
+  },
+  "Pollos Mario Woodside": {
+    "lat": 40.74756895535678,
+    "lng": -73.9052787926257,
+    "approx": true
+  },
+  "Rico Pan Bakery": {
+    "lat": 40.74694028605155,
+    "lng": -73.90522579714144,
+    "approx": true
+  },
+  "Thai Money Restaurant": {
+    "lat": 40.74610556699149,
+    "lng": -73.90456948277365,
+    "approx": true
+  },
+  "The Bronx Beer Hall": {
+    "lat": 40.85331629489557,
+    "lng": -73.88698671537614,
+    "approx": true
+  },
+  "The Bronx Brewery": {
+    "lat": 40.84606939349743,
+    "lng": -73.86378085041339,
+    "approx": true
+  },
+  "El Patrón Restaurant & Lounge 2 - Dongan Hills": {
+    "lat": 40.578553602248796,
+    "lng": -74.15138971530578,
+    "approx": true
+  },
+  "San Jeronimo Bakery & Restaurant": {
+    "lat": 40.580149970594135,
+    "lng": -74.1492193963666,
+    "approx": true
+  }
+}

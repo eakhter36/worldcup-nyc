@@ -16,6 +16,7 @@ const NAV_LINKS = [
   { label: "Transit",  href: "/transit" },
   { label: "Fan Zones", href: "/fan-zones" },
   { label: "Venues",   href: "/venues" },
+  { label: "Map",      href: "/map" },
 ];
 
 function useIsActive() {

@@ -3,25 +3,12 @@
 import { useState, useMemo } from "react";
 import { ChevronUp, ChevronDown, ChevronsUpDown, ExternalLink } from "lucide-react";
 import { type Venue, BOROUGHS, COUNTRIES } from "@/data/venues";
+import { remapType } from "@/lib/venue-utils";
 
 type SortKey = "name" | "borough" | "neighborhood" | "venueType" | "country" | "dealDetails";
 type SortDir = "asc" | "desc";
 
 const PAGE_SIZE = 50;
-
-const TYPE_MAP: Record<string, string> = {
-  "Beer Garden":    "Bar",
-  "Cultural Center":"Bar",
-  "Nightlife":      "Bar",
-  "Sports":         "Bar",
-  "Public Viewing": "Fan Zone",
-  "Pop-Up":         "Fan Zone",
-  "Hotel":          "Fan Zone",
-  "Attraction":     "Miscellaneous",
-  "Museum":         "Miscellaneous",
-  "Shopping":       "Miscellaneous",
-};
-function remapType(t: string): string { return TYPE_MAP[t] ?? t; }
 
 const VENUE_TYPES = ["Bar", "Fan Zone", "Miscellaneous", "Restaurant"];
 
