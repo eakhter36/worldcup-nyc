@@ -7,7 +7,16 @@ export const metadata = {
     "1,000+ NYC-area venues for the 2026 FIFA World Cup — watch parties, the Five Borough Winners Special $26 deal, fan bars, and more.",
 };
 
-export default function VenuesPage() {
+export default async function VenuesPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ countries?: string }>;
+}) {
+  const params = await searchParams;
+  const initialCountries = params.countries
+    ? params.countries.split(",").map(decodeURIComponent).filter(Boolean)
+    : [];
+
   const totalWithDeal    = venues.filter(v => v.dealDetails).length;
   const totalWithCountry = venues.filter(v => v.country).length;
 
@@ -48,7 +57,7 @@ export default function VenuesPage() {
 
         {/* Interactive table */}
         <div className="mt-10">
-          <VenuesTable venues={venues} />
+          <VenuesTable venues={venues} initialCountries={initialCountries} />
         </div>
 
         {/* Attribution */}

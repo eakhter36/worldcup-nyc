@@ -12,19 +12,16 @@ import {
 } from "@/components/ui/sheet";
 
 const NAV_LINKS = [
-  { label: "Schedule", href: "/#schedule" },
-  { label: "Transit",  href: "/transit" },
+  { label: "Schedule",  href: "/schedule" },
+  { label: "Transit",   href: "/transit" },
   { label: "Fan Zones", href: "/fan-zones" },
-  { label: "Venues",   href: "/venues" },
-  { label: "Map",      href: "/map" },
+  { label: "Venues",    href: "/venues" },
+  { label: "Map",       href: "/map" },
 ];
 
 function useIsActive() {
   const pathname = usePathname();
-  return (href: string) => {
-    if (href === "/#schedule") return pathname === "/";
-    return pathname === href;
-  };
+  return (href: string) => pathname === href;
 }
 
 export function SiteHeader() {

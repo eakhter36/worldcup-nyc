@@ -4,18 +4,70 @@ export interface Team {
   flag: string;
   primaryColor: string;
   group: string;
+  venueCountry: string | null;
 }
 
 export const teams: Team[] = [
-  { code: "BRA", name: "Brazil",  flag: "🇧🇷", primaryColor: "#009C3B", group: "C" },
-  { code: "MAR", name: "Morocco", flag: "🇲🇦", primaryColor: "#C1272D", group: "C" },
-  { code: "FRA", name: "France",  flag: "🇫🇷", primaryColor: "#003189", group: "I" },
-  { code: "SEN", name: "Senegal", flag: "🇸🇳", primaryColor: "#00853F", group: "I" },
-  { code: "NOR", name: "Norway",  flag: "🇳🇴", primaryColor: "#EF2B2D", group: "I" },
-  { code: "ECU", name: "Ecuador", flag: "🇪🇨", primaryColor: "#FFD100", group: "E" },
-  { code: "GER", name: "Germany", flag: "🇩🇪", primaryColor: "#000000", group: "E" },
-  { code: "PAN", name: "Panama",  flag: "🇵🇦", primaryColor: "#DB0032", group: "L" },
-  { code: "ENG", name: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿", primaryColor: "#012169", group: "L" },
+  // Group A
+  { code: "MEX", name: "Mexico",       flag: "🇲🇽", primaryColor: "#006847", group: "A", venueCountry: "Mexico" },
+  { code: "ZAF", name: "South Africa", flag: "🇿🇦", primaryColor: "#007A4D", group: "A", venueCountry: null },
+  { code: "KOR", name: "South Korea",  flag: "🇰🇷", primaryColor: "#C60C30", group: "A", venueCountry: "Korea Republic" },
+  { code: "CZE", name: "Czechia",      flag: "🇨🇿", primaryColor: "#D7141A", group: "A", venueCountry: null },
+  // Group B
+  { code: "CAN", name: "Canada",       flag: "🇨🇦", primaryColor: "#FF0000", group: "B", venueCountry: "Canada" },
+  { code: "BIH", name: "Bosnia & Herzegovina", flag: "🇧🇦", primaryColor: "#002395", group: "B", venueCountry: null },
+  { code: "QAT", name: "Qatar",        flag: "🇶🇦", primaryColor: "#8D1B3D", group: "B", venueCountry: null },
+  { code: "SUI", name: "Switzerland",  flag: "🇨🇭", primaryColor: "#FF0000", group: "B", venueCountry: null },
+  // Group C
+  { code: "BRA", name: "Brazil",       flag: "🇧🇷", primaryColor: "#009C3B", group: "C", venueCountry: "Brazil" },
+  { code: "MAR", name: "Morocco",      flag: "🇲🇦", primaryColor: "#C1272D", group: "C", venueCountry: "Morocco" },
+  { code: "HAI", name: "Haiti",        flag: "🇭🇹", primaryColor: "#00209F", group: "C", venueCountry: null },
+  { code: "SCO", name: "Scotland",     flag: "🏴󠁧󠁢󠁳󠁣󠁴󠁿", primaryColor: "#003893", group: "C", venueCountry: "Scotland" },
+  // Group D
+  { code: "USA", name: "United States", flag: "🇺🇸", primaryColor: "#3C3B6E", group: "D", venueCountry: "United States" },
+  { code: "PRY", name: "Paraguay",     flag: "🇵🇾", primaryColor: "#D52B1E", group: "D", venueCountry: null },
+  { code: "AUS", name: "Australia",    flag: "🇦🇺", primaryColor: "#00008B", group: "D", venueCountry: "Australia" },
+  { code: "TUR", name: "Türkiye",      flag: "🇹🇷", primaryColor: "#E30A17", group: "D", venueCountry: "Turkiye" },
+  // Group E
+  { code: "GER", name: "Germany",      flag: "🇩🇪", primaryColor: "#000000", group: "E", venueCountry: "Germany" },
+  { code: "CUW", name: "Curaçao",      flag: "🇨🇼", primaryColor: "#003DA5", group: "E", venueCountry: null },
+  { code: "CIV", name: "Ivory Coast",  flag: "🇨🇮", primaryColor: "#F77F00", group: "E", venueCountry: "Cote d'Ivoire" },
+  { code: "ECU", name: "Ecuador",      flag: "🇪🇨", primaryColor: "#FFD100", group: "E", venueCountry: "Ecuador" },
+  // Group F
+  { code: "NED", name: "Netherlands",  flag: "🇳🇱", primaryColor: "#FF4700", group: "F", venueCountry: "Netherlands" },
+  { code: "JPN", name: "Japan",        flag: "🇯🇵", primaryColor: "#BC002D", group: "F", venueCountry: null },
+  { code: "SWE", name: "Sweden",       flag: "🇸🇪", primaryColor: "#006AA7", group: "F", venueCountry: null },
+  { code: "TUN", name: "Tunisia",      flag: "🇹🇳", primaryColor: "#E70013", group: "F", venueCountry: null },
+  // Group G
+  { code: "IRN", name: "Iran",         flag: "🇮🇷", primaryColor: "#239F40", group: "G", venueCountry: "Iran" },
+  { code: "NZL", name: "New Zealand",  flag: "🇳🇿", primaryColor: "#00247D", group: "G", venueCountry: "New Zealand" },
+  { code: "BEL", name: "Belgium",      flag: "🇧🇪", primaryColor: "#EF3340", group: "G", venueCountry: "Belgium" },
+  { code: "EGY", name: "Egypt",        flag: "🇪🇬", primaryColor: "#CE1126", group: "G", venueCountry: "Egypt" },
+  // Group H
+  { code: "ESP", name: "Spain",        flag: "🇪🇸", primaryColor: "#AA151B", group: "H", venueCountry: "Spain" },
+  { code: "CPV", name: "Cape Verde",   flag: "🇨🇻", primaryColor: "#003893", group: "H", venueCountry: null },
+  { code: "KSA", name: "Saudi Arabia", flag: "🇸🇦", primaryColor: "#006C35", group: "H", venueCountry: null },
+  { code: "URU", name: "Uruguay",      flag: "🇺🇾", primaryColor: "#5CB8E8", group: "H", venueCountry: "Uruguay" },
+  // Group I
+  { code: "FRA", name: "France",       flag: "🇫🇷", primaryColor: "#003189", group: "I", venueCountry: "France" },
+  { code: "SEN", name: "Senegal",      flag: "🇸🇳", primaryColor: "#00853F", group: "I", venueCountry: "Senegal" },
+  { code: "IRQ", name: "Iraq",         flag: "🇮🇶", primaryColor: "#007A3D", group: "I", venueCountry: null },
+  { code: "NOR", name: "Norway",       flag: "🇳🇴", primaryColor: "#EF2B2D", group: "I", venueCountry: null },
+  // Group J
+  { code: "ARG", name: "Argentina",    flag: "🇦🇷", primaryColor: "#74ACDF", group: "J", venueCountry: "Argentina" },
+  { code: "ALG", name: "Algeria",      flag: "🇩🇿", primaryColor: "#006233", group: "J", venueCountry: null },
+  { code: "AUT", name: "Austria",      flag: "🇦🇹", primaryColor: "#ED2939", group: "J", venueCountry: null },
+  { code: "JOR", name: "Jordan",       flag: "🇯🇴", primaryColor: "#007A3D", group: "J", venueCountry: null },
+  // Group K
+  { code: "POR", name: "Portugal",     flag: "🇵🇹", primaryColor: "#006600", group: "K", venueCountry: "Portugal" },
+  { code: "COD", name: "DR Congo",     flag: "🇨🇩", primaryColor: "#007FFF", group: "K", venueCountry: null },
+  { code: "UZB", name: "Uzbekistan",   flag: "🇺🇿", primaryColor: "#1EB53A", group: "K", venueCountry: null },
+  { code: "COL", name: "Colombia",     flag: "🇨🇴", primaryColor: "#FCD116", group: "K", venueCountry: "Colombia" },
+  // Group L
+  { code: "ENG", name: "England",      flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿", primaryColor: "#012169", group: "L", venueCountry: "England" },
+  { code: "HRV", name: "Croatia",      flag: "🇭🇷", primaryColor: "#FF0000", group: "L", venueCountry: "Croatia" },
+  { code: "GHA", name: "Ghana",        flag: "🇬🇭", primaryColor: "#006B3F", group: "L", venueCountry: "Ghana" },
+  { code: "PAN", name: "Panama",       flag: "🇵🇦", primaryColor: "#DB0032", group: "L", venueCountry: null },
 ];
 
 export const teamByCode = Object.fromEntries(teams.map((t) => [t.code, t])) as Record<string, Team>;

@@ -1,13 +1,14 @@
-import { matches } from "@/data/matches";
+import Link from "next/link";
+import { metlifeMatches } from "@/data/matches";
 import { MatchCard } from "@/components/MatchCard";
 import { CountdownTimer } from "@/components/CountdownTimer";
 
 function getNextMatch() {
   const now = new Date();
-  return matches.find((m) => new Date(m.date) > now) ?? matches[matches.length - 1];
+  return metlifeMatches.find((m) => new Date(m.date) > now) ?? metlifeMatches[metlifeMatches.length - 1];
 }
 
-function formatMatchLabel(match: (typeof matches)[number]) {
+function formatMatchLabel(match: (typeof metlifeMatches)[number]) {
   const date = new Intl.DateTimeFormat("en-US", {
     month: "short",
     day: "numeric",
@@ -18,6 +19,9 @@ function formatMatchLabel(match: (typeof matches)[number]) {
     const stageMap: Record<string, string> = {
       ro32: "Round of 32",
       ro16: "Round of 16",
+      qf:   "Quarterfinal",
+      sf:   "Semifinal",
+      third: "Third Place",
       final: "Final",
     };
     return `${stageMap[match.stage] ?? match.stage} · ${date}`;
@@ -52,14 +56,22 @@ export default function Home() {
         />
       </section>
 
-      {/* Schedule */}
-      <section id="schedule" className="flex-1 px-4 pb-24">
+      {/* MetLife Schedule */}
+      <section id="schedule" className="flex-1 px-4 pb-16">
         <div className="mx-auto max-w-5xl">
-          <h2 className="mb-8 text-2xl font-bold tracking-tight text-white">
-            Match Schedule
-          </h2>
+          <div className="mb-8 flex items-end justify-between">
+            <h2 className="text-2xl font-bold tracking-tight text-white">
+              MetLife Schedule
+            </h2>
+            <Link
+              href="/schedule"
+              className="text-sm text-emerald-400 hover:text-emerald-300 underline underline-offset-2"
+            >
+              View all 104 matches →
+            </Link>
+          </div>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {matches.map((match) => (
+            {metlifeMatches.map((match) => (
               <MatchCard key={match.id} match={match} />
             ))}
           </div>

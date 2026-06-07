@@ -20,11 +20,11 @@ function SortIcon({ col, sortKey, sortDir }: { col: SortKey; sortKey: SortKey; s
     : <ChevronDown className="ml-1 inline h-3 w-3 text-emerald-400" />;
 }
 
-export function VenuesTable({ venues }: { venues: Venue[] }) {
+export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]; initialCountries?: string[] }) {
   const [boroughs, setBoroughs]           = useState<string[]>([]);
   const [neighborhoods, setNeighborhoods] = useState<string[]>([]);
   const [venueTypes, setVenueTypes]       = useState<string[]>([]);
-  const [countries, setCountries]         = useState<string[]>([]);
+  const [countries, setCountries]         = useState<string[]>(initialCountries);
   const [sortKey, setSortKey]             = useState<SortKey>("borough");
   const [sortDir, setSortDir]             = useState<SortDir>("asc");
   const [page, setPage]                   = useState(0);
