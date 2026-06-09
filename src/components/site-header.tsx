@@ -35,7 +35,7 @@ export function SiteHeader() {
         {/* Wordmark + logo */}
         <Link href="/" className="flex items-center gap-2.5">
           <Image
-            src="/wc2026-logo.png"
+            src="/6557938f75ff26001dd04342.jpg"
             alt="FIFA World Cup 2026"
             width={36}
             height={36}

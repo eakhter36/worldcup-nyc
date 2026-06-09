@@ -26,7 +26,7 @@ export function SiteFooter() {
           <div>
             <div className="flex items-center gap-2.5 mb-3">
               <Image
-                src="/wc2026-logo.png"
+                src="/6557938f75ff26001dd04342.jpg"
                 alt="FIFA World Cup 2026"
                 width={40}
                 height={40}
