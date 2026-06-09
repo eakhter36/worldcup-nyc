@@ -1,7 +1,7 @@
-import Image from "next/image";
 import Link from "next/link";
 
 const PAGE_LINKS = [
+  { label: "Teams",     href: "/teams" },
   { label: "Schedule",  href: "/schedule" },
   { label: "Transit",   href: "/transit" },
   { label: "Fan Zones", href: "/fan-zones" },
@@ -25,12 +25,13 @@ export function SiteFooter() {
           {/* Col 1 — Wordmark + logo */}
           <div>
             <div className="flex items-center gap-2.5 mb-3">
-              <Image
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
                 src="/6557938f75ff26001dd04342.jpg"
                 alt="FIFA World Cup 2026"
                 width={40}
                 height={40}
-                className="object-contain"
+                className="h-10 w-10 object-contain rounded"
               />
               <p className="text-lg font-bold text-[#0f172a]">
                 World Cup <span className="text-[#7B2FBE]">NYC</span>

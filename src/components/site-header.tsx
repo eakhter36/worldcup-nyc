@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { Menu } from "lucide-react";
 import {
@@ -13,6 +12,7 @@ import {
 } from "@/components/ui/sheet";
 
 const NAV_LINKS = [
+  { label: "Teams",     href: "/teams" },
   { label: "Schedule",  href: "/schedule" },
   { label: "Transit",   href: "/transit" },
   { label: "Fan Zones", href: "/fan-zones" },
@@ -34,12 +34,13 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
         {/* Wordmark + logo */}
         <Link href="/" className="flex items-center gap-2.5">
-          <Image
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
             src="/6557938f75ff26001dd04342.jpg"
             alt="FIFA World Cup 2026"
             width={36}
             height={36}
-            className="object-contain"
+            className="h-9 w-9 object-contain rounded"
           />
           <span className="text-lg font-bold text-[#0f172a]">
             World Cup <span className="text-[#7B2FBE]">NYC</span>
