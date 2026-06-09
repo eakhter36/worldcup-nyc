@@ -110,12 +110,12 @@ export default async function TeamPage({ params }: Props) {
               <code className="font-mono">.env.local</code>.{" "}
               Get a free key at{" "}
               <a
-                href="https://dashboard.api-sports.io/"
+                href="https://www.api-football.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline"
               >
-                api-sports.io
+                api-football.com
               </a>
               .
             </p>
