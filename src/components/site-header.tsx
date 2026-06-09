@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { Menu } from "lucide-react";
 import {
@@ -29,11 +30,20 @@ export function SiteHeader() {
   const isActive = useIsActive();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/95 backdrop-blur-sm">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
-        {/* Wordmark */}
-        <Link href="/" className="text-lg font-bold text-white">
-          World Cup <span className="text-emerald-400">NYC</span>
+    <header className="sticky top-0 z-50 border-b border-[#162845] bg-[#040A18]/95 backdrop-blur-sm">
+      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
+        {/* Wordmark + logo */}
+        <Link href="/" className="flex items-center gap-2.5">
+          <Image
+            src="/wc2026-logo.png"
+            alt="FIFA World Cup 2026"
+            width={36}
+            height={36}
+            className="object-contain"
+          />
+          <span className="text-lg font-bold text-white">
+            World Cup <span className="text-[#C9FF00]">NYC</span>
+          </span>
         </Link>
 
         {/* Desktop nav */}
@@ -44,8 +54,8 @@ export function SiteHeader() {
               href={href}
               className={`text-sm transition-colors ${
                 isActive(href)
-                  ? "font-medium text-white"
-                  : "text-slate-400 hover:text-slate-200"
+                  ? "font-semibold text-[#C9FF00]"
+                  : "text-[#8898C0] hover:text-white"
               }`}
             >
               {label}
@@ -58,14 +68,14 @@ export function SiteHeader() {
           <SheetTrigger asChild>
             <button
               aria-label="Open navigation menu"
-              className="rounded-md p-1.5 text-slate-400 hover:text-white md:hidden"
+              className="rounded-md p-1.5 text-[#8898C0] hover:text-white md:hidden"
             >
               <Menu className="h-5 w-5" />
             </button>
           </SheetTrigger>
           <SheetContent
             side="right"
-            className="w-64 border-slate-800 bg-slate-950 p-0"
+            className="w-64 border-[#162845] bg-[#040A18] p-0"
           >
             <SheetTitle className="sr-only">Navigation</SheetTitle>
             <div className="flex h-full flex-col pt-14">
@@ -77,8 +87,8 @@ export function SiteHeader() {
                     onClick={() => setOpen(false)}
                     className={`rounded-lg px-4 py-3 text-sm transition-colors ${
                       isActive(href)
-                        ? "bg-slate-800 font-medium text-white"
-                        : "text-slate-400 hover:bg-slate-900 hover:text-slate-200"
+                        ? "bg-[#162845] font-semibold text-[#C9FF00]"
+                        : "text-[#8898C0] hover:bg-[#0C1830] hover:text-white"
                     }`}
                   >
                     {label}

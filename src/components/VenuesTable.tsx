@@ -14,10 +14,10 @@ const VENUE_TYPES = ["Bar", "Fan Zone", "Miscellaneous", "Restaurant"];
 const NYC_BOROUGHS = ["Manhattan", "Brooklyn", "Queens", "The Bronx", "Staten Island"];
 
 function SortIcon({ col, sortKey, sortDir }: { col: SortKey; sortKey: SortKey; sortDir: SortDir }) {
-  if (col !== sortKey) return <ChevronsUpDown className="ml-1 inline h-3 w-3 text-slate-600" />;
+  if (col !== sortKey) return <ChevronsUpDown className="ml-1 inline h-3 w-3 text-[#4D5F82]" />;
   return sortDir === "asc"
-    ? <ChevronUp className="ml-1 inline h-3 w-3 text-emerald-400" />
-    : <ChevronDown className="ml-1 inline h-3 w-3 text-emerald-400" />;
+    ? <ChevronUp className="ml-1 inline h-3 w-3 text-[#C9FF00]" />
+    : <ChevronDown className="ml-1 inline h-3 w-3 text-[#C9FF00]" />;
 }
 
 export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]; initialCountries?: string[] }) {
@@ -82,7 +82,7 @@ export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]
     return (
       <th
         onClick={() => handleSort(col)}
-        className="cursor-pointer select-none whitespace-nowrap px-3 py-3 text-left text-xs font-semibold uppercase tracking-wider text-slate-400 hover:text-slate-200"
+        className="cursor-pointer select-none whitespace-nowrap px-3 py-3 text-left text-xs font-semibold uppercase tracking-wider text-[#8898C0] hover:text-white"
       >
         {label}
         <SortIcon col={col} sortKey={sortKey} sortDir={sortDir} />
@@ -104,17 +104,17 @@ export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]
 
       {/* Count + clear */}
       <div className="mt-4 flex items-center justify-between">
-        <p className="text-sm text-slate-500">
+        <p className="text-sm text-[#6070A0]">
           Showing{" "}
-          <span className="font-semibold text-slate-300">{sorted.length.toLocaleString()}</span>{" "}
+          <span className="font-semibold text-[#A8BADC]">{sorted.length.toLocaleString()}</span>{" "}
           of{" "}
-          <span className="font-semibold text-slate-300">{venues.length.toLocaleString()}</span>{" "}
+          <span className="font-semibold text-[#A8BADC]">{venues.length.toLocaleString()}</span>{" "}
           venues
         </p>
         {hasFilters && (
           <button
             onClick={() => { setBoroughs([]); setNeighborhoods([]); setVenueTypes([]); setCountries([]); setPage(0); }}
-            className="text-xs text-slate-500 underline hover:text-slate-300"
+            className="text-xs text-[#6070A0] underline hover:text-[#A8BADC]"
           >
             Clear filters
           </button>
@@ -123,14 +123,14 @@ export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]
 
       {/* Table */}
       {sorted.length === 0 ? (
-        <div className="mt-8 rounded-xl border border-slate-800 bg-slate-900/40 px-6 py-12 text-center">
-          <p className="text-slate-400">No venues match these filters.</p>
+        <div className="mt-8 rounded-xl border border-[#162845] bg-[#0C1830]/40 px-6 py-12 text-center">
+          <p className="text-[#8898C0]">No venues match these filters.</p>
         </div>
       ) : (
         <>
-          <div className="mt-4 overflow-x-auto rounded-xl border border-slate-800">
+          <div className="mt-4 overflow-x-auto rounded-xl border border-[#162845]">
             <table className="w-full min-w-[720px] border-collapse text-sm">
-              <thead className="border-b border-slate-800 bg-slate-900/80">
+              <thead className="border-b border-[#162845] bg-[#0C1830]/80">
                 <tr>
                   <Th col="name"         label="Venue" />
                   <Th col="borough"      label="Borough" />
@@ -140,39 +140,39 @@ export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]
                   <Th col="dealDetails"  label="$26 Deal" />
                 </tr>
               </thead>
-              <tbody className="divide-y divide-slate-800/60">
+              <tbody className="divide-y divide-[#162845]/60">
                 {pageData.map((v, i) => {
                   const isNYC = NYC_BOROUGHS.includes(v.borough);
                   return (
-                    <tr key={`${v.name}-${i}`} className="bg-slate-950 transition-colors hover:bg-slate-900">
+                    <tr key={`${v.name}-${i}`} className="bg-[#040A18] transition-colors hover:bg-[#0C1830]">
                       <td className="px-3 py-3 font-medium text-white">
                         {v.website ? (
-                          <a href={v.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-emerald-400">
+                          <a href={v.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 hover:text-[#C9FF00]">
                             {v.name}
-                            <ExternalLink className="h-3 w-3 shrink-0 text-slate-600" />
+                            <ExternalLink className="h-3 w-3 shrink-0 text-[#4D5F82]" />
                           </a>
                         ) : v.name}
-                        {v.address && <div className="mt-0.5 text-xs text-slate-600">{v.address}</div>}
+                        {v.address && <div className="mt-0.5 text-xs text-[#4D5F82]">{v.address}</div>}
                       </td>
-                      <td className="px-3 py-3 text-slate-300">
-                        <span className={isNYC ? "" : "text-slate-500"}>{v.borough || "—"}</span>
+                      <td className="px-3 py-3 text-[#A8BADC]">
+                        <span className={isNYC ? "" : "text-[#6070A0]"}>{v.borough || "—"}</span>
                       </td>
-                      <td className="px-3 py-3 text-slate-400">{v.neighborhood || "—"}</td>
+                      <td className="px-3 py-3 text-[#8898C0]">{v.neighborhood || "—"}</td>
                       <td className="px-3 py-3">
                         {v.venueType ? (
-                          <span className="inline-block rounded-full border border-slate-700 bg-slate-900 px-2 py-0.5 text-xs text-slate-300">
+                          <span className="inline-block rounded-full border border-[#1E3155] bg-[#0C1830] px-2 py-0.5 text-xs text-[#A8BADC]">
                             {remapType(v.venueType)}
                           </span>
                         ) : "—"}
                       </td>
-                      <td className="px-3 py-3 text-slate-400">
+                      <td className="px-3 py-3 text-[#8898C0]">
                         {v.country ? <span className="text-xs">{v.country}</span> : "—"}
                       </td>
-                      <td className="px-3 py-3 text-slate-400">
+                      <td className="px-3 py-3 text-[#8898C0]">
                         {v.dealDetails ? (
-                          <span className="text-xs text-emerald-400/80">{v.dealDetails}</span>
+                          <span className="text-xs text-[#C9FF00]/80">{v.dealDetails}</span>
                         ) : (
-                          <span className="text-xs text-slate-700">—</span>
+                          <span className="text-xs text-[#3A4A6E]">—</span>
                         )}
                       </td>
                     </tr>
@@ -185,12 +185,12 @@ export function VenuesTable({ venues, initialCountries = [] }: { venues: Venue[]
           {totalPages > 1 && (
             <div className="mt-4 flex items-center justify-between text-sm">
               <button onClick={() => setPage((p) => Math.max(0, p - 1))} disabled={page === 0}
-                className="rounded-md border border-slate-700 px-3 py-1.5 text-slate-400 disabled:opacity-30 hover:border-slate-500 hover:text-slate-200">
+                className="rounded-md border border-[#1E3155] px-3 py-1.5 text-[#8898C0] disabled:opacity-30 hover:border-[#2A4070] hover:text-white">
                 ← Previous
               </button>
-              <span className="text-slate-500">Page {page + 1} of {totalPages}</span>
+              <span className="text-[#6070A0]">Page {page + 1} of {totalPages}</span>
               <button onClick={() => setPage((p) => Math.min(totalPages - 1, p + 1))} disabled={page === totalPages - 1}
-                className="rounded-md border border-slate-700 px-3 py-1.5 text-slate-400 disabled:opacity-30 hover:border-slate-500 hover:text-slate-200">
+                className="rounded-md border border-[#1E3155] px-3 py-1.5 text-[#8898C0] disabled:opacity-30 hover:border-[#2A4070] hover:text-white">
                 Next →
               </button>
             </div>

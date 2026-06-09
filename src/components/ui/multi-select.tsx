@@ -39,26 +39,26 @@ export function MultiSelect({ label, options, selected, onChange }: MultiSelectP
 
   return (
     <div className="flex flex-col gap-1" ref={ref}>
-      <label className="text-xs uppercase tracking-wider text-slate-500">{label}</label>
+      <label className="text-xs uppercase tracking-wider text-[#6070A0]">{label}</label>
       <div className="relative">
         <button
           type="button"
           onClick={() => setOpen((o) => !o)}
-          className="flex w-full items-center justify-between rounded-md border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-slate-200 focus:border-emerald-600 focus:outline-none hover:border-slate-500"
+          className="flex w-full items-center justify-between rounded-md border border-[#1E3155] bg-[#0C1830] px-3 py-2 text-sm text-[#A8BADC] focus:border-[#7B2FBE] focus:outline-none hover:border-[#2A4070]"
         >
-          <span className={selected.length === 0 ? "text-slate-500" : "text-slate-200"}>
+          <span className={selected.length === 0 ? "text-[#4D5F82]" : "text-[#A8BADC]"}>
             {summary}
           </span>
-          <ChevronDown className={`ml-2 h-4 w-4 shrink-0 text-slate-500 transition-transform ${open ? "rotate-180" : ""}`} />
+          <ChevronDown className={`ml-2 h-4 w-4 shrink-0 text-[#6070A0] transition-transform ${open ? "rotate-180" : ""}`} />
         </button>
 
         {open && (
-          <div className="absolute z-50 mt-1 max-h-60 w-full overflow-y-auto rounded-md border border-slate-700 bg-slate-900 shadow-xl">
+          <div className="absolute z-50 mt-1 max-h-60 w-full overflow-y-auto rounded-md border border-[#1E3155] bg-[#0C1830] shadow-xl">
             {selected.length > 0 && (
               <button
                 type="button"
                 onClick={() => { onChange([]); setOpen(false); }}
-                className="w-full px-3 py-2 text-left text-xs text-slate-500 hover:text-slate-300 border-b border-slate-800"
+                className="w-full px-3 py-2 text-left text-xs text-[#6070A0] hover:text-[#A8BADC] border-b border-[#162845]"
               >
                 Clear selection
               </button>
@@ -70,9 +70,9 @@ export function MultiSelect({ label, options, selected, onChange }: MultiSelectP
                   key={option}
                   type="button"
                   onClick={() => toggle(option)}
-                  className="flex w-full items-center gap-2 px-3 py-2 text-sm text-slate-300 hover:bg-slate-800 hover:text-white text-left"
+                  className="flex w-full items-center gap-2 px-3 py-2 text-sm text-[#8898C0] hover:bg-[#162845] hover:text-white text-left"
                 >
-                  <span className={`flex h-4 w-4 shrink-0 items-center justify-center rounded border ${checked ? "border-emerald-500 bg-emerald-600" : "border-slate-600 bg-transparent"}`}>
+                  <span className={`flex h-4 w-4 shrink-0 items-center justify-center rounded border ${checked ? "border-[#C9FF00] bg-[#7B2FBE]" : "border-[#1E3155] bg-transparent"}`}>
                     {checked && <Check className="h-3 w-3 text-white" />}
                   </span>
                   {option}

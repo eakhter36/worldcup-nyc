@@ -34,18 +34,18 @@ export default function Home() {
   const nextMatch = getNextMatch();
 
   return (
-    <main className="flex flex-col min-h-screen bg-slate-950 text-white">
+    <main className="flex flex-col min-h-screen bg-[#040A18] text-white">
       {/* Hero */}
       <section className="flex flex-col items-center justify-center px-4 py-24 text-center">
-        <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-slate-700 px-4 py-1.5 text-xs uppercase tracking-widest text-slate-400">
+        <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[#1E3155] px-4 py-1.5 text-xs uppercase tracking-widest text-[#8898C0]">
           MetLife Stadium · East Rutherford, NJ
         </div>
 
         <h1 className="mt-4 text-5xl font-extrabold tracking-tight text-white sm:text-7xl">
-          World Cup <span className="text-emerald-400">NYC</span>
+          World Cup <span className="text-[#C9FF00]">NYC</span>
         </h1>
 
-        <p className="mt-6 max-w-xl text-base text-slate-400 sm:text-lg">
+        <p className="mt-6 max-w-xl text-base text-[#8898C0] sm:text-lg">
           Your guide to the 8 matches at MetLife Stadium and everything
           happening across NYC this summer.
         </p>
@@ -65,7 +65,7 @@ export default function Home() {
             </h2>
             <Link
               href="/schedule"
-              className="text-sm text-emerald-400 hover:text-emerald-300 underline underline-offset-2"
+              className="text-sm text-[#C9FF00] hover:text-[#C9FF00]/80 underline underline-offset-2"
             >
               View all 104 matches →
             </Link>

@@ -49,12 +49,10 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
     [matches, group]
   );
 
-  // All group-stage matches sorted by date, then grouped by calendar day (ET)
   const byDate = useMemo(() => {
     const all = matches
       .filter((m) => m.stage === "group")
       .sort((a, b) => a.date.localeCompare(b.date));
-
     const map = new Map<string, { label: string; matches: Match[] }>();
     for (const m of all) {
       const key = dayKey(m.date);
@@ -75,15 +73,15 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
   return (
     <div>
       {/* Stage tabs */}
-      <div className="flex gap-2 mb-6">
+      <div className="flex flex-wrap gap-2 mb-6">
         {STAGE_TABS.map(({ key, label }) => (
           <button
             key={key}
             onClick={() => setTab(key)}
             className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
               tab === key
-                ? "bg-emerald-600 text-white"
-                : "border border-slate-700 text-slate-400 hover:border-slate-500 hover:text-slate-200"
+                ? "bg-[#C9FF00] text-[#040A18]"
+                : "border border-[#1E3155] text-[#8898C0] hover:border-[#2A4070] hover:text-white"
             }`}
           >
             {label}
@@ -94,15 +92,15 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
       {tab === "group" && (
         <>
           {/* View toggle: By Group / By Date */}
-          <div className="mb-5 flex items-center gap-1 rounded-lg border border-slate-700 p-1 w-fit">
+          <div className="mb-5 flex items-center gap-1 rounded-lg border border-[#162845] p-1 w-fit">
             {(["group", "date"] as const).map((v) => (
               <button
                 key={v}
                 onClick={() => setGroupView(v)}
                 className={`rounded-md px-3 py-1 text-xs font-medium transition-colors ${
                   groupView === v
-                    ? "bg-slate-700 text-white"
-                    : "text-slate-400 hover:text-slate-200"
+                    ? "bg-[#162845] text-white"
+                    : "text-[#6070A0] hover:text-white"
                 }`}
               >
                 {v === "group" ? "By Group" : "By Date"}
@@ -112,7 +110,6 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
 
           {groupView === "group" && (
             <>
-              {/* Group selector */}
               <div className="flex flex-wrap gap-1.5 mb-6">
                 {GROUPS.map((g) => (
                   <button
@@ -120,15 +117,14 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
                     onClick={() => setGroup(g)}
                     className={`h-8 w-8 rounded-md text-xs font-semibold transition-colors ${
                       group === g
-                        ? "bg-emerald-600 text-white"
-                        : "border border-slate-700 text-slate-400 hover:border-slate-500 hover:text-slate-200"
+                        ? "bg-[#C9FF00] text-[#040A18]"
+                        : "border border-[#1E3155] text-[#8898C0] hover:border-[#2A4070] hover:text-white"
                     }`}
                   >
                     {g}
                   </button>
                 ))}
               </div>
-
               <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {groupMatches.map((m) => (
                   <MatchCard key={m.id} match={m} showCity />
@@ -141,7 +137,7 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
             <div className="space-y-10">
               {byDate.map(({ label, matches: dayMatches }) => (
                 <div key={label}>
-                  <h3 className="mb-4 border-b border-slate-800 pb-2 text-base font-bold tracking-tight text-white">
+                  <h3 className="mb-4 border-b border-[#162845] pb-2 text-base font-bold tracking-tight text-white">
                     {label}
                   </h3>
                   <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
@@ -160,7 +156,7 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
         <div className="space-y-10">
           {knockoutByStage.map(({ stage, label, matches: sMatches }) => (
             <div key={stage}>
-              <h3 className="mb-4 text-lg font-bold tracking-tight text-white border-b border-slate-800 pb-2">
+              <h3 className="mb-4 text-lg font-bold tracking-tight text-white border-b border-[#162845] pb-2">
                 {label}
               </h3>
               <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
@@ -175,7 +171,7 @@ export function ScheduleGrid({ matches }: { matches: Match[] }) {
 
       {tab === "metlife" && (
         <>
-          <p className="mb-6 text-sm text-slate-400">
+          <p className="mb-6 text-sm text-[#8898C0]">
             All 8 matches hosted at MetLife Stadium, East Rutherford, NJ. Click any match to find NYC venues.
           </p>
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">

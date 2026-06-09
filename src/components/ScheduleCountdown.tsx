@@ -41,7 +41,7 @@ function formatKickoff(iso: string, kickoffET: string) {
 
 function TeamLine({ code }: { code: string }) {
   const team = teamByCode[code];
-  if (!team) return <span className="text-slate-400">TBD</span>;
+  if (!team) return <span className="text-[#8898C0]">TBD</span>;
   return (
     <span className="inline-flex items-center gap-1.5">
       {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -82,11 +82,11 @@ export function ScheduleCountdown({ matches }: { matches: Match[] }) {
   ];
 
   return (
-    <div className="mb-10 rounded-xl border border-slate-800 bg-slate-900/60 px-6 py-6">
-      <p className="mb-1 text-xs uppercase tracking-widest text-slate-400">
+    <div className="mb-10 rounded-xl border border-[#7B2FBE]/40 bg-[#0C1830] px-6 py-6">
+      <p className="mb-1 text-xs uppercase tracking-widest text-[#8898C0]">
         {nextMatches.length === 1 ? "Next match" : `Next ${nextMatches.length} matches (simultaneous)`}
       </p>
-      <p className="mb-4 text-sm font-medium text-slate-300">
+      <p className="mb-4 text-sm font-medium text-[#A8BADC]">
         {formatKickoff(nextDate, nextMatches[0].kickoffET)}
       </p>
 
@@ -94,10 +94,10 @@ export function ScheduleCountdown({ matches }: { matches: Match[] }) {
       <div className="flex gap-3 mb-5">
         {units.map(({ label, value }) => (
           <div key={label} className="flex flex-col items-center">
-            <span className="w-14 rounded-lg bg-slate-800 py-2 text-center font-mono text-2xl font-bold tabular-nums text-white sm:w-16 sm:text-3xl">
+            <span className="w-14 rounded-lg bg-[#162845] py-2 text-center font-mono text-2xl font-bold tabular-nums text-[#C9FF00] sm:w-16 sm:text-3xl">
               {String(value).padStart(2, "0")}
             </span>
-            <span className="mt-1 text-xs uppercase tracking-widest text-slate-500">{label}</span>
+            <span className="mt-1 text-xs uppercase tracking-widest text-[#6070A0]">{label}</span>
           </div>
         ))}
       </div>
@@ -105,14 +105,14 @@ export function ScheduleCountdown({ matches }: { matches: Match[] }) {
       {/* Match list */}
       <div className="space-y-2">
         {nextMatches.map((m) => (
-          <div key={m.id} className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-slate-300">
+          <div key={m.id} className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[#A8BADC]">
             <TeamLine code={m.homeTeam} />
-            <span className="text-slate-600 text-xs font-bold">vs</span>
+            <span className="text-[#4D5F82] text-xs font-bold">vs</span>
             <TeamLine code={m.awayTeam} />
-            <span className="text-slate-600">·</span>
-            <span className="text-xs text-slate-500">{m.city}</span>
+            <span className="text-[#4D5F82]">·</span>
+            <span className="text-xs text-[#6070A0]">{m.city}</span>
             {m.group && (
-              <span className="text-xs text-slate-600">(Group {m.group})</span>
+              <span className="text-xs text-[#4D5F82]">(Group {m.group})</span>
             )}
           </div>
         ))}
