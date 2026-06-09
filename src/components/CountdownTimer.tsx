@@ -42,16 +42,16 @@ export function CountdownTimer({ targetDate, matchLabel }: Props) {
 
   return (
     <div className="mt-8 flex flex-col items-center gap-3">
-      <p className="text-sm uppercase tracking-widest text-[#8898C0]">
+      <p className="text-sm uppercase tracking-widest text-[#64748b]">
         Next match · {matchLabel}
       </p>
       <div className="flex gap-4">
         {units.map(({ label, value }) => (
           <div key={label} className="flex flex-col items-center">
-            <span className="w-16 rounded-lg bg-[#162845] py-3 text-center font-mono text-3xl font-bold tabular-nums text-[#C9FF00]">
+            <span className="w-16 rounded-lg bg-[#7B2FBE] py-3 text-center font-mono text-3xl font-bold tabular-nums text-[#C9FF00]">
               {String(value).padStart(2, "0")}
             </span>
-            <span className="mt-1 text-xs uppercase tracking-widest text-[#6070A0]">
+            <span className="mt-1 text-xs uppercase tracking-widest text-[#94a3b8]">
               {label}
             </span>
           </div>

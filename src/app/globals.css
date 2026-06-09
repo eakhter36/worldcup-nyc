@@ -34,50 +34,27 @@ html {
   --radius-xl: calc(var(--radius) + 4px);
 }
 
-/* Light mode (fallback — site is always dark) */
 :root {
-  --background: #040A18;
-  --foreground: hsl(210 40% 98%);
-  --card: #0C1830;
-  --card-foreground: hsl(210 40% 98%);
-  --popover: #0C1830;
-  --popover-foreground: hsl(210 40% 98%);
-  --primary: #C9FF00;
-  --primary-foreground: #040A18;
-  --secondary: #162845;
-  --secondary-foreground: hsl(210 40% 98%);
-  --muted: #162845;
-  --muted-foreground: #8898C0;
-  --accent: #7B2FBE;
-  --accent-foreground: #C9FF00;
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --card-foreground: #0f172a;
+  --popover: #ffffff;
+  --popover-foreground: #0f172a;
+  --primary: #7B2FBE;
+  --primary-foreground: #ffffff;
+  --secondary: #f1f5f9;
+  --secondary-foreground: #334155;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --accent: #C9FF00;
+  --accent-foreground: #0f172a;
   --destructive: #E0145A;
   --destructive-foreground: white;
-  --border: #162845;
-  --input: #162845;
-  --ring: #C9FF00;
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --ring: #7B2FBE;
   --radius: 0.5rem;
-}
-
-.dark {
-  --background: #040A18;
-  --foreground: hsl(210 40% 98%);
-  --card: #0C1830;
-  --card-foreground: hsl(210 40% 98%);
-  --popover: #0C1830;
-  --popover-foreground: hsl(210 40% 98%);
-  --primary: #C9FF00;
-  --primary-foreground: #040A18;
-  --secondary: #162845;
-  --secondary-foreground: hsl(210 40% 98%);
-  --muted: #162845;
-  --muted-foreground: #8898C0;
-  --accent: #7B2FBE;
-  --accent-foreground: #C9FF00;
-  --destructive: #E0145A;
-  --destructive-foreground: white;
-  --border: #162845;
-  --input: #162845;
-  --ring: #C9FF00;
 }
 
 @layer base {

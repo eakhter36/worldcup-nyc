@@ -9,15 +9,15 @@ export const metadata = {
 
 export default function SchedulePage() {
   return (
-    <main className="flex min-h-screen flex-col bg-[#040A18] text-white">
+    <main className="flex min-h-screen flex-col bg-[#f8fafc] text-[#0f172a]">
       <div className="mx-auto w-full max-w-7xl px-4 pt-10 pb-24">
-        <div className="mb-2 inline-flex items-center gap-2 rounded-full border border-[#1E3155] px-3 py-1 text-xs uppercase tracking-widest text-[#8898C0]">
+        <div className="mb-2 inline-flex items-center gap-2 rounded-full border border-[#e2e8f0] px-3 py-1 text-xs uppercase tracking-widest text-[#64748b]">
           FIFA World Cup 2026
         </div>
-        <h1 className="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
+        <h1 className="text-3xl font-extrabold tracking-tight text-[#0f172a] sm:text-4xl">
           Full Schedule
         </h1>
-        <p className="mt-2 mb-8 text-sm text-[#8898C0]">
+        <p className="mt-2 mb-8 text-sm text-[#64748b]">
           All 104 matches · June 11 – July 19, 2026 · Hover a match to find NYC venues.
         </p>
 

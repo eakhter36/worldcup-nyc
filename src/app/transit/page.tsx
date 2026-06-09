@@ -111,13 +111,13 @@ const whatToBring = [
 
 export default function TransitPage() {
   return (
-    <main className="min-h-screen bg-[#040A18] text-white">
+    <main className="min-h-screen bg-[#f8fafc] text-[#0f172a]">
       <div className="mx-auto max-w-5xl px-4 py-16">
         {/* Header */}
-        <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
+        <h1 className="text-4xl font-extrabold tracking-tight text-[#0f172a] sm:text-5xl">
           Getting There
         </h1>
-        <p className="mt-4 max-w-3xl text-base text-[#8898C0] sm:text-lg">
+        <p className="mt-4 max-w-3xl text-base text-[#64748b] sm:text-lg">
           Getting to MetLife Stadium from NYC requires advance planning. There&apos;s no
           parking at the stadium, walking is prohibited, and all transit tickets must be
           purchased in advance via official channels. NYC fans must use Penn Station for
@@ -137,7 +137,7 @@ export default function TransitPage() {
         {/* Route Cards */}
         <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2">
           {routes.map((route, i) => (
-            <Card key={i} className="border-[#162845] bg-[#0C1830] text-white">
+            <Card key={i} className="border-[#e2e8f0] bg-white text-[#0f172a]">
               <CardHeader className="pb-3">
                 <div className="flex items-start justify-between gap-2">
                   <CardTitle className="text-lg font-bold text-white">
@@ -145,48 +145,48 @@ export default function TransitPage() {
                   </CardTitle>
                   <Badge
                     variant="secondary"
-                    className="shrink-0 bg-[#1E3155] text-[#A8BADC] text-xs"
+                    className="shrink-0 bg-[#f1f5f9] text-[#475569] text-xs"
                   >
                     {route.badge}
                   </Badge>
                 </div>
                 <div className="mt-2 space-y-1 text-sm">
                   <p>
-                    <span className="text-[#6070A0]">Cost: </span>
-                    <span className="font-semibold text-[#C9FF00]">{route.cost}</span>
+                    <span className="text-[#64748b]">Cost: </span>
+                    <span className="font-semibold text-[#7B2FBE]">{route.cost}</span>
                   </p>
                   <p>
-                    <span className="text-[#6070A0]">Time: </span>
-                    <span className="text-[#A8BADC]">{route.time}</span>
+                    <span className="text-[#64748b]">Time: </span>
+                    <span className="text-[#334155]">{route.time}</span>
                   </p>
                   <p>
-                    <span className="text-[#6070A0]">Best for: </span>
-                    <span className="text-[#A8BADC]">{route.bestFor}</span>
+                    <span className="text-[#64748b]">Best for: </span>
+                    <span className="text-[#334155]">{route.bestFor}</span>
                   </p>
                 </div>
               </CardHeader>
               <CardContent className="space-y-4 pt-0">
                 <div>
-                  <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[#6070A0]">
+                  <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[#64748b]">
                     Key facts
                   </h3>
                   <ul className="space-y-1.5">
                     {route.keyFacts.map((fact, j) => (
-                      <li key={j} className="flex gap-2 text-sm text-[#A8BADC]">
-                        <span className="mt-0.5 shrink-0 text-[#4D5F82]">•</span>
+                      <li key={j} className="flex gap-2 text-sm text-[#334155]">
+                        <span className="mt-0.5 shrink-0 text-[#94a3b8]">•</span>
                         {fact}
                       </li>
                     ))}
                   </ul>
                 </div>
                 <div>
-                  <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[#6070A0]">
+                  <h3 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[#64748b]">
                     How it works
                   </h3>
                   <ol className="space-y-1.5">
                     {route.howItWorks.map((step, j) => (
-                      <li key={j} className="flex gap-2 text-sm text-[#A8BADC]">
-                        <span className="shrink-0 font-mono text-[#4D5F82]">
+                      <li key={j} className="flex gap-2 text-sm text-[#334155]">
+                        <span className="shrink-0 font-mono text-[#94a3b8]">
                           {j + 1}.
                         </span>
                         {step}
@@ -205,8 +205,8 @@ export default function TransitPage() {
             <h2 className="mb-4 text-xl font-bold text-white">Match day timing</h2>
             <ul className="space-y-3">
               {timingTips.map((tip, i) => (
-                <li key={i} className="flex gap-3 text-sm text-[#A8BADC]">
-                  <span className="mt-0.5 shrink-0 text-[#C9FF00]">✓</span>
+                <li key={i} className="flex gap-3 text-sm text-[#334155]">
+                  <span className="mt-0.5 shrink-0 text-[#7B2FBE]">✓</span>
                   {tip}
                 </li>
               ))}
@@ -217,8 +217,8 @@ export default function TransitPage() {
             <h2 className="mb-4 text-xl font-bold text-white">What to bring</h2>
             <ul className="space-y-3">
               {whatToBring.map((item, i) => (
-                <li key={i} className="flex gap-3 text-sm text-[#A8BADC]">
-                  <span className="mt-0.5 shrink-0 text-[#C9FF00]">✓</span>
+                <li key={i} className="flex gap-3 text-sm text-[#334155]">
+                  <span className="mt-0.5 shrink-0 text-[#7B2FBE]">✓</span>
                   {item}
                 </li>
               ))}
@@ -227,7 +227,7 @@ export default function TransitPage() {
         </div>
 
         {/* Last updated */}
-        <p className="mt-16 text-xs text-[#4D5F82]">
+        <p className="mt-16 text-xs text-[#94a3b8]">
           Last updated May 25, 2026. Transit pricing and capacity can change — verify on
           the NJ Transit mobile app and the official FIFA World Cup 2026 NYNJ Host
           Committee site before purchasing.

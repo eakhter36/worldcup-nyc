@@ -21,20 +21,20 @@ export default async function VenuesPage({
   const totalWithCountry = venues.filter(v => v.country).length;
 
   return (
-    <main className="min-h-screen bg-[#040A18] text-white">
+    <main className="min-h-screen bg-[#f8fafc] text-[#0f172a]">
       <div className="mx-auto max-w-7xl px-4 py-16">
 
         {/* Header */}
-        <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-[#1E3155] px-3 py-1 text-xs uppercase tracking-widest text-[#8898C0]">
+        <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-[#e2e8f0] px-3 py-1 text-xs uppercase tracking-widest text-[#64748b]">
           NYC 2026 World Cup
         </div>
-        <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
+        <h1 className="text-4xl font-extrabold tracking-tight text-[#0f172a] sm:text-5xl">
           Venues
         </h1>
-        <p className="mt-4 max-w-3xl text-sm leading-relaxed text-[#8898C0] sm:text-base">
+        <p className="mt-4 max-w-3xl text-sm leading-relaxed text-[#64748b] sm:text-base">
           Every bar, restaurant, fan zone, and watch venue we&apos;ve tracked for the 2026 FIFA
           World Cup in New York. Includes all{" "}
-          <span className="text-[#C9FF00] font-medium">Five Borough Winners Special</span>{" "}
+          <span className="text-[#7B2FBE] font-medium">Five Borough Winners Special</span>{" "}
           participants offering $26 deals, plus watch-party venues from watchworldcup.nyc.
           Filter by borough, neighborhood, venue type, or country affiliation.
         </p>
@@ -42,16 +42,16 @@ export default async function VenuesPage({
         {/* Stats */}
         <div className="mt-8 flex flex-wrap gap-6">
           <div className="flex flex-col">
-            <span className="text-3xl font-extrabold text-white">{venues.length.toLocaleString()}</span>
-            <span className="text-xs uppercase tracking-wider text-[#6070A0]">Total venues</span>
+            <span className="text-3xl font-extrabold text-[#0f172a]">{venues.length.toLocaleString()}</span>
+            <span className="text-xs uppercase tracking-wider text-[#94a3b8]">Total venues</span>
           </div>
           <div className="flex flex-col">
-            <span className="text-3xl font-extrabold text-[#C9FF00]">{totalWithDeal.toLocaleString()}</span>
-            <span className="text-xs uppercase tracking-wider text-[#6070A0]">With $26 deal</span>
+            <span className="text-3xl font-extrabold text-[#7B2FBE]">{totalWithDeal.toLocaleString()}</span>
+            <span className="text-xs uppercase tracking-wider text-[#94a3b8]">With $26 deal</span>
           </div>
           <div className="flex flex-col">
-            <span className="text-3xl font-extrabold text-white">{totalWithCountry.toLocaleString()}</span>
-            <span className="text-xs uppercase tracking-wider text-[#6070A0]">Country affiliations</span>
+            <span className="text-3xl font-extrabold text-[#0f172a]">{totalWithCountry.toLocaleString()}</span>
+            <span className="text-xs uppercase tracking-wider text-[#94a3b8]">Country affiliations</span>
           </div>
         </div>
 
@@ -61,7 +61,7 @@ export default async function VenuesPage({
         </div>
 
         {/* Attribution */}
-        <p className="mt-12 text-xs leading-relaxed text-[#4D5F82]">
+        <p className="mt-12 text-xs leading-relaxed text-[#94a3b8]">
           Sources: NYC Tourism + Conventions (Five Borough Winners Special), watchworldcup.nyc.
           Addresses sourced from nyctourism.com venue pages. Always confirm details directly with
           the venue. World Cup NYC is not affiliated with FIFA, NYC Tourism + Conventions, or the

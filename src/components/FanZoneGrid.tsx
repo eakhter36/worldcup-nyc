@@ -20,9 +20,9 @@ const BOROUGHS: (Borough | "All")[] = [
 ];
 
 const TYPE_STYLES: Record<string, string> = {
-  official: "border-[#C9FF00]/40 bg-[#C9FF00]/10 text-[#C9FF00]",
-  "watch-party": "border-[#7B2FBE]/60 bg-[#7B2FBE]/20 text-[#C0A0FF]",
-  community: "border-[#E0145A]/50 bg-[#E0145A]/10 text-[#FF6090]",
+  official: "border-[#7B2FBE]/40 bg-[#7B2FBE]/10 text-[#7B2FBE]",
+  "watch-party": "border-[#3b82f6]/40 bg-[#3b82f6]/10 text-[#3b82f6]",
+  community: "border-[#E0145A]/40 bg-[#E0145A]/10 text-[#E0145A]",
 };
 
 const TYPE_LABELS: Record<string, string> = {
@@ -33,10 +33,10 @@ const TYPE_LABELS: Record<string, string> = {
 
 function FanZoneCard({ zone }: { zone: FanZone }) {
   return (
-    <Card className="flex flex-col border-[#162845] bg-[#0C1830] text-white">
+    <Card className="flex flex-col border-[#e2e8f0] bg-white text-[#0f172a]">
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-3">
-          <CardTitle className="text-base font-bold leading-snug text-white">
+          <CardTitle className="text-base font-bold leading-snug text-[#0f172a]">
             {zone.name}
           </CardTitle>
           <Badge
@@ -46,26 +46,26 @@ function FanZoneCard({ zone }: { zone: FanZone }) {
             {TYPE_LABELS[zone.type]}
           </Badge>
         </div>
-        <p className="text-xs text-[#6070A0]">
+        <p className="text-xs text-[#94a3b8]">
           {zone.venue} · {zone.neighborhood} · {zone.borough}
         </p>
-        <p className="mt-2 text-sm leading-relaxed text-[#A8BADC]">
+        <p className="mt-2 text-sm leading-relaxed text-[#475569]">
           {zone.description}
         </p>
       </CardHeader>
 
       <CardContent className="flex flex-1 flex-col gap-4 pt-0">
         {/* Data grid */}
-        <div className="border-t border-[#162845] pt-4">
+        <div className="border-t border-[#e2e8f0] pt-4">
           <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-2 text-sm">
-            <dt className="whitespace-nowrap text-[#6070A0]">Cost</dt>
-            <dd className="text-[#A8BADC]">{zone.cost}</dd>
-            <dt className="whitespace-nowrap text-[#6070A0]">Ages</dt>
-            <dd className="text-[#A8BADC]">{zone.ageRestriction}</dd>
-            <dt className="whitespace-nowrap text-[#6070A0]">Dates</dt>
-            <dd className="text-[#A8BADC]">{zone.operatingDates}</dd>
-            <dt className="whitespace-nowrap text-[#6070A0]">Address</dt>
-            <dd className="text-[#A8BADC]">{zone.address}</dd>
+            <dt className="whitespace-nowrap text-[#64748b]">Cost</dt>
+            <dd className="text-[#334155]">{zone.cost}</dd>
+            <dt className="whitespace-nowrap text-[#64748b]">Ages</dt>
+            <dd className="text-[#334155]">{zone.ageRestriction}</dd>
+            <dt className="whitespace-nowrap text-[#64748b]">Dates</dt>
+            <dd className="text-[#334155]">{zone.operatingDates}</dd>
+            <dt className="whitespace-nowrap text-[#64748b]">Address</dt>
+            <dd className="text-[#334155]">{zone.address}</dd>
           </dl>
         </div>
 
@@ -75,7 +75,7 @@ function FanZoneCard({ zone }: { zone: FanZone }) {
             <Badge
               key={f}
               variant="outline"
-              className="border-[#1E3155] text-xs text-[#8898C0]"
+              className="border-[#e2e8f0] text-xs text-[#64748b]"
             >
               {f}
             </Badge>
@@ -89,7 +89,7 @@ function FanZoneCard({ zone }: { zone: FanZone }) {
               variant="outline"
               size="sm"
               asChild
-              className="border-[#1E3155] text-[#A8BADC] hover:border-[#2A4070] hover:bg-[#162845] hover:text-white"
+              className="border-[#e2e8f0] text-[#475569] hover:border-[#cbd5e1] hover:bg-[#f8fafc] hover:text-[#0f172a]"
             >
               <a href={zone.website} target="_blank" rel="noopener noreferrer">
                 Visit site →
@@ -110,9 +110,9 @@ export function FanZoneGrid({ zones }: { zones: FanZone[] }) {
 
   return (
     <div>
-      <Alert className="mb-8 border-[#1E3155] bg-[#162845]/50 text-[#C8D8F0]">
-        <Info className="h-4 w-4 text-[#8898C0]" />
-        <AlertDescription className="text-[#A8BADC]">
+      <Alert className="mb-8 border-[#e2e8f0] bg-[#f8fafc] text-[#334155]">
+        <Info className="h-4 w-4 text-[#64748b]" />
+        <AlertDescription className="text-[#475569]">
           Programming details for many fan zones are still being announced by the NYNJ
           Host Committee. Check each venue&apos;s official page for the latest schedule and
           ticketing info.
@@ -129,7 +129,7 @@ export function FanZoneGrid({ zones }: { zones: FanZone[] }) {
           <ToggleGroupItem
             key={b}
             value={b}
-            className="rounded-full border border-[#1E3155] bg-[#0C1830] px-4 text-[#A8BADC] data-[state=on]:border-[#C9FF00] data-[state=on]:bg-[#C9FF00]/10 data-[state=on]:text-[#C9FF00]"
+            className="rounded-full border border-[#e2e8f0] bg-white px-4 text-[#475569] data-[state=on]:border-[#7B2FBE] data-[state=on]:bg-[#7B2FBE]/10 data-[state=on]:text-[#7B2FBE]"
           >
             {b}
           </ToggleGroupItem>
@@ -137,7 +137,7 @@ export function FanZoneGrid({ zones }: { zones: FanZone[] }) {
       </ToggleGroup>
 
       {displayed.length === 0 ? (
-        <p className="text-[#6070A0]">No fan zones found for this area yet.</p>
+        <p className="text-[#94a3b8]">No fan zones found for this area yet.</p>
       ) : (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
           {displayed.map((zone) => (

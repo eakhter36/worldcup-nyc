@@ -30,7 +30,7 @@ export function SiteHeader() {
   const isActive = useIsActive();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-[#162845] bg-[#040A18]/95 backdrop-blur-sm">
+    <header className="sticky top-0 z-50 border-b border-[#e2e8f0] bg-white/95 backdrop-blur-sm">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
         {/* Wordmark + logo */}
         <Link href="/" className="flex items-center gap-2.5">
@@ -41,8 +41,8 @@ export function SiteHeader() {
             height={36}
             className="object-contain"
           />
-          <span className="text-lg font-bold text-white">
-            World Cup <span className="text-[#C9FF00]">NYC</span>
+          <span className="text-lg font-bold text-[#0f172a]">
+            World Cup <span className="text-[#7B2FBE]">NYC</span>
           </span>
         </Link>
 
@@ -54,8 +54,8 @@ export function SiteHeader() {
               href={href}
               className={`text-sm transition-colors ${
                 isActive(href)
-                  ? "font-semibold text-[#C9FF00]"
-                  : "text-[#8898C0] hover:text-white"
+                  ? "font-semibold text-[#7B2FBE]"
+                  : "text-[#64748b] hover:text-[#0f172a]"
               }`}
             >
               {label}
@@ -68,14 +68,14 @@ export function SiteHeader() {
           <SheetTrigger asChild>
             <button
               aria-label="Open navigation menu"
-              className="rounded-md p-1.5 text-[#8898C0] hover:text-white md:hidden"
+              className="rounded-md p-1.5 text-[#64748b] hover:text-[#0f172a] md:hidden"
             >
               <Menu className="h-5 w-5" />
             </button>
           </SheetTrigger>
           <SheetContent
             side="right"
-            className="w-64 border-[#162845] bg-[#040A18] p-0"
+            className="w-64 border-[#e2e8f0] bg-white p-0"
           >
             <SheetTitle className="sr-only">Navigation</SheetTitle>
             <div className="flex h-full flex-col pt-14">
@@ -87,8 +87,8 @@ export function SiteHeader() {
                     onClick={() => setOpen(false)}
                     className={`rounded-lg px-4 py-3 text-sm transition-colors ${
                       isActive(href)
-                        ? "bg-[#162845] font-semibold text-[#C9FF00]"
-                        : "text-[#8898C0] hover:bg-[#0C1830] hover:text-white"
+                        ? "bg-[#7B2FBE]/10 font-semibold text-[#7B2FBE]"
+                        : "text-[#475569] hover:bg-[#f1f5f9] hover:text-[#0f172a]"
                     }`}
                   >
                     {label}

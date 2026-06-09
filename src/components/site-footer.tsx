@@ -19,7 +19,7 @@ export function SiteFooter() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-[#162845] bg-[#040A18]">
+    <footer className="border-t border-[#e2e8f0] bg-white">
       <div className="mx-auto max-w-7xl px-4 py-12">
         <div className="grid grid-cols-1 gap-10 sm:grid-cols-3">
           {/* Col 1 — Wordmark + logo */}
@@ -32,11 +32,11 @@ export function SiteFooter() {
                 height={40}
                 className="object-contain"
               />
-              <p className="text-lg font-bold text-white">
-                World Cup <span className="text-[#C9FF00]">NYC</span>
+              <p className="text-lg font-bold text-[#0f172a]">
+                World Cup <span className="text-[#7B2FBE]">NYC</span>
               </p>
             </div>
-            <p className="text-sm leading-relaxed text-[#6070A0]">
+            <p className="text-sm leading-relaxed text-[#64748b]">
               A free guide to the 8 FIFA World Cup 2026 matches at MetLife
               Stadium and everything happening across NYC this summer.
             </p>
@@ -44,7 +44,7 @@ export function SiteFooter() {
 
           {/* Col 2 — Pages */}
           <div>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-[#6070A0]">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-[#94a3b8]">
               Pages
             </h3>
             <ul className="mt-3 space-y-2">
@@ -52,7 +52,7 @@ export function SiteFooter() {
                 <li key={href}>
                   <Link
                     href={href}
-                    className="text-sm text-[#8898C0] transition-colors hover:text-white"
+                    className="text-sm text-[#64748b] transition-colors hover:text-[#0f172a]"
                   >
                     {label}
                   </Link>
@@ -63,7 +63,7 @@ export function SiteFooter() {
 
           {/* Col 3 — Official Sources */}
           <div>
-            <h3 className="text-xs font-semibold uppercase tracking-wider text-[#6070A0]">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-[#94a3b8]">
               Official Sources
             </h3>
             <ul className="mt-3 space-y-2">
@@ -73,7 +73,7 @@ export function SiteFooter() {
                     href={href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-sm text-[#8898C0] transition-colors hover:text-white"
+                    className="text-sm text-[#64748b] transition-colors hover:text-[#0f172a]"
                   >
                     {label} →
                   </a>
@@ -84,7 +84,7 @@ export function SiteFooter() {
         </div>
 
         {/* Bottom row */}
-        <div className="mt-10 border-t border-[#162845] pt-6 text-xs text-[#4D5F82]">
+        <div className="mt-10 border-t border-[#e2e8f0] pt-6 text-xs text-[#94a3b8]">
           © {year} World Cup NYC · Not affiliated with FIFA
         </div>
       </div>

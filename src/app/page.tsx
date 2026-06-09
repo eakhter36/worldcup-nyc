@@ -34,18 +34,18 @@ export default function Home() {
   const nextMatch = getNextMatch();
 
   return (
-    <main className="flex flex-col min-h-screen bg-[#040A18] text-white">
+    <main className="flex flex-col min-h-screen bg-[#f8fafc] text-[#0f172a]">
       {/* Hero */}
       <section className="flex flex-col items-center justify-center px-4 py-24 text-center">
-        <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[#1E3155] px-4 py-1.5 text-xs uppercase tracking-widest text-[#8898C0]">
+        <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[#e2e8f0] px-4 py-1.5 text-xs uppercase tracking-widest text-[#64748b]">
           MetLife Stadium · East Rutherford, NJ
         </div>
 
-        <h1 className="mt-4 text-5xl font-extrabold tracking-tight text-white sm:text-7xl">
-          World Cup <span className="text-[#C9FF00]">NYC</span>
+        <h1 className="mt-4 text-5xl font-extrabold tracking-tight text-[#0f172a] sm:text-7xl">
+          World Cup <span className="text-[#7B2FBE]">NYC</span>
         </h1>
 
-        <p className="mt-6 max-w-xl text-base text-[#8898C0] sm:text-lg">
+        <p className="mt-6 max-w-xl text-base text-[#64748b] sm:text-lg">
           Your guide to the 8 matches at MetLife Stadium and everything
           happening across NYC this summer.
         </p>
@@ -60,12 +60,12 @@ export default function Home() {
       <section id="schedule" className="flex-1 px-4 pb-16">
         <div className="mx-auto max-w-5xl">
           <div className="mb-8 flex items-end justify-between">
-            <h2 className="text-2xl font-bold tracking-tight text-white">
+            <h2 className="text-2xl font-bold tracking-tight text-[#0f172a]">
               MetLife Schedule
             </h2>
             <Link
               href="/schedule"
-              className="text-sm text-[#C9FF00] hover:text-[#C9FF00]/80 underline underline-offset-2"
+              className="text-sm text-[#7B2FBE] hover:text-[#7B2FBE]/80 underline underline-offset-2"
             >
               View all 104 matches →
             </Link>

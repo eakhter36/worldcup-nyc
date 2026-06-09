@@ -10,8 +10,8 @@ const VenueMap = dynamic(
   {
     ssr: false,
     loading: () => (
-      <div className="h-full w-full animate-pulse bg-[#0C1830] rounded-xl flex items-center justify-center">
-        <span className="text-[#4D5F82] text-sm">Loading map…</span>
+      <div className="h-full w-full animate-pulse bg-[#f1f5f9] rounded-xl flex items-center justify-center">
+        <span className="text-[#94a3b8] text-sm">Loading map…</span>
       </div>
     ),
   }
@@ -74,15 +74,15 @@ export function VenueMapFilters({ markers, totalCount }: { markers: VenueMarker[
   return (
     <>
       <div className="px-4 pt-10 pb-4 mx-auto w-full max-w-7xl">
-        <div className="mb-2 inline-flex items-center gap-2 rounded-full border border-[#1E3155] px-3 py-1 text-xs uppercase tracking-widest text-[#8898C0]">
+        <div className="mb-2 inline-flex items-center gap-2 rounded-full border border-[#e2e8f0] px-3 py-1 text-xs uppercase tracking-widest text-[#64748b]">
           NYC 2026 World Cup
         </div>
-        <h1 className="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">Venue Map</h1>
-        <p className="mt-2 text-sm text-[#8898C0]">
+        <h1 className="text-3xl font-extrabold tracking-tight text-[#0f172a] sm:text-4xl">Venue Map</h1>
+        <p className="mt-2 text-sm text-[#64748b]">
           Showing{" "}
-          <span className="font-semibold text-white">{filtered.length.toLocaleString()}</span>{" "}
+          <span className="font-semibold text-[#0f172a]">{filtered.length.toLocaleString()}</span>{" "}
           of{" "}
-          <span className="font-semibold text-white">{totalCount.toLocaleString()}</span>{" "}
+          <span className="font-semibold text-[#0f172a]">{totalCount.toLocaleString()}</span>{" "}
           venues. Hover for details · Click to open in Google Maps.
         </p>
 
@@ -91,7 +91,7 @@ export function VenueMapFilters({ markers, totalCount }: { markers: VenueMarker[
           {LEGEND.map(({ color, label }) => (
             <div key={label} className="flex items-center gap-1.5">
               <span className="inline-block h-3 w-3 rounded-full" style={{ backgroundColor: color }} />
-              <span className="text-xs text-[#8898C0]">{label}</span>
+              <span className="text-xs text-[#64748b]">{label}</span>
             </div>
           ))}
         </div>
@@ -107,7 +107,7 @@ export function VenueMapFilters({ markers, totalCount }: { markers: VenueMarker[
         {hasFilters && (
           <button
             onClick={() => { setBoroughs([]); setNeighborhoods([]); setVenueTypes([]); setCountries([]); }}
-            className="mt-2 text-xs text-[#6070A0] underline hover:text-[#A8BADC]"
+            className="mt-2 text-xs text-[#64748b] underline hover:text-[#334155]"
           >
             Clear filters
           </button>
@@ -115,7 +115,7 @@ export function VenueMapFilters({ markers, totalCount }: { markers: VenueMarker[
       </div>
 
       <div className="flex-1 px-4 pb-6 mx-auto w-full max-w-7xl" style={{ minHeight: "600px" }}>
-        <div className="h-[70vh] min-h-[500px] w-full overflow-hidden rounded-xl border border-[#162845]">
+        <div className="h-[70vh] min-h-[500px] w-full overflow-hidden rounded-xl border border-[#e2e8f0]">
           <VenueMap markers={filtered} />
         </div>
       </div>
